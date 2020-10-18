@@ -1,0 +1,10 @@
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\05.SquareRoot\bin\Debug\netcoreapp3.0\05.SquareRoot.exe
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\05.SquareRoot\bin\Debug\netcoreapp3.0\05.SquareRoot.deps.json
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\05.SquareRoot\bin\Debug\netcoreapp3.0\05.SquareRoot.runtimeconfig.json
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\05.SquareRoot\bin\Debug\netcoreapp3.0\05.SquareRoot.runtimeconfig.dev.json
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\05.SquareRoot\bin\Debug\netcoreapp3.0\05.SquareRoot.dll
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\05.SquareRoot\bin\Debug\netcoreapp3.0\05.SquareRoot.pdb
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\05.SquareRoot\obj\Debug\netcoreapp3.0\05.SquareRoot.AssemblyInfoInputs.cache
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\05.SquareRoot\obj\Debug\netcoreapp3.0\05.SquareRoot.AssemblyInfo.cs
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\05.SquareRoot\obj\Debug\netcoreapp3.0\05.SquareRoot.dll
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\05.SquareRoot\obj\Debug\netcoreapp3.0\05.SquareRoot.pdb

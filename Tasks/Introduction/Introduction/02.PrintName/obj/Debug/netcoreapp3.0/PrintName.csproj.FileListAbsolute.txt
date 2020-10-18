@@ -1,0 +1,11 @@
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\bin\Debug\netcoreapp3.0\PrintName.exe
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\bin\Debug\netcoreapp3.0\PrintName.deps.json
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\bin\Debug\netcoreapp3.0\PrintName.runtimeconfig.json
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\bin\Debug\netcoreapp3.0\PrintName.runtimeconfig.dev.json
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\bin\Debug\netcoreapp3.0\PrintName.dll
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\bin\Debug\netcoreapp3.0\PrintName.pdb
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\obj\Debug\netcoreapp3.0\PrintName.csprojAssemblyReference.cache
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\obj\Debug\netcoreapp3.0\PrintName.AssemblyInfoInputs.cache
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\obj\Debug\netcoreapp3.0\PrintName.AssemblyInfo.cs
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\obj\Debug\netcoreapp3.0\PrintName.dll
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintName\obj\Debug\netcoreapp3.0\PrintName.pdb

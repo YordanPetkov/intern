@@ -1,0 +1,11 @@
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\bin\Debug\netcoreapp3.0\PrintNumbers.exe
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\bin\Debug\netcoreapp3.0\PrintNumbers.deps.json
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\bin\Debug\netcoreapp3.0\PrintNumbers.runtimeconfig.json
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\bin\Debug\netcoreapp3.0\PrintNumbers.runtimeconfig.dev.json
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\bin\Debug\netcoreapp3.0\PrintNumbers.dll
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\bin\Debug\netcoreapp3.0\PrintNumbers.pdb
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\obj\Debug\netcoreapp3.0\PrintNumbers.csprojAssemblyReference.cache
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\obj\Debug\netcoreapp3.0\PrintNumbers.AssemblyInfoInputs.cache
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\obj\Debug\netcoreapp3.0\PrintNumbers.AssemblyInfo.cs
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\obj\Debug\netcoreapp3.0\PrintNumbers.dll
+C:\YRD\Programming\intern\Tasks\Introduction\Introduction\PrintNumbers\obj\Debug\netcoreapp3.0\PrintNumbers.pdb
