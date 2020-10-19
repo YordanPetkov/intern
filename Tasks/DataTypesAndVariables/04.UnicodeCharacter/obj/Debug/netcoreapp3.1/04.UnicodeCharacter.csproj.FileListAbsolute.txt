@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\bin\Debug\netcoreapp3.1\04.UnicodeCharacter.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\bin\Debug\netcoreapp3.1\04.UnicodeCharacter.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\bin\Debug\netcoreapp3.1\04.UnicodeCharacter.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\bin\Debug\netcoreapp3.1\04.UnicodeCharacter.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\bin\Debug\netcoreapp3.1\04.UnicodeCharacter.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\bin\Debug\netcoreapp3.1\04.UnicodeCharacter.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\obj\Debug\netcoreapp3.1\04.UnicodeCharacter.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\obj\Debug\netcoreapp3.1\04.UnicodeCharacter.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\obj\Debug\netcoreapp3.1\04.UnicodeCharacter.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\obj\Debug\netcoreapp3.1\04.UnicodeCharacter.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\obj\Debug\netcoreapp3.1\04.UnicodeCharacter.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\04.UnicodeCharacter\obj\Debug\netcoreapp3.1\04.UnicodeCharacter.genruntimeconfig.cache

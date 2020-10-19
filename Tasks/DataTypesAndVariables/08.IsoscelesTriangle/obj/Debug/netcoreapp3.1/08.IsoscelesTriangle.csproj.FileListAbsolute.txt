@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\netcoreapp3.1\08.IsoscelesTriangle.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\netcoreapp3.1\08.IsoscelesTriangle.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\netcoreapp3.1\08.IsoscelesTriangle.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\netcoreapp3.1\08.IsoscelesTriangle.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\netcoreapp3.1\08.IsoscelesTriangle.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\netcoreapp3.1\08.IsoscelesTriangle.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\netcoreapp3.1\08.IsoscelesTriangle.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\netcoreapp3.1\08.IsoscelesTriangle.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\netcoreapp3.1\08.IsoscelesTriangle.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\netcoreapp3.1\08.IsoscelesTriangle.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\netcoreapp3.1\08.IsoscelesTriangle.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\netcoreapp3.1\08.IsoscelesTriangle.genruntimeconfig.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\netcoreapp3.1\08.IsoscelesTriangle.csprojAssemblyReference.cache

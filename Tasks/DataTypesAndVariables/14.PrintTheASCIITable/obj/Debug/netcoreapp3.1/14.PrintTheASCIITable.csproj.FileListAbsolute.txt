@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\netcoreapp3.1\14.PrintTheASCIITable.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\netcoreapp3.1\14.PrintTheASCIITable.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\netcoreapp3.1\14.PrintTheASCIITable.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\netcoreapp3.1\14.PrintTheASCIITable.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\netcoreapp3.1\14.PrintTheASCIITable.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\bin\Debug\netcoreapp3.1\14.PrintTheASCIITable.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\netcoreapp3.1\14.PrintTheASCIITable.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\netcoreapp3.1\14.PrintTheASCIITable.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\netcoreapp3.1\14.PrintTheASCIITable.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\netcoreapp3.1\14.PrintTheASCIITable.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\netcoreapp3.1\14.PrintTheASCIITable.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\14.PrintTheASCIITable\obj\Debug\netcoreapp3.1\14.PrintTheASCIITable.genruntimeconfig.cache

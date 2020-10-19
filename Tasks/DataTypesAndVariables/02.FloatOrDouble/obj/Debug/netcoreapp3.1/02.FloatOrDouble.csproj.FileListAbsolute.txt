@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\bin\Debug\netcoreapp3.1\02.FloatOrDouble.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\bin\Debug\netcoreapp3.1\02.FloatOrDouble.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\bin\Debug\netcoreapp3.1\02.FloatOrDouble.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\bin\Debug\netcoreapp3.1\02.FloatOrDouble.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\bin\Debug\netcoreapp3.1\02.FloatOrDouble.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\bin\Debug\netcoreapp3.1\02.FloatOrDouble.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\obj\Debug\netcoreapp3.1\02.FloatOrDouble.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\obj\Debug\netcoreapp3.1\02.FloatOrDouble.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\obj\Debug\netcoreapp3.1\02.FloatOrDouble.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\obj\Debug\netcoreapp3.1\02.FloatOrDouble.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\obj\Debug\netcoreapp3.1\02.FloatOrDouble.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\02.FloatOrDouble\obj\Debug\netcoreapp3.1\02.FloatOrDouble.genruntimeconfig.cache

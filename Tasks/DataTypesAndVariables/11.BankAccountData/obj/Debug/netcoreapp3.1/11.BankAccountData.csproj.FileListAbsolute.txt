@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\bin\Debug\netcoreapp3.1\11.BankAccountData.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\bin\Debug\netcoreapp3.1\11.BankAccountData.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\bin\Debug\netcoreapp3.1\11.BankAccountData.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\bin\Debug\netcoreapp3.1\11.BankAccountData.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\bin\Debug\netcoreapp3.1\11.BankAccountData.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\bin\Debug\netcoreapp3.1\11.BankAccountData.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\obj\Debug\netcoreapp3.1\11.BankAccountData.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\obj\Debug\netcoreapp3.1\11.BankAccountData.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\obj\Debug\netcoreapp3.1\11.BankAccountData.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\obj\Debug\netcoreapp3.1\11.BankAccountData.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\obj\Debug\netcoreapp3.1\11.BankAccountData.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\obj\Debug\netcoreapp3.1\11.BankAccountData.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\11.BankAccountData\obj\Debug\netcoreapp3.1\11.BankAccountData.genruntimeconfig.cache

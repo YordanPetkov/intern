@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\bin\Debug\netcoreapp3.1\05.BooleanVariable.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\bin\Debug\netcoreapp3.1\05.BooleanVariable.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\bin\Debug\netcoreapp3.1\05.BooleanVariable.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\bin\Debug\netcoreapp3.1\05.BooleanVariable.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\bin\Debug\netcoreapp3.1\05.BooleanVariable.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\bin\Debug\netcoreapp3.1\05.BooleanVariable.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\obj\Debug\netcoreapp3.1\05.BooleanVariable.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\obj\Debug\netcoreapp3.1\05.BooleanVariable.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\obj\Debug\netcoreapp3.1\05.BooleanVariable.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\obj\Debug\netcoreapp3.1\05.BooleanVariable.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\obj\Debug\netcoreapp3.1\05.BooleanVariable.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\05.BooleanVariable\obj\Debug\netcoreapp3.1\05.BooleanVariable.genruntimeconfig.cache

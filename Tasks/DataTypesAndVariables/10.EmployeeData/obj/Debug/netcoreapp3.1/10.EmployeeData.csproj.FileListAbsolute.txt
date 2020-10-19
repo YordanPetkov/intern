@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\bin\Debug\netcoreapp3.1\10.EmployeeData.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\bin\Debug\netcoreapp3.1\10.EmployeeData.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\bin\Debug\netcoreapp3.1\10.EmployeeData.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\bin\Debug\netcoreapp3.1\10.EmployeeData.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\bin\Debug\netcoreapp3.1\10.EmployeeData.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\bin\Debug\netcoreapp3.1\10.EmployeeData.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\obj\Debug\netcoreapp3.1\10.EmployeeData.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\obj\Debug\netcoreapp3.1\10.EmployeeData.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\obj\Debug\netcoreapp3.1\10.EmployeeData.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\obj\Debug\netcoreapp3.1\10.EmployeeData.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\obj\Debug\netcoreapp3.1\10.EmployeeData.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\10.EmployeeData\obj\Debug\netcoreapp3.1\10.EmployeeData.genruntimeconfig.cache

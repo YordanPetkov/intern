@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\bin\Debug\netcoreapp3.1\03.VarInHexFormat.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\bin\Debug\netcoreapp3.1\03.VarInHexFormat.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\bin\Debug\netcoreapp3.1\03.VarInHexFormat.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\bin\Debug\netcoreapp3.1\03.VarInHexFormat.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\bin\Debug\netcoreapp3.1\03.VarInHexFormat.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\bin\Debug\netcoreapp3.1\03.VarInHexFormat.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\obj\Debug\netcoreapp3.1\03.VarInHexFormat.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\obj\Debug\netcoreapp3.1\03.VarInHexFormat.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\obj\Debug\netcoreapp3.1\03.VarInHexFormat.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\obj\Debug\netcoreapp3.1\03.VarInHexFormat.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\obj\Debug\netcoreapp3.1\03.VarInHexFormat.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\obj\Debug\netcoreapp3.1\03.VarInHexFormat.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\03.VarInHexFormat\obj\Debug\netcoreapp3.1\03.VarInHexFormat.genruntimeconfig.cache

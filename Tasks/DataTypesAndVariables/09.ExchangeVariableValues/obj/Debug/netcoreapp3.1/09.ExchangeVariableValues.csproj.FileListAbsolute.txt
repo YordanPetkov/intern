@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\netcoreapp3.1\09.ExchangeVariableValues.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\netcoreapp3.1\09.ExchangeVariableValues.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\netcoreapp3.1\09.ExchangeVariableValues.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\netcoreapp3.1\09.ExchangeVariableValues.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\netcoreapp3.1\09.ExchangeVariableValues.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\netcoreapp3.1\09.ExchangeVariableValues.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\netcoreapp3.1\09.ExchangeVariableValues.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\netcoreapp3.1\09.ExchangeVariableValues.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\netcoreapp3.1\09.ExchangeVariableValues.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\netcoreapp3.1\09.ExchangeVariableValues.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\netcoreapp3.1\09.ExchangeVariableValues.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\netcoreapp3.1\09.ExchangeVariableValues.genruntimeconfig.cache

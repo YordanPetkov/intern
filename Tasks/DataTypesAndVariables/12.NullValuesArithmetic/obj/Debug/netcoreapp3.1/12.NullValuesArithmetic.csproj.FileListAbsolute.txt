@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\netcoreapp3.1\12.NullValuesArithmetic.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\netcoreapp3.1\12.NullValuesArithmetic.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\netcoreapp3.1\12.NullValuesArithmetic.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\netcoreapp3.1\12.NullValuesArithmetic.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\netcoreapp3.1\12.NullValuesArithmetic.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\netcoreapp3.1\12.NullValuesArithmetic.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\netcoreapp3.1\12.NullValuesArithmetic.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\netcoreapp3.1\12.NullValuesArithmetic.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\netcoreapp3.1\12.NullValuesArithmetic.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\netcoreapp3.1\12.NullValuesArithmetic.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\netcoreapp3.1\12.NullValuesArithmetic.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\netcoreapp3.1\12.NullValuesArithmetic.genruntimeconfig.cache

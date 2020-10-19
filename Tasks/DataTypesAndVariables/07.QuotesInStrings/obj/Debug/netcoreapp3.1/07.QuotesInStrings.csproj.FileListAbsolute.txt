@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\bin\Debug\netcoreapp3.1\07.QuotesInStrings.exe
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\bin\Debug\netcoreapp3.1\07.QuotesInStrings.deps.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\bin\Debug\netcoreapp3.1\07.QuotesInStrings.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\bin\Debug\netcoreapp3.1\07.QuotesInStrings.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\bin\Debug\netcoreapp3.1\07.QuotesInStrings.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\bin\Debug\netcoreapp3.1\07.QuotesInStrings.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\obj\Debug\netcoreapp3.1\07.QuotesInStrings.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\obj\Debug\netcoreapp3.1\07.QuotesInStrings.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\obj\Debug\netcoreapp3.1\07.QuotesInStrings.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\obj\Debug\netcoreapp3.1\07.QuotesInStrings.dll
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\obj\Debug\netcoreapp3.1\07.QuotesInStrings.pdb
+D:\Yordan\intern\intern\Tasks\DataTypesAndVariables\07.QuotesInStrings\obj\Debug\netcoreapp3.1\07.QuotesInStrings.genruntimeconfig.cache
