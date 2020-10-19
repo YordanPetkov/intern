@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\bin\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.exe
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\bin\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.deps.json
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\bin\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\bin\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\bin\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.dll
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\bin\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\obj\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\obj\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\obj\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\obj\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.dll
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\obj\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\11.PlayWithTheVSDebugger\obj\Debug\netcoreapp3.1\11.PlayWithTheVSDebugger.genruntimeconfig.cache

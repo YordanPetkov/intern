@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e15XpUgJTFpkgYg5ho89w2deOKUNtqmTIW+g8cRah0dkkogFN4SM9AHfFWF6e7RXvjv6Sd8rIerq9791AAGUsA==",
+  "success": true,
+  "projectFilePath": "D:\\Yordan\\intern\\intern\\Tasks\\Introduction\\02.PrintName\\02.PrintName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\bin\Debug\netcoreapp3.1\08.CurrentDateAndTime.exe
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\bin\Debug\netcoreapp3.1\08.CurrentDateAndTime.deps.json
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\bin\Debug\netcoreapp3.1\08.CurrentDateAndTime.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\bin\Debug\netcoreapp3.1\08.CurrentDateAndTime.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\bin\Debug\netcoreapp3.1\08.CurrentDateAndTime.dll
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\bin\Debug\netcoreapp3.1\08.CurrentDateAndTime.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\obj\Debug\netcoreapp3.1\08.CurrentDateAndTime.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\obj\Debug\netcoreapp3.1\08.CurrentDateAndTime.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\obj\Debug\netcoreapp3.1\08.CurrentDateAndTime.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\obj\Debug\netcoreapp3.1\08.CurrentDateAndTime.dll
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\obj\Debug\netcoreapp3.1\08.CurrentDateAndTime.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\08.CurrentDateAndTime\obj\Debug\netcoreapp3.1\08.CurrentDateAndTime.genruntimeconfig.cache

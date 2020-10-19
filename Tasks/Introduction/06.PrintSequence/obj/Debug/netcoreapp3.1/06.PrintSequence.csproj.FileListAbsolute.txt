@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\bin\Debug\netcoreapp3.1\06.PrintSequence.exe
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\bin\Debug\netcoreapp3.1\06.PrintSequence.deps.json
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\bin\Debug\netcoreapp3.1\06.PrintSequence.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\bin\Debug\netcoreapp3.1\06.PrintSequence.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\bin\Debug\netcoreapp3.1\06.PrintSequence.dll
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\bin\Debug\netcoreapp3.1\06.PrintSequence.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\obj\Debug\netcoreapp3.1\06.PrintSequence.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\obj\Debug\netcoreapp3.1\06.PrintSequence.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\obj\Debug\netcoreapp3.1\06.PrintSequence.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\obj\Debug\netcoreapp3.1\06.PrintSequence.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\obj\Debug\netcoreapp3.1\06.PrintSequence.dll
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\obj\Debug\netcoreapp3.1\06.PrintSequence.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\06.PrintSequence\obj\Debug\netcoreapp3.1\06.PrintSequence.genruntimeconfig.cache

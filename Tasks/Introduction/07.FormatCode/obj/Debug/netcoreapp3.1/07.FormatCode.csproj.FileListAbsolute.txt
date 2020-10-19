@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\bin\Debug\netcoreapp3.1\07.FormatCode.exe
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\bin\Debug\netcoreapp3.1\07.FormatCode.deps.json
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\bin\Debug\netcoreapp3.1\07.FormatCode.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\bin\Debug\netcoreapp3.1\07.FormatCode.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\bin\Debug\netcoreapp3.1\07.FormatCode.dll
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\bin\Debug\netcoreapp3.1\07.FormatCode.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\obj\Debug\netcoreapp3.1\07.FormatCode.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\obj\Debug\netcoreapp3.1\07.FormatCode.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\obj\Debug\netcoreapp3.1\07.FormatCode.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\obj\Debug\netcoreapp3.1\07.FormatCode.dll
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\obj\Debug\netcoreapp3.1\07.FormatCode.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\07.FormatCode\obj\Debug\netcoreapp3.1\07.FormatCode.genruntimeconfig.cache

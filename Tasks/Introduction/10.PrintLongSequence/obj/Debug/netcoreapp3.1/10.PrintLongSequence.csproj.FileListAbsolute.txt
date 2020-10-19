@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\bin\Debug\netcoreapp3.1\10.PrintLongSequence.exe
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\bin\Debug\netcoreapp3.1\10.PrintLongSequence.deps.json
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\bin\Debug\netcoreapp3.1\10.PrintLongSequence.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\bin\Debug\netcoreapp3.1\10.PrintLongSequence.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\bin\Debug\netcoreapp3.1\10.PrintLongSequence.dll
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\bin\Debug\netcoreapp3.1\10.PrintLongSequence.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\obj\Debug\netcoreapp3.1\10.PrintLongSequence.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\obj\Debug\netcoreapp3.1\10.PrintLongSequence.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\obj\Debug\netcoreapp3.1\10.PrintLongSequence.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\obj\Debug\netcoreapp3.1\10.PrintLongSequence.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\obj\Debug\netcoreapp3.1\10.PrintLongSequence.dll
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\obj\Debug\netcoreapp3.1\10.PrintLongSequence.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\10.PrintLongSequence\obj\Debug\netcoreapp3.1\10.PrintLongSequence.genruntimeconfig.cache

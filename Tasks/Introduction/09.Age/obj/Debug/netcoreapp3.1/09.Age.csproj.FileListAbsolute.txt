@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\bin\Debug\netcoreapp3.1\09.Age.exe
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\bin\Debug\netcoreapp3.1\09.Age.deps.json
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\bin\Debug\netcoreapp3.1\09.Age.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\bin\Debug\netcoreapp3.1\09.Age.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\bin\Debug\netcoreapp3.1\09.Age.dll
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\bin\Debug\netcoreapp3.1\09.Age.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\obj\Debug\netcoreapp3.1\09.Age.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\obj\Debug\netcoreapp3.1\09.Age.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\obj\Debug\netcoreapp3.1\09.Age.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\obj\Debug\netcoreapp3.1\09.Age.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\obj\Debug\netcoreapp3.1\09.Age.dll
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\obj\Debug\netcoreapp3.1\09.Age.pdb
+D:\Yordan\intern\intern\Tasks\Introduction\09.Age\obj\Debug\netcoreapp3.1\09.Age.genruntimeconfig.cache

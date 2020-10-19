@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZr3doGYcxo0K1jSg1+WMaGp38D9txvp7Nor5DF2HfKWZS88/CEiCjTf1PpuUfPlkY02NdUGg08moSaAiUl+zw==",
+  "success": true,
+  "projectFilePath": "D:\\Yordan\\intern\\intern\\Tasks\\Introduction\\05.SquareRoot\\05.SquareRoot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
