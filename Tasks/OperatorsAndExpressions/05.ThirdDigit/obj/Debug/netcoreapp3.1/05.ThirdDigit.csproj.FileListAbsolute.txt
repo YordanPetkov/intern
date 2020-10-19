@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\bin\Debug\netcoreapp3.1\05.ThirdDigit.exe
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\bin\Debug\netcoreapp3.1\05.ThirdDigit.deps.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\bin\Debug\netcoreapp3.1\05.ThirdDigit.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\bin\Debug\netcoreapp3.1\05.ThirdDigit.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\bin\Debug\netcoreapp3.1\05.ThirdDigit.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\bin\Debug\netcoreapp3.1\05.ThirdDigit.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\obj\Debug\netcoreapp3.1\05.ThirdDigit.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\obj\Debug\netcoreapp3.1\05.ThirdDigit.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\obj\Debug\netcoreapp3.1\05.ThirdDigit.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\obj\Debug\netcoreapp3.1\05.ThirdDigit.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\obj\Debug\netcoreapp3.1\05.ThirdDigit.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\05.ThirdDigit\obj\Debug\netcoreapp3.1\05.ThirdDigit.genruntimeconfig.cache

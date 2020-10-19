@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\bin\Debug\netcoreapp3.1\02.MoonGravity.exe
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\bin\Debug\netcoreapp3.1\02.MoonGravity.deps.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\bin\Debug\netcoreapp3.1\02.MoonGravity.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\bin\Debug\netcoreapp3.1\02.MoonGravity.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\bin\Debug\netcoreapp3.1\02.MoonGravity.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\bin\Debug\netcoreapp3.1\02.MoonGravity.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\obj\Debug\netcoreapp3.1\02.MoonGravity.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\obj\Debug\netcoreapp3.1\02.MoonGravity.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\obj\Debug\netcoreapp3.1\02.MoonGravity.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\obj\Debug\netcoreapp3.1\02.MoonGravity.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\obj\Debug\netcoreapp3.1\02.MoonGravity.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\02.MoonGravity\obj\Debug\netcoreapp3.1\02.MoonGravity.genruntimeconfig.cache

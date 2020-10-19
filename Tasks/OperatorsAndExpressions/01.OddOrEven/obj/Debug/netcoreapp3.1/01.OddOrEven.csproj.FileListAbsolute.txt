@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\bin\Debug\netcoreapp3.1\01.OddOrEven.exe
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\bin\Debug\netcoreapp3.1\01.OddOrEven.deps.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\bin\Debug\netcoreapp3.1\01.OddOrEven.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\bin\Debug\netcoreapp3.1\01.OddOrEven.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\bin\Debug\netcoreapp3.1\01.OddOrEven.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\bin\Debug\netcoreapp3.1\01.OddOrEven.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\obj\Debug\netcoreapp3.1\01.OddOrEven.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\obj\Debug\netcoreapp3.1\01.OddOrEven.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\obj\Debug\netcoreapp3.1\01.OddOrEven.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\obj\Debug\netcoreapp3.1\01.OddOrEven.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\obj\Debug\netcoreapp3.1\01.OddOrEven.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\01.OddOrEven\obj\Debug\netcoreapp3.1\01.OddOrEven.genruntimeconfig.cache

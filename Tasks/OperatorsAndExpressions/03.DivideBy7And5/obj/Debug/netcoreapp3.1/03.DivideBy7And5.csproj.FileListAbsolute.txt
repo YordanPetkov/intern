@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\netcoreapp3.1\03.DivideBy7And5.exe
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\netcoreapp3.1\03.DivideBy7And5.deps.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\netcoreapp3.1\03.DivideBy7And5.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\netcoreapp3.1\03.DivideBy7And5.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\netcoreapp3.1\03.DivideBy7And5.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\bin\Debug\netcoreapp3.1\03.DivideBy7And5.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\netcoreapp3.1\03.DivideBy7And5.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\netcoreapp3.1\03.DivideBy7And5.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\netcoreapp3.1\03.DivideBy7And5.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\netcoreapp3.1\03.DivideBy7And5.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\netcoreapp3.1\03.DivideBy7And5.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\netcoreapp3.1\03.DivideBy7And5.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\03.DivideBy7And5\obj\Debug\netcoreapp3.1\03.DivideBy7And5.genruntimeconfig.cache

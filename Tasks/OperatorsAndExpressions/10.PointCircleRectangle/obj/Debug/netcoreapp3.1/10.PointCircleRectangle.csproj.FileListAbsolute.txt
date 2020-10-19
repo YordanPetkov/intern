@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\bin\Debug\netcoreapp3.1\10.PointCircleRectangle.exe
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\bin\Debug\netcoreapp3.1\10.PointCircleRectangle.deps.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\bin\Debug\netcoreapp3.1\10.PointCircleRectangle.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\bin\Debug\netcoreapp3.1\10.PointCircleRectangle.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\bin\Debug\netcoreapp3.1\10.PointCircleRectangle.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\bin\Debug\netcoreapp3.1\10.PointCircleRectangle.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\obj\Debug\netcoreapp3.1\10.PointCircleRectangle.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\obj\Debug\netcoreapp3.1\10.PointCircleRectangle.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\obj\Debug\netcoreapp3.1\10.PointCircleRectangle.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\obj\Debug\netcoreapp3.1\10.PointCircleRectangle.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\obj\Debug\netcoreapp3.1\10.PointCircleRectangle.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\obj\Debug\netcoreapp3.1\10.PointCircleRectangle.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\10.PointCircleRectangle\obj\Debug\netcoreapp3.1\10.PointCircleRectangle.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\bin\Debug\netcoreapp3.1\09.Trapezoids.exe
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\bin\Debug\netcoreapp3.1\09.Trapezoids.deps.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\bin\Debug\netcoreapp3.1\09.Trapezoids.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\bin\Debug\netcoreapp3.1\09.Trapezoids.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\bin\Debug\netcoreapp3.1\09.Trapezoids.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\bin\Debug\netcoreapp3.1\09.Trapezoids.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\obj\Debug\netcoreapp3.1\09.Trapezoids.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\obj\Debug\netcoreapp3.1\09.Trapezoids.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\obj\Debug\netcoreapp3.1\09.Trapezoids.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\obj\Debug\netcoreapp3.1\09.Trapezoids.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\obj\Debug\netcoreapp3.1\09.Trapezoids.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\09.Trapezoids\obj\Debug\netcoreapp3.1\09.Trapezoids.genruntimeconfig.cache

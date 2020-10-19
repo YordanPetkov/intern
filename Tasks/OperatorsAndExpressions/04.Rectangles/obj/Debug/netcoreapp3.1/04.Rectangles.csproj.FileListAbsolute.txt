@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\bin\Debug\netcoreapp3.1\04.Rectangles.exe
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\bin\Debug\netcoreapp3.1\04.Rectangles.deps.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\bin\Debug\netcoreapp3.1\04.Rectangles.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\bin\Debug\netcoreapp3.1\04.Rectangles.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\bin\Debug\netcoreapp3.1\04.Rectangles.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\bin\Debug\netcoreapp3.1\04.Rectangles.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\obj\Debug\netcoreapp3.1\04.Rectangles.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\obj\Debug\netcoreapp3.1\04.Rectangles.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\obj\Debug\netcoreapp3.1\04.Rectangles.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\obj\Debug\netcoreapp3.1\04.Rectangles.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\obj\Debug\netcoreapp3.1\04.Rectangles.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\obj\Debug\netcoreapp3.1\04.Rectangles.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\04.Rectangles\obj\Debug\netcoreapp3.1\04.Rectangles.genruntimeconfig.cache

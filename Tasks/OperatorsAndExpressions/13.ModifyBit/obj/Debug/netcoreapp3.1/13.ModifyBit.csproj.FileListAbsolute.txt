@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\bin\Debug\netcoreapp3.1\13.ModifyBit.exe
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\bin\Debug\netcoreapp3.1\13.ModifyBit.deps.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\bin\Debug\netcoreapp3.1\13.ModifyBit.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\bin\Debug\netcoreapp3.1\13.ModifyBit.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\bin\Debug\netcoreapp3.1\13.ModifyBit.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\bin\Debug\netcoreapp3.1\13.ModifyBit.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\obj\Debug\netcoreapp3.1\13.ModifyBit.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\obj\Debug\netcoreapp3.1\13.ModifyBit.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\obj\Debug\netcoreapp3.1\13.ModifyBit.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\obj\Debug\netcoreapp3.1\13.ModifyBit.dll
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\obj\Debug\netcoreapp3.1\13.ModifyBit.pdb
+D:\Yordan\intern\intern\Tasks\OperatorsAndExpressions\13.ModifyBit\obj\Debug\netcoreapp3.1\13.ModifyBit.genruntimeconfig.cache
