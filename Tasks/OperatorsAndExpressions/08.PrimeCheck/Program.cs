@@ -13,7 +13,7 @@ namespace _08.PrimeCheck
 
             if (number < 2) isPrime = false;
 
-            for (int i = 2; i < number; i++)
+            for (int i = 2; i < Math.Sqrt(number); i++)
             {
                 if( number % i == 0)
                 {

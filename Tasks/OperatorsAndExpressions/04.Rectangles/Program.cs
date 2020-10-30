@@ -6,7 +6,10 @@ namespace _04.Rectangles
     {
         static void Main(string[] args)
         {
-            double width, height, area, perimeter;
+            double width;
+            double height;
+            double area;
+            double perimeter;
 
             width = double.Parse(Console.ReadLine());
             height = double.Parse(Console.ReadLine());

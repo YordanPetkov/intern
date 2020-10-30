@@ -11,7 +11,7 @@ namespace _10.EmployeeData
             ushort age = 20;
             char gender = 'm';
             string personalID = "0048182201";
-            ulong employeeNumber = 27561107;
+            string employeeNumber = "27561107";
 
             Console.WriteLine("Name : {0} {1}", firstName, lastName);
             Console.WriteLine("Age : {0}", age);
