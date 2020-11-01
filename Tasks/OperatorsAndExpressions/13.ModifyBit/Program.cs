@@ -6,15 +6,18 @@ namespace _13.ModifyBit
     {
         static void Main(string[] args)
         {
-            int number, pos, bitValue;
-            int result;
+            long number;
+            int pos;
+            int bitValue;
+            long result;
 
             number = int.Parse(Console.ReadLine());
             pos = int.Parse(Console.ReadLine());
             bitValue = int.Parse(Console.ReadLine());
 
-            if (bitValue == 1) result = number | (bitValue << pos);
-            else result = number & ~(bitValue << pos);
+            if (bitValue == 1) result = number | (1 << pos);
+            else result = number & ~(1 << pos);
+
 
             Console.WriteLine(result);
         }

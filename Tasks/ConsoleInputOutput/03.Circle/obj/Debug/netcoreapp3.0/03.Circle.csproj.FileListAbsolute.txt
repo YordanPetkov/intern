@@ -1,0 +1,11 @@
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\bin\Debug\netcoreapp3.0\03.Circle.exe
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\bin\Debug\netcoreapp3.0\03.Circle.deps.json
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\bin\Debug\netcoreapp3.0\03.Circle.runtimeconfig.json
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\bin\Debug\netcoreapp3.0\03.Circle.runtimeconfig.dev.json
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\bin\Debug\netcoreapp3.0\03.Circle.dll
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\bin\Debug\netcoreapp3.0\03.Circle.pdb
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\obj\Debug\netcoreapp3.0\03.Circle.csprojAssemblyReference.cache
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\obj\Debug\netcoreapp3.0\03.Circle.AssemblyInfoInputs.cache
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\obj\Debug\netcoreapp3.0\03.Circle.AssemblyInfo.cs
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\obj\Debug\netcoreapp3.0\03.Circle.dll
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\03.Circle\obj\Debug\netcoreapp3.0\03.Circle.pdb

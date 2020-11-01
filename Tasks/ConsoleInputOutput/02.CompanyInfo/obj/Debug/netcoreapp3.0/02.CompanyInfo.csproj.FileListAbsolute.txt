@@ -1,0 +1,11 @@
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\bin\Debug\netcoreapp3.0\02.CompanyInfo.exe
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\bin\Debug\netcoreapp3.0\02.CompanyInfo.deps.json
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\bin\Debug\netcoreapp3.0\02.CompanyInfo.runtimeconfig.json
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\bin\Debug\netcoreapp3.0\02.CompanyInfo.runtimeconfig.dev.json
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\bin\Debug\netcoreapp3.0\02.CompanyInfo.dll
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\bin\Debug\netcoreapp3.0\02.CompanyInfo.pdb
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\obj\Debug\netcoreapp3.0\02.CompanyInfo.csprojAssemblyReference.cache
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\obj\Debug\netcoreapp3.0\02.CompanyInfo.AssemblyInfoInputs.cache
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\obj\Debug\netcoreapp3.0\02.CompanyInfo.AssemblyInfo.cs
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\obj\Debug\netcoreapp3.0\02.CompanyInfo.dll
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\02.CompanyInfo\obj\Debug\netcoreapp3.0\02.CompanyInfo.pdb

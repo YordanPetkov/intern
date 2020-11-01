@@ -1,0 +1,11 @@
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\bin\Debug\netcoreapp3.0\01.SumOfThreeNumbers.exe
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\bin\Debug\netcoreapp3.0\01.SumOfThreeNumbers.deps.json
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\bin\Debug\netcoreapp3.0\01.SumOfThreeNumbers.runtimeconfig.json
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\bin\Debug\netcoreapp3.0\01.SumOfThreeNumbers.runtimeconfig.dev.json
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\bin\Debug\netcoreapp3.0\01.SumOfThreeNumbers.dll
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\bin\Debug\netcoreapp3.0\01.SumOfThreeNumbers.pdb
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\obj\Debug\netcoreapp3.0\01.SumOfThreeNumbers.csprojAssemblyReference.cache
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\obj\Debug\netcoreapp3.0\01.SumOfThreeNumbers.AssemblyInfoInputs.cache
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\obj\Debug\netcoreapp3.0\01.SumOfThreeNumbers.AssemblyInfo.cs
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\obj\Debug\netcoreapp3.0\01.SumOfThreeNumbers.dll
+C:\YRD\Programming\intern\intern\Tasks\ConsoleInputOutput\01.SumOfThreeNumbers\obj\Debug\netcoreapp3.0\01.SumOfThreeNumbers.pdb
