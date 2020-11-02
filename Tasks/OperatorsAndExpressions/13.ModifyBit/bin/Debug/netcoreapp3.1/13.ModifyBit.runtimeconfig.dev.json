@@ -2,7 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\Tester.GRAFIXOFT\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages"
+      "C:\\Users\\Pc\\.nuget\\packages"
     ]
   }
 }

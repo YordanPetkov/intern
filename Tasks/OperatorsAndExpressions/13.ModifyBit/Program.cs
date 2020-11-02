@@ -16,7 +16,7 @@ namespace _13.ModifyBit
             bitValue = int.Parse(Console.ReadLine());
 
             if (bitValue == 1) result = number | (1 << pos);
-            else result = number & ~(1 << pos);
+            else result = number & (~(1 << pos));
 
 
             Console.WriteLine(result);
