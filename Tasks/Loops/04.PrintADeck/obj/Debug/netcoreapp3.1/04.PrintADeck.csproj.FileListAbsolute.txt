@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\bin\Debug\netcoreapp3.1\04.PrintADeck.exe
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\bin\Debug\netcoreapp3.1\04.PrintADeck.deps.json
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\bin\Debug\netcoreapp3.1\04.PrintADeck.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\bin\Debug\netcoreapp3.1\04.PrintADeck.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\bin\Debug\netcoreapp3.1\04.PrintADeck.dll
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\bin\Debug\netcoreapp3.1\04.PrintADeck.pdb
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\obj\Debug\netcoreapp3.1\04.PrintADeck.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\obj\Debug\netcoreapp3.1\04.PrintADeck.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\obj\Debug\netcoreapp3.1\04.PrintADeck.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\obj\Debug\netcoreapp3.1\04.PrintADeck.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\obj\Debug\netcoreapp3.1\04.PrintADeck.dll
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\obj\Debug\netcoreapp3.1\04.PrintADeck.pdb
+D:\Yordan\intern\intern\Tasks\Loops\04.PrintADeck\obj\Debug\netcoreapp3.1\04.PrintADeck.genruntimeconfig.cache

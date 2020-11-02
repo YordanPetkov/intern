@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\bin\Debug\netcoreapp3.1\02.NotDivisibleNumbers.exe
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\bin\Debug\netcoreapp3.1\02.NotDivisibleNumbers.deps.json
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\bin\Debug\netcoreapp3.1\02.NotDivisibleNumbers.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\bin\Debug\netcoreapp3.1\02.NotDivisibleNumbers.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\bin\Debug\netcoreapp3.1\02.NotDivisibleNumbers.dll
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\bin\Debug\netcoreapp3.1\02.NotDivisibleNumbers.pdb
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\obj\Debug\netcoreapp3.1\02.NotDivisibleNumbers.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\obj\Debug\netcoreapp3.1\02.NotDivisibleNumbers.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\obj\Debug\netcoreapp3.1\02.NotDivisibleNumbers.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\obj\Debug\netcoreapp3.1\02.NotDivisibleNumbers.dll
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\obj\Debug\netcoreapp3.1\02.NotDivisibleNumbers.pdb
+D:\Yordan\intern\intern\Tasks\Loops\02.NotDivisibleNumbers\obj\Debug\netcoreapp3.1\02.NotDivisibleNumbers.genruntimeconfig.cache

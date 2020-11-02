@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\bin\Debug\netcoreapp3.1\09.MatrixOfNumbers.exe
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\bin\Debug\netcoreapp3.1\09.MatrixOfNumbers.deps.json
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\bin\Debug\netcoreapp3.1\09.MatrixOfNumbers.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\bin\Debug\netcoreapp3.1\09.MatrixOfNumbers.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\bin\Debug\netcoreapp3.1\09.MatrixOfNumbers.dll
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\bin\Debug\netcoreapp3.1\09.MatrixOfNumbers.pdb
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\09.MatrixOfNumbers.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\09.MatrixOfNumbers.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\09.MatrixOfNumbers.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\09.MatrixOfNumbers.dll
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\09.MatrixOfNumbers.pdb
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\09.MatrixOfNumbers.genruntimeconfig.cache

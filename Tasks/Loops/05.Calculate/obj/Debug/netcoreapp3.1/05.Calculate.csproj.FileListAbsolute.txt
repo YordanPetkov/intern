@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\bin\Debug\netcoreapp3.1\05.Calculate.exe
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\bin\Debug\netcoreapp3.1\05.Calculate.deps.json
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\bin\Debug\netcoreapp3.1\05.Calculate.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\bin\Debug\netcoreapp3.1\05.Calculate.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\bin\Debug\netcoreapp3.1\05.Calculate.dll
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\bin\Debug\netcoreapp3.1\05.Calculate.pdb
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\obj\Debug\netcoreapp3.1\05.Calculate.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\obj\Debug\netcoreapp3.1\05.Calculate.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\obj\Debug\netcoreapp3.1\05.Calculate.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\obj\Debug\netcoreapp3.1\05.Calculate.dll
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\obj\Debug\netcoreapp3.1\05.Calculate.pdb
+D:\Yordan\intern\intern\Tasks\Loops\05.Calculate\obj\Debug\netcoreapp3.1\05.Calculate.genruntimeconfig.cache
