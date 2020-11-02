@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\bin\Debug\netcoreapp3.1\11.Interval.exe
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\bin\Debug\netcoreapp3.1\11.Interval.deps.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\bin\Debug\netcoreapp3.1\11.Interval.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\bin\Debug\netcoreapp3.1\11.Interval.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\bin\Debug\netcoreapp3.1\11.Interval.dll
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\bin\Debug\netcoreapp3.1\11.Interval.pdb
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\obj\Debug\netcoreapp3.1\11.Interval.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\obj\Debug\netcoreapp3.1\11.Interval.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\obj\Debug\netcoreapp3.1\11.Interval.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\obj\Debug\netcoreapp3.1\11.Interval.dll
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\obj\Debug\netcoreapp3.1\11.Interval.pdb
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\11.Interval\obj\Debug\netcoreapp3.1\11.Interval.genruntimeconfig.cache

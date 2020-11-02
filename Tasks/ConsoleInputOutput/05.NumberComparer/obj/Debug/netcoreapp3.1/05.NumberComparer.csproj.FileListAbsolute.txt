@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\bin\Debug\netcoreapp3.1\05.NumberComparer.exe
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\bin\Debug\netcoreapp3.1\05.NumberComparer.deps.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\bin\Debug\netcoreapp3.1\05.NumberComparer.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\bin\Debug\netcoreapp3.1\05.NumberComparer.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\bin\Debug\netcoreapp3.1\05.NumberComparer.dll
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\bin\Debug\netcoreapp3.1\05.NumberComparer.pdb
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\obj\Debug\netcoreapp3.1\05.NumberComparer.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\obj\Debug\netcoreapp3.1\05.NumberComparer.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\obj\Debug\netcoreapp3.1\05.NumberComparer.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\obj\Debug\netcoreapp3.1\05.NumberComparer.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\obj\Debug\netcoreapp3.1\05.NumberComparer.dll
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\obj\Debug\netcoreapp3.1\05.NumberComparer.pdb
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\05.NumberComparer\obj\Debug\netcoreapp3.1\05.NumberComparer.genruntimeconfig.cache

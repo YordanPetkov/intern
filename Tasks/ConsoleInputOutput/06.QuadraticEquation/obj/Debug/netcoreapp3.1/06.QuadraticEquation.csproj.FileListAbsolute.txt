@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\netcoreapp3.1\06.QuadraticEquation.exe
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\netcoreapp3.1\06.QuadraticEquation.deps.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\netcoreapp3.1\06.QuadraticEquation.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\netcoreapp3.1\06.QuadraticEquation.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\netcoreapp3.1\06.QuadraticEquation.dll
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\netcoreapp3.1\06.QuadraticEquation.pdb
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\netcoreapp3.1\06.QuadraticEquation.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\netcoreapp3.1\06.QuadraticEquation.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\netcoreapp3.1\06.QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\netcoreapp3.1\06.QuadraticEquation.dll
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\netcoreapp3.1\06.QuadraticEquation.pdb
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\netcoreapp3.1\06.QuadraticEquation.genruntimeconfig.cache

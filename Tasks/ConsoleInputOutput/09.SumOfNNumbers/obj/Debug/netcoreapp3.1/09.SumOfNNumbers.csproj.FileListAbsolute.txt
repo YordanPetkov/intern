@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\netcoreapp3.1\09.SumOfNNumbers.exe
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\netcoreapp3.1\09.SumOfNNumbers.deps.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\netcoreapp3.1\09.SumOfNNumbers.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\netcoreapp3.1\09.SumOfNNumbers.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\netcoreapp3.1\09.SumOfNNumbers.dll
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\netcoreapp3.1\09.SumOfNNumbers.pdb
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\netcoreapp3.1\09.SumOfNNumbers.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\netcoreapp3.1\09.SumOfNNumbers.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\netcoreapp3.1\09.SumOfNNumbers.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\netcoreapp3.1\09.SumOfNNumbers.dll
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\netcoreapp3.1\09.SumOfNNumbers.pdb
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\netcoreapp3.1\09.SumOfNNumbers.genruntimeconfig.cache

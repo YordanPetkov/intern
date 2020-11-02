@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\bin\Debug\netcoreapp3.1\04.FormattingNumbers.exe
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\bin\Debug\netcoreapp3.1\04.FormattingNumbers.deps.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\bin\Debug\netcoreapp3.1\04.FormattingNumbers.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\bin\Debug\netcoreapp3.1\04.FormattingNumbers.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\bin\Debug\netcoreapp3.1\04.FormattingNumbers.dll
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\bin\Debug\netcoreapp3.1\04.FormattingNumbers.pdb
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\obj\Debug\netcoreapp3.1\04.FormattingNumbers.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\obj\Debug\netcoreapp3.1\04.FormattingNumbers.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\obj\Debug\netcoreapp3.1\04.FormattingNumbers.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\obj\Debug\netcoreapp3.1\04.FormattingNumbers.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\obj\Debug\netcoreapp3.1\04.FormattingNumbers.dll
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\obj\Debug\netcoreapp3.1\04.FormattingNumbers.pdb
+D:\Yordan\intern\intern\Tasks\ConsoleInputOutput\04.FormattingNumbers\obj\Debug\netcoreapp3.1\04.FormattingNumbers.genruntimeconfig.cache
