@@ -1,0 +1,13 @@
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\bin\Debug\netcoreapp3.1\04.MultiplicationSign.exe
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\bin\Debug\netcoreapp3.1\04.MultiplicationSign.deps.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\bin\Debug\netcoreapp3.1\04.MultiplicationSign.runtimeconfig.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\bin\Debug\netcoreapp3.1\04.MultiplicationSign.runtimeconfig.dev.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\bin\Debug\netcoreapp3.1\04.MultiplicationSign.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\bin\Debug\netcoreapp3.1\04.MultiplicationSign.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\obj\Debug\netcoreapp3.1\04.MultiplicationSign.csprojAssemblyReference.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\obj\Debug\netcoreapp3.1\04.MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\obj\Debug\netcoreapp3.1\04.MultiplicationSign.AssemblyInfo.cs
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\obj\Debug\netcoreapp3.1\04.MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\obj\Debug\netcoreapp3.1\04.MultiplicationSign.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\obj\Debug\netcoreapp3.1\04.MultiplicationSign.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\04.MultiplicationSign\obj\Debug\netcoreapp3.1\04.MultiplicationSign.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\bin\Debug\netcoreapp3.1\09.IntDoubleString.exe
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\bin\Debug\netcoreapp3.1\09.IntDoubleString.deps.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\bin\Debug\netcoreapp3.1\09.IntDoubleString.runtimeconfig.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\bin\Debug\netcoreapp3.1\09.IntDoubleString.runtimeconfig.dev.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\bin\Debug\netcoreapp3.1\09.IntDoubleString.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\bin\Debug\netcoreapp3.1\09.IntDoubleString.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\obj\Debug\netcoreapp3.1\09.IntDoubleString.AssemblyInfoInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\obj\Debug\netcoreapp3.1\09.IntDoubleString.AssemblyInfo.cs
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\obj\Debug\netcoreapp3.1\09.IntDoubleString.csproj.CoreCompileInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\obj\Debug\netcoreapp3.1\09.IntDoubleString.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\obj\Debug\netcoreapp3.1\09.IntDoubleString.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\09.IntDoubleString\obj\Debug\netcoreapp3.1\09.IntDoubleString.genruntimeconfig.cache

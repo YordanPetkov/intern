@@ -1,0 +1,12 @@
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\bin\Debug\netcoreapp3.1\01.ExchangeNumbers.exe
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\bin\Debug\netcoreapp3.1\01.ExchangeNumbers.deps.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\bin\Debug\netcoreapp3.1\01.ExchangeNumbers.runtimeconfig.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\bin\Debug\netcoreapp3.1\01.ExchangeNumbers.runtimeconfig.dev.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\bin\Debug\netcoreapp3.1\01.ExchangeNumbers.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\bin\Debug\netcoreapp3.1\01.ExchangeNumbers.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\obj\Debug\netcoreapp3.1\01.ExchangeNumbers.AssemblyInfoInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\obj\Debug\netcoreapp3.1\01.ExchangeNumbers.AssemblyInfo.cs
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\obj\Debug\netcoreapp3.1\01.ExchangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\obj\Debug\netcoreapp3.1\01.ExchangeNumbers.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\obj\Debug\netcoreapp3.1\01.ExchangeNumbers.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\01.ExchangeNumbers\obj\Debug\netcoreapp3.1\01.ExchangeNumbers.genruntimeconfig.cache

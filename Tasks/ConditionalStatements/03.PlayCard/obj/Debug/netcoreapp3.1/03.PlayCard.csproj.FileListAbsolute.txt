@@ -1,0 +1,12 @@
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\bin\Debug\netcoreapp3.1\03.PlayCard.exe
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\bin\Debug\netcoreapp3.1\03.PlayCard.deps.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\bin\Debug\netcoreapp3.1\03.PlayCard.runtimeconfig.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\bin\Debug\netcoreapp3.1\03.PlayCard.runtimeconfig.dev.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\bin\Debug\netcoreapp3.1\03.PlayCard.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\bin\Debug\netcoreapp3.1\03.PlayCard.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\obj\Debug\netcoreapp3.1\03.PlayCard.AssemblyInfoInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\obj\Debug\netcoreapp3.1\03.PlayCard.AssemblyInfo.cs
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\obj\Debug\netcoreapp3.1\03.PlayCard.csproj.CoreCompileInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\obj\Debug\netcoreapp3.1\03.PlayCard.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\obj\Debug\netcoreapp3.1\03.PlayCard.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\03.PlayCard\obj\Debug\netcoreapp3.1\03.PlayCard.genruntimeconfig.cache

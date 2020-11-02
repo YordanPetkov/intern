@@ -1,0 +1,12 @@
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\bin\Debug\netcoreapp3.1\08.DigitAsWord.exe
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\bin\Debug\netcoreapp3.1\08.DigitAsWord.deps.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\bin\Debug\netcoreapp3.1\08.DigitAsWord.runtimeconfig.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\bin\Debug\netcoreapp3.1\08.DigitAsWord.runtimeconfig.dev.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\bin\Debug\netcoreapp3.1\08.DigitAsWord.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\bin\Debug\netcoreapp3.1\08.DigitAsWord.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\obj\Debug\netcoreapp3.1\08.DigitAsWord.AssemblyInfoInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\obj\Debug\netcoreapp3.1\08.DigitAsWord.AssemblyInfo.cs
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\obj\Debug\netcoreapp3.1\08.DigitAsWord.csproj.CoreCompileInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\obj\Debug\netcoreapp3.1\08.DigitAsWord.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\obj\Debug\netcoreapp3.1\08.DigitAsWord.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\08.DigitAsWord\obj\Debug\netcoreapp3.1\08.DigitAsWord.genruntimeconfig.cache

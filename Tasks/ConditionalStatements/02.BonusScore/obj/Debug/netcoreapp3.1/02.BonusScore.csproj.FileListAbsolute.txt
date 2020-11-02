@@ -1,0 +1,12 @@
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.exe
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.deps.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.runtimeconfig.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.runtimeconfig.dev.json
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\bin\Debug\netcoreapp3.1\02.BonusScore.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.AssemblyInfoInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.AssemblyInfo.cs
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.dll
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.pdb
+C:\Users\Tester.GRAFIXOFT\source\repos\ConditionalStatements\02.BonusScore\obj\Debug\netcoreapp3.1\02.BonusScore.genruntimeconfig.cache
