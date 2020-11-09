@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\bin\Debug\netcoreapp3.1\15.GCD.exe
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\bin\Debug\netcoreapp3.1\15.GCD.deps.json
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\bin\Debug\netcoreapp3.1\15.GCD.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\bin\Debug\netcoreapp3.1\15.GCD.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\bin\Debug\netcoreapp3.1\15.GCD.dll
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\bin\Debug\netcoreapp3.1\15.GCD.pdb
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\obj\Debug\netcoreapp3.1\15.GCD.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\obj\Debug\netcoreapp3.1\15.GCD.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\obj\Debug\netcoreapp3.1\15.GCD.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\obj\Debug\netcoreapp3.1\15.GCD.dll
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\obj\Debug\netcoreapp3.1\15.GCD.pdb
+D:\Yordan\intern\intern\Tasks\Loops\15.GCD\obj\Debug\netcoreapp3.1\15.GCD.genruntimeconfig.cache

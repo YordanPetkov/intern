@@ -8,10 +8,9 @@ namespace _04.PrintADeck
         {
             string[] cardFaces = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A" };
             string[] cardSuits = { "spades", "clubs", "hearts", "diamonds" };
-            string inputCard;
             bool isCard = false;
+            string inputCard = Console.ReadLine();
 
-            inputCard = Console.ReadLine();
             foreach (string face in cardFaces)
             {
                 if(isCard == false)
@@ -35,7 +34,6 @@ namespace _04.PrintADeck
                 {
                     isCard = true;
                 }
-
             }
         }
     }

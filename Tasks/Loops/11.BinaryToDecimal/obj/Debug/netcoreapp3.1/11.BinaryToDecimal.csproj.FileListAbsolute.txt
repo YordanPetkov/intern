@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\bin\Debug\netcoreapp3.1\11.BinaryToDecimal.exe
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\bin\Debug\netcoreapp3.1\11.BinaryToDecimal.deps.json
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\bin\Debug\netcoreapp3.1\11.BinaryToDecimal.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\bin\Debug\netcoreapp3.1\11.BinaryToDecimal.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\bin\Debug\netcoreapp3.1\11.BinaryToDecimal.dll
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\bin\Debug\netcoreapp3.1\11.BinaryToDecimal.pdb
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\obj\Debug\netcoreapp3.1\11.BinaryToDecimal.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\obj\Debug\netcoreapp3.1\11.BinaryToDecimal.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\obj\Debug\netcoreapp3.1\11.BinaryToDecimal.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\obj\Debug\netcoreapp3.1\11.BinaryToDecimal.dll
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\obj\Debug\netcoreapp3.1\11.BinaryToDecimal.pdb
+D:\Yordan\intern\intern\Tasks\Loops\11.BinaryToDecimal\obj\Debug\netcoreapp3.1\11.BinaryToDecimal.genruntimeconfig.cache

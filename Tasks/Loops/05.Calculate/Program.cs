@@ -6,14 +6,11 @@ namespace _05.Calculate
     {
         static void Main(string[] args)
         {
-            int n;
-            double x;
             long lastFact = 1;
             long curFact;
             double s = 1;
-
-            n = int.Parse(Console.ReadLine());
-            x = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
+            double x = double.Parse(Console.ReadLine());
 
             for (int i = 1; i <= n; i++)
             {

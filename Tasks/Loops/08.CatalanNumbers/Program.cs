@@ -6,10 +6,8 @@ namespace _08.CatalanNumbers
     {
         static void Main(string[] args)
         {
-            int n;
             double catalanNumber = 1;
-
-            n = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
             
             for (int i = 2; i <= n; i++)
             {

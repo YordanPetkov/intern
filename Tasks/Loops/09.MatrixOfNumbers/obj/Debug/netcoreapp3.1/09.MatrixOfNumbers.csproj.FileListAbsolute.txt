@@ -10,3 +10,4 @@ D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\0
 D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\09.MatrixOfNumbers.dll
 D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\09.MatrixOfNumbers.pdb
 D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\09.MatrixOfNumbers.genruntimeconfig.cache
+D:\Yordan\intern\intern\Tasks\Loops\09.MatrixOfNumbers\obj\Debug\netcoreapp3.1\09.MatrixOfNumbers.csprojAssemblyReference.cache

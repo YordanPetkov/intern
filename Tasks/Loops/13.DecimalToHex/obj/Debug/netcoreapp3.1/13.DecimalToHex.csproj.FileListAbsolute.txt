@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\bin\Debug\netcoreapp3.1\13.DecimalToHex.exe
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\bin\Debug\netcoreapp3.1\13.DecimalToHex.deps.json
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\bin\Debug\netcoreapp3.1\13.DecimalToHex.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\bin\Debug\netcoreapp3.1\13.DecimalToHex.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\bin\Debug\netcoreapp3.1\13.DecimalToHex.dll
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\bin\Debug\netcoreapp3.1\13.DecimalToHex.pdb
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\obj\Debug\netcoreapp3.1\13.DecimalToHex.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\obj\Debug\netcoreapp3.1\13.DecimalToHex.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\obj\Debug\netcoreapp3.1\13.DecimalToHex.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\obj\Debug\netcoreapp3.1\13.DecimalToHex.dll
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\obj\Debug\netcoreapp3.1\13.DecimalToHex.pdb
+D:\Yordan\intern\intern\Tasks\Loops\13.DecimalToHex\obj\Debug\netcoreapp3.1\13.DecimalToHex.genruntimeconfig.cache

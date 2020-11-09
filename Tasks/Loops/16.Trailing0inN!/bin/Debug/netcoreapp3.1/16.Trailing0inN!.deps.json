@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "16.Trailing0inN!/1.0.0": {
+        "runtime": {
+          "16.Trailing0inN!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "16.Trailing0inN!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

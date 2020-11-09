@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\bin\Debug\netcoreapp3.1\17.SpiralMatrix.exe
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\bin\Debug\netcoreapp3.1\17.SpiralMatrix.deps.json
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\bin\Debug\netcoreapp3.1\17.SpiralMatrix.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\bin\Debug\netcoreapp3.1\17.SpiralMatrix.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\bin\Debug\netcoreapp3.1\17.SpiralMatrix.dll
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\bin\Debug\netcoreapp3.1\17.SpiralMatrix.pdb
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\obj\Debug\netcoreapp3.1\17.SpiralMatrix.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\obj\Debug\netcoreapp3.1\17.SpiralMatrix.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\obj\Debug\netcoreapp3.1\17.SpiralMatrix.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\obj\Debug\netcoreapp3.1\17.SpiralMatrix.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\obj\Debug\netcoreapp3.1\17.SpiralMatrix.dll
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\obj\Debug\netcoreapp3.1\17.SpiralMatrix.pdb
+D:\Yordan\intern\intern\Tasks\Loops\17.SpiralMatrix\obj\Debug\netcoreapp3.1\17.SpiralMatrix.genruntimeconfig.cache

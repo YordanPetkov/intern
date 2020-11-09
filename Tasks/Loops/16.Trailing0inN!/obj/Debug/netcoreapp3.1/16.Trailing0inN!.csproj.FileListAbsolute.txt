@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\bin\Debug\netcoreapp3.1\16.Trailing0inN!.exe
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\bin\Debug\netcoreapp3.1\16.Trailing0inN!.deps.json
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\bin\Debug\netcoreapp3.1\16.Trailing0inN!.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\bin\Debug\netcoreapp3.1\16.Trailing0inN!.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\bin\Debug\netcoreapp3.1\16.Trailing0inN!.dll
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\bin\Debug\netcoreapp3.1\16.Trailing0inN!.pdb
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\obj\Debug\netcoreapp3.1\16.Trailing0inN!.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\obj\Debug\netcoreapp3.1\16.Trailing0inN!.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\obj\Debug\netcoreapp3.1\16.Trailing0inN!.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\obj\Debug\netcoreapp3.1\16.Trailing0inN!.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\obj\Debug\netcoreapp3.1\16.Trailing0inN!.dll
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\obj\Debug\netcoreapp3.1\16.Trailing0inN!.pdb
+D:\Yordan\intern\intern\Tasks\Loops\16.Trailing0inN!\obj\Debug\netcoreapp3.1\16.Trailing0inN!.genruntimeconfig.cache

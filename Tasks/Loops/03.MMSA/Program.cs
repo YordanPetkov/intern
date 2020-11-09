@@ -6,13 +6,11 @@ namespace _01.NumbersFrom1ToN
     {
         static void Main(string[] args)
         {
-            int n;
             double minNum = 10000;
             double maxNum = 0;
             double sum = 0;
-            double average;
+            int n = int.Parse(Console.ReadLine());
 
-            n = int.Parse(Console.ReadLine());
             for (int i = 1; i <= n; i++)
             {
                 double number;
@@ -27,8 +25,8 @@ namespace _01.NumbersFrom1ToN
                     maxNum = number;
                 }
             }
-            average = sum / n;
 
+            double average = sum / n;
             Console.WriteLine("min={0:0.00}", minNum);
             Console.WriteLine("max={0:0.00}", maxNum);
             Console.WriteLine("sum={0:0.00}", sum);
