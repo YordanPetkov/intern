@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\bin\Debug\netcoreapp3.1\04.MaximalSequence.exe
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\bin\Debug\netcoreapp3.1\04.MaximalSequence.deps.json
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\bin\Debug\netcoreapp3.1\04.MaximalSequence.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\bin\Debug\netcoreapp3.1\04.MaximalSequence.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\bin\Debug\netcoreapp3.1\04.MaximalSequence.dll
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\bin\Debug\netcoreapp3.1\04.MaximalSequence.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\obj\Debug\netcoreapp3.1\04.MaximalSequence.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\obj\Debug\netcoreapp3.1\04.MaximalSequence.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\obj\Debug\netcoreapp3.1\04.MaximalSequence.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\obj\Debug\netcoreapp3.1\04.MaximalSequence.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\obj\Debug\netcoreapp3.1\04.MaximalSequence.dll
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\obj\Debug\netcoreapp3.1\04.MaximalSequence.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\04.MaximalSequence\obj\Debug\netcoreapp3.1\04.MaximalSequence.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\bin\Debug\netcoreapp3.1\06.MaximalKSum.exe
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\bin\Debug\netcoreapp3.1\06.MaximalKSum.deps.json
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\bin\Debug\netcoreapp3.1\06.MaximalKSum.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\bin\Debug\netcoreapp3.1\06.MaximalKSum.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\bin\Debug\netcoreapp3.1\06.MaximalKSum.dll
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\bin\Debug\netcoreapp3.1\06.MaximalKSum.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\obj\Debug\netcoreapp3.1\06.MaximalKSum.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\obj\Debug\netcoreapp3.1\06.MaximalKSum.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\obj\Debug\netcoreapp3.1\06.MaximalKSum.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\obj\Debug\netcoreapp3.1\06.MaximalKSum.dll
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\obj\Debug\netcoreapp3.1\06.MaximalKSum.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\06.MaximalKSum\obj\Debug\netcoreapp3.1\06.MaximalKSum.genruntimeconfig.cache

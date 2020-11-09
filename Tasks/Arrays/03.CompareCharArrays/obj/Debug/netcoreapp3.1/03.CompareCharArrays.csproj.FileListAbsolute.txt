@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\bin\Debug\netcoreapp3.1\03.CompareCharArrays.exe
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\bin\Debug\netcoreapp3.1\03.CompareCharArrays.deps.json
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\bin\Debug\netcoreapp3.1\03.CompareCharArrays.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\bin\Debug\netcoreapp3.1\03.CompareCharArrays.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\bin\Debug\netcoreapp3.1\03.CompareCharArrays.dll
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\bin\Debug\netcoreapp3.1\03.CompareCharArrays.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\obj\Debug\netcoreapp3.1\03.CompareCharArrays.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\obj\Debug\netcoreapp3.1\03.CompareCharArrays.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\obj\Debug\netcoreapp3.1\03.CompareCharArrays.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\obj\Debug\netcoreapp3.1\03.CompareCharArrays.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\obj\Debug\netcoreapp3.1\03.CompareCharArrays.dll
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\obj\Debug\netcoreapp3.1\03.CompareCharArrays.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\03.CompareCharArrays\obj\Debug\netcoreapp3.1\03.CompareCharArrays.genruntimeconfig.cache
