@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\bin\Debug\netcoreapp3.1\07.SelectionSort.exe
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\bin\Debug\netcoreapp3.1\07.SelectionSort.deps.json
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\bin\Debug\netcoreapp3.1\07.SelectionSort.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\bin\Debug\netcoreapp3.1\07.SelectionSort.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\bin\Debug\netcoreapp3.1\07.SelectionSort.dll
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\bin\Debug\netcoreapp3.1\07.SelectionSort.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\obj\Debug\netcoreapp3.1\07.SelectionSort.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\obj\Debug\netcoreapp3.1\07.SelectionSort.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\obj\Debug\netcoreapp3.1\07.SelectionSort.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\obj\Debug\netcoreapp3.1\07.SelectionSort.dll
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\obj\Debug\netcoreapp3.1\07.SelectionSort.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\07.SelectionSort\obj\Debug\netcoreapp3.1\07.SelectionSort.genruntimeconfig.cache

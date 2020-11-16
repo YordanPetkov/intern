@@ -6,8 +6,8 @@ namespace _01.NumbersFrom1ToN
     {
         static void Main(string[] args)
         {
-            double minNum = 10000;
-            double maxNum = 0;
+            double minNum = double.MaxValue;
+            double maxNum = double.MinValue;
             double sum = 0;
             int n = int.Parse(Console.ReadLine());
 

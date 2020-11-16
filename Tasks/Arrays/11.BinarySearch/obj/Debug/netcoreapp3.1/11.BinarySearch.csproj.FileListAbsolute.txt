@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\bin\Debug\netcoreapp3.1\11.BinarySearch.exe
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\bin\Debug\netcoreapp3.1\11.BinarySearch.deps.json
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\bin\Debug\netcoreapp3.1\11.BinarySearch.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\bin\Debug\netcoreapp3.1\11.BinarySearch.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\bin\Debug\netcoreapp3.1\11.BinarySearch.dll
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\bin\Debug\netcoreapp3.1\11.BinarySearch.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\obj\Debug\netcoreapp3.1\11.BinarySearch.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\obj\Debug\netcoreapp3.1\11.BinarySearch.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\obj\Debug\netcoreapp3.1\11.BinarySearch.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\obj\Debug\netcoreapp3.1\11.BinarySearch.dll
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\obj\Debug\netcoreapp3.1\11.BinarySearch.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\11.BinarySearch\obj\Debug\netcoreapp3.1\11.BinarySearch.genruntimeconfig.cache

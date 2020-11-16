@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\bin\Debug\netcoreapp3.1\10.FindSumInArray.exe
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\bin\Debug\netcoreapp3.1\10.FindSumInArray.deps.json
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\bin\Debug\netcoreapp3.1\10.FindSumInArray.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\bin\Debug\netcoreapp3.1\10.FindSumInArray.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\bin\Debug\netcoreapp3.1\10.FindSumInArray.dll
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\bin\Debug\netcoreapp3.1\10.FindSumInArray.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\obj\Debug\netcoreapp3.1\10.FindSumInArray.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\obj\Debug\netcoreapp3.1\10.FindSumInArray.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\obj\Debug\netcoreapp3.1\10.FindSumInArray.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\obj\Debug\netcoreapp3.1\10.FindSumInArray.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\obj\Debug\netcoreapp3.1\10.FindSumInArray.dll
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\obj\Debug\netcoreapp3.1\10.FindSumInArray.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\10.FindSumInArray\obj\Debug\netcoreapp3.1\10.FindSumInArray.genruntimeconfig.cache
