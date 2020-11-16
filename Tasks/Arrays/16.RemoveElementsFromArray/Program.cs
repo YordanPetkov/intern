@@ -21,6 +21,7 @@ namespace _16.RemoveElementsFromArray
                 else
                 {
                     int curLength = 0;
+
                     for (int j = 0; j < i; j++)
                     {
                         if(nums[j] <= nums[i] && curLength < subSeq[j])
@@ -33,6 +34,7 @@ namespace _16.RemoveElementsFromArray
                             maxLength = subSeq[i];
                         }
                     }
+
                 }
             }
 
