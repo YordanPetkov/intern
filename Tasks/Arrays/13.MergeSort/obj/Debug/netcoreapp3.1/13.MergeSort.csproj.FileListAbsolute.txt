@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\bin\Debug\netcoreapp3.1\13.MergeSort.exe
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\bin\Debug\netcoreapp3.1\13.MergeSort.deps.json
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\bin\Debug\netcoreapp3.1\13.MergeSort.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\bin\Debug\netcoreapp3.1\13.MergeSort.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\bin\Debug\netcoreapp3.1\13.MergeSort.dll
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\bin\Debug\netcoreapp3.1\13.MergeSort.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\obj\Debug\netcoreapp3.1\13.MergeSort.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\obj\Debug\netcoreapp3.1\13.MergeSort.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\obj\Debug\netcoreapp3.1\13.MergeSort.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\obj\Debug\netcoreapp3.1\13.MergeSort.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\obj\Debug\netcoreapp3.1\13.MergeSort.dll
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\obj\Debug\netcoreapp3.1\13.MergeSort.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\13.MergeSort\obj\Debug\netcoreapp3.1\13.MergeSort.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\bin\Debug\netcoreapp3.1\16.RemoveElementsFromArray.exe
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\bin\Debug\netcoreapp3.1\16.RemoveElementsFromArray.deps.json
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\bin\Debug\netcoreapp3.1\16.RemoveElementsFromArray.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\bin\Debug\netcoreapp3.1\16.RemoveElementsFromArray.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\bin\Debug\netcoreapp3.1\16.RemoveElementsFromArray.dll
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\bin\Debug\netcoreapp3.1\16.RemoveElementsFromArray.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\obj\Debug\netcoreapp3.1\16.RemoveElementsFromArray.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\obj\Debug\netcoreapp3.1\16.RemoveElementsFromArray.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\obj\Debug\netcoreapp3.1\16.RemoveElementsFromArray.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\obj\Debug\netcoreapp3.1\16.RemoveElementsFromArray.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\obj\Debug\netcoreapp3.1\16.RemoveElementsFromArray.dll
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\obj\Debug\netcoreapp3.1\16.RemoveElementsFromArray.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\16.RemoveElementsFromArray\obj\Debug\netcoreapp3.1\16.RemoveElementsFromArray.genruntimeconfig.cache

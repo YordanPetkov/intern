@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\bin\Debug\netcoreapp3.1\15.PrimeNumbers.exe
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\bin\Debug\netcoreapp3.1\15.PrimeNumbers.deps.json
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\bin\Debug\netcoreapp3.1\15.PrimeNumbers.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\bin\Debug\netcoreapp3.1\15.PrimeNumbers.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\bin\Debug\netcoreapp3.1\15.PrimeNumbers.dll
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\bin\Debug\netcoreapp3.1\15.PrimeNumbers.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\obj\Debug\netcoreapp3.1\15.PrimeNumbers.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\obj\Debug\netcoreapp3.1\15.PrimeNumbers.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\obj\Debug\netcoreapp3.1\15.PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\obj\Debug\netcoreapp3.1\15.PrimeNumbers.dll
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\obj\Debug\netcoreapp3.1\15.PrimeNumbers.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\15.PrimeNumbers\obj\Debug\netcoreapp3.1\15.PrimeNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\bin\Debug\netcoreapp3.1\14.QuickSort.exe
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\bin\Debug\netcoreapp3.1\14.QuickSort.deps.json
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\bin\Debug\netcoreapp3.1\14.QuickSort.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\bin\Debug\netcoreapp3.1\14.QuickSort.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\bin\Debug\netcoreapp3.1\14.QuickSort.dll
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\bin\Debug\netcoreapp3.1\14.QuickSort.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\obj\Debug\netcoreapp3.1\14.QuickSort.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\obj\Debug\netcoreapp3.1\14.QuickSort.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\obj\Debug\netcoreapp3.1\14.QuickSort.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\obj\Debug\netcoreapp3.1\14.QuickSort.dll
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\obj\Debug\netcoreapp3.1\14.QuickSort.pdb
+D:\Yordan\intern\intern\Tasks\Arrays\14.QuickSort\obj\Debug\netcoreapp3.1\14.QuickSort.genruntimeconfig.cache

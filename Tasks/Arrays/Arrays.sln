@@ -15,19 +15,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.MaximalIncreasingSequenc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.MaximalKSum", "06.MaximalKSum\06.MaximalKSum.csproj", "{E21E2F8E-6B66-458A-93D6-8498EE77E874}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SelectionSort", "07.SelectionSort\07.SelectionSort.csproj", "{971CECE6-4CB1-4477-A68E-14571AC0DD28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.SelectionSort", "07.SelectionSort\07.SelectionSort.csproj", "{971CECE6-4CB1-4477-A68E-14571AC0DD28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MaximalSum", "08.MaximalSum\08.MaximalSum.csproj", "{B8F8A919-0CFB-4C95-90FC-3FD0DC3B14A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.MaximalSum", "08.MaximalSum\08.MaximalSum.csproj", "{B8F8A919-0CFB-4C95-90FC-3FD0DC3B14A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.FrequentNumber", "09.FrequentNumber\09.FrequentNumber.csproj", "{8A72EFC8-F887-4540-9217-B489D02692B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.FrequentNumber", "09.FrequentNumber\09.FrequentNumber.csproj", "{8A72EFC8-F887-4540-9217-B489D02692B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.FindSumInArray", "10.FindSumInArray\10.FindSumInArray.csproj", "{BCB4A0DA-D5C8-4525-B9AB-B851A1A41093}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.FindSumInArray", "10.FindSumInArray\10.FindSumInArray.csproj", "{BCB4A0DA-D5C8-4525-B9AB-B851A1A41093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.BinarySearch", "11.BinarySearch\11.BinarySearch.csproj", "{E6444518-1E23-407E-A156-E5BA2945569F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.BinarySearch", "11.BinarySearch\11.BinarySearch.csproj", "{E6444518-1E23-407E-A156-E5BA2945569F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.IndexOfLetters", "12.IndexOfLetters\12.IndexOfLetters.csproj", "{820111E8-DC0C-4CBC-9B59-24D6A2273062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.IndexOfLetters", "12.IndexOfLetters\12.IndexOfLetters.csproj", "{820111E8-DC0C-4CBC-9B59-24D6A2273062}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.MergeSort", "13.MergeSort\13.MergeSort.csproj", "{B7A84090-5F7A-486E-8845-B27E263EE772}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.MergeSort", "13.MergeSort\13.MergeSort.csproj", "{B7A84090-5F7A-486E-8845-B27E263EE772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.QuickSort", "14.QuickSort\14.QuickSort.csproj", "{6ACCC667-7E53-4D57-9604-B5A4268C3A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.PrimeNumbers", "15.PrimeNumbers\15.PrimeNumbers.csproj", "{82575568-421B-4A95-8124-A440D28DC390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.RemoveElementsFromArray", "16.RemoveElementsFromArray\16.RemoveElementsFromArray.csproj", "{C74730FD-06ED-49D3-8FD7-37F966320CE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{B7A84090-5F7A-486E-8845-B27E263EE772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7A84090-5F7A-486E-8845-B27E263EE772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7A84090-5F7A-486E-8845-B27E263EE772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACCC667-7E53-4D57-9604-B5A4268C3A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACCC667-7E53-4D57-9604-B5A4268C3A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACCC667-7E53-4D57-9604-B5A4268C3A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACCC667-7E53-4D57-9604-B5A4268C3A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82575568-421B-4A95-8124-A440D28DC390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82575568-421B-4A95-8124-A440D28DC390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82575568-421B-4A95-8124-A440D28DC390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82575568-421B-4A95-8124-A440D28DC390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74730FD-06ED-49D3-8FD7-37F966320CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74730FD-06ED-49D3-8FD7-37F966320CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74730FD-06ED-49D3-8FD7-37F966320CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74730FD-06ED-49D3-8FD7-37F966320CE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
