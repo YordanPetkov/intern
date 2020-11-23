@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\bin\Debug\netcoreapp3.1\2.MaximalSum.exe
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\bin\Debug\netcoreapp3.1\2.MaximalSum.deps.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\bin\Debug\netcoreapp3.1\2.MaximalSum.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\bin\Debug\netcoreapp3.1\2.MaximalSum.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\bin\Debug\netcoreapp3.1\2.MaximalSum.dll
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\bin\Debug\netcoreapp3.1\2.MaximalSum.pdb
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\obj\Debug\netcoreapp3.1\2.MaximalSum.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\obj\Debug\netcoreapp3.1\2.MaximalSum.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\obj\Debug\netcoreapp3.1\2.MaximalSum.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\obj\Debug\netcoreapp3.1\2.MaximalSum.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\obj\Debug\netcoreapp3.1\2.MaximalSum.dll
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\obj\Debug\netcoreapp3.1\2.MaximalSum.pdb
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\2.MaximalSum\obj\Debug\netcoreapp3.1\2.MaximalSum.genruntimeconfig.cache

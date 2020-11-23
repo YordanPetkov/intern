@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\bin\Debug\netcoreapp3.1\03.SequenceInMatrix.exe
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\bin\Debug\netcoreapp3.1\03.SequenceInMatrix.deps.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\bin\Debug\netcoreapp3.1\03.SequenceInMatrix.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\bin\Debug\netcoreapp3.1\03.SequenceInMatrix.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\bin\Debug\netcoreapp3.1\03.SequenceInMatrix.dll
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\bin\Debug\netcoreapp3.1\03.SequenceInMatrix.pdb
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\obj\Debug\netcoreapp3.1\03.SequenceInMatrix.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\obj\Debug\netcoreapp3.1\03.SequenceInMatrix.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\obj\Debug\netcoreapp3.1\03.SequenceInMatrix.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\obj\Debug\netcoreapp3.1\03.SequenceInMatrix.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\obj\Debug\netcoreapp3.1\03.SequenceInMatrix.dll
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\obj\Debug\netcoreapp3.1\03.SequenceInMatrix.pdb
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\03.SequenceInMatrix\obj\Debug\netcoreapp3.1\03.SequenceInMatrix.genruntimeconfig.cache

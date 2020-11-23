@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\bin\Debug\netcoreapp3.1\05.SortByStringLength.exe
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\bin\Debug\netcoreapp3.1\05.SortByStringLength.deps.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\bin\Debug\netcoreapp3.1\05.SortByStringLength.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\bin\Debug\netcoreapp3.1\05.SortByStringLength.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\bin\Debug\netcoreapp3.1\05.SortByStringLength.dll
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\bin\Debug\netcoreapp3.1\05.SortByStringLength.pdb
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\obj\Debug\netcoreapp3.1\05.SortByStringLength.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\obj\Debug\netcoreapp3.1\05.SortByStringLength.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\obj\Debug\netcoreapp3.1\05.SortByStringLength.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\obj\Debug\netcoreapp3.1\05.SortByStringLength.dll
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\obj\Debug\netcoreapp3.1\05.SortByStringLength.pdb
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\05.SortByStringLength\obj\Debug\netcoreapp3.1\05.SortByStringLength.genruntimeconfig.cache

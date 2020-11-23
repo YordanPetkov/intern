@@ -65,7 +65,34 @@ namespace _01.FillTheMatrix
             }
             if(type == 'c')
             {
+                int curNum = 1;
+                int i = n;
+                int j = 0;
 
+                while(curNum != n * n + 1)
+                {
+                    if(i == 0)
+                    {
+                        i = 0;
+                        j++;
+                    }
+                    else
+                    {
+                        i--;
+                        j = 0;
+                    }
+                    int row = i;
+                    int column = j;
+                    
+                    while(row < n && column < n)
+                    {
+                        matrix[row, column] = curNum;
+                        row++;
+                        column++;
+                        curNum++;
+                    }
+
+                }
             }
             if(type == 'd')
             {
@@ -104,6 +131,7 @@ namespace _01.FillTheMatrix
                 }
                 Console.WriteLine();
             }
+
         }
     }
 }

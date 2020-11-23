@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\bin\Debug\netcoreapp3.1\07.LargestAreaInMatrix.exe
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\bin\Debug\netcoreapp3.1\07.LargestAreaInMatrix.deps.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\bin\Debug\netcoreapp3.1\07.LargestAreaInMatrix.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\bin\Debug\netcoreapp3.1\07.LargestAreaInMatrix.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\bin\Debug\netcoreapp3.1\07.LargestAreaInMatrix.dll
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\bin\Debug\netcoreapp3.1\07.LargestAreaInMatrix.pdb
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\obj\Debug\netcoreapp3.1\07.LargestAreaInMatrix.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\obj\Debug\netcoreapp3.1\07.LargestAreaInMatrix.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\obj\Debug\netcoreapp3.1\07.LargestAreaInMatrix.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\obj\Debug\netcoreapp3.1\07.LargestAreaInMatrix.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\obj\Debug\netcoreapp3.1\07.LargestAreaInMatrix.dll
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\obj\Debug\netcoreapp3.1\07.LargestAreaInMatrix.pdb
+D:\Yordan\intern\intern\Tasks\MultidymentionalArrays\07.LargestAreaInMatrix\obj\Debug\netcoreapp3.1\07.LargestAreaInMatrix.genruntimeconfig.cache
