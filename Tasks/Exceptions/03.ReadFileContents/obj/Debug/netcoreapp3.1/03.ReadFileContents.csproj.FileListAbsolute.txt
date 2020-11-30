@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\bin\Debug\netcoreapp3.1\03.ReadFileContents.exe
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\bin\Debug\netcoreapp3.1\03.ReadFileContents.deps.json
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\bin\Debug\netcoreapp3.1\03.ReadFileContents.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\bin\Debug\netcoreapp3.1\03.ReadFileContents.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\bin\Debug\netcoreapp3.1\03.ReadFileContents.dll
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\bin\Debug\netcoreapp3.1\03.ReadFileContents.pdb
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\obj\Debug\netcoreapp3.1\03.ReadFileContents.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\obj\Debug\netcoreapp3.1\03.ReadFileContents.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\obj\Debug\netcoreapp3.1\03.ReadFileContents.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\obj\Debug\netcoreapp3.1\03.ReadFileContents.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\obj\Debug\netcoreapp3.1\03.ReadFileContents.dll
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\obj\Debug\netcoreapp3.1\03.ReadFileContents.pdb
+D:\Yordan\intern\intern\Tasks\Exceptions\03.ReadFileContents\obj\Debug\netcoreapp3.1\03.ReadFileContents.genruntimeconfig.cache

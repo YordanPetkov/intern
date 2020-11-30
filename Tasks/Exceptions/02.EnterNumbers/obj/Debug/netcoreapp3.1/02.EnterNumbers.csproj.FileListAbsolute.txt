@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.exe
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.deps.json
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.dll
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\bin\Debug\netcoreapp3.1\02.EnterNumbers.pdb
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.dll
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.pdb
+D:\Yordan\intern\intern\Tasks\Exceptions\02.EnterNumbers\obj\Debug\netcoreapp3.1\02.EnterNumbers.genruntimeconfig.cache

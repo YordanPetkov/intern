@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\bin\Debug\netcoreapp3.1\01_SquareRoot.exe
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\bin\Debug\netcoreapp3.1\01_SquareRoot.deps.json
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\bin\Debug\netcoreapp3.1\01_SquareRoot.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\bin\Debug\netcoreapp3.1\01_SquareRoot.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\bin\Debug\netcoreapp3.1\01_SquareRoot.dll
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\bin\Debug\netcoreapp3.1\01_SquareRoot.pdb
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\obj\Debug\netcoreapp3.1\01_SquareRoot.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\obj\Debug\netcoreapp3.1\01_SquareRoot.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\obj\Debug\netcoreapp3.1\01_SquareRoot.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\obj\Debug\netcoreapp3.1\01_SquareRoot.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\obj\Debug\netcoreapp3.1\01_SquareRoot.dll
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\obj\Debug\netcoreapp3.1\01_SquareRoot.pdb
+D:\Yordan\intern\intern\Tasks\Exceptions\01_SquareRoot\obj\Debug\netcoreapp3.1\01_SquareRoot.genruntimeconfig.cache
