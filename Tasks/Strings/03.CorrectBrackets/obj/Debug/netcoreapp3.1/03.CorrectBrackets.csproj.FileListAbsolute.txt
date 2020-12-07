@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\bin\Debug\netcoreapp3.1\03.CorrectBrackets.exe
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\bin\Debug\netcoreapp3.1\03.CorrectBrackets.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\bin\Debug\netcoreapp3.1\03.CorrectBrackets.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\bin\Debug\netcoreapp3.1\03.CorrectBrackets.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\bin\Debug\netcoreapp3.1\03.CorrectBrackets.dll
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\bin\Debug\netcoreapp3.1\03.CorrectBrackets.pdb
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\obj\Debug\netcoreapp3.1\03.CorrectBrackets.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\obj\Debug\netcoreapp3.1\03.CorrectBrackets.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\obj\Debug\netcoreapp3.1\03.CorrectBrackets.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\obj\Debug\netcoreapp3.1\03.CorrectBrackets.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\obj\Debug\netcoreapp3.1\03.CorrectBrackets.dll
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\obj\Debug\netcoreapp3.1\03.CorrectBrackets.pdb
+D:\Yordan\intern\intern\Tasks\Strings\03.CorrectBrackets\obj\Debug\netcoreapp3.1\03.CorrectBrackets.genruntimeconfig.cache

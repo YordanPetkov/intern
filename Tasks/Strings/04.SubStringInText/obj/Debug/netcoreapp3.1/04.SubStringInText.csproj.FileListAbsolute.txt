@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\bin\Debug\netcoreapp3.1\04.SubStringInText.exe
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\bin\Debug\netcoreapp3.1\04.SubStringInText.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\bin\Debug\netcoreapp3.1\04.SubStringInText.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\bin\Debug\netcoreapp3.1\04.SubStringInText.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\bin\Debug\netcoreapp3.1\04.SubStringInText.dll
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\bin\Debug\netcoreapp3.1\04.SubStringInText.pdb
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\obj\Debug\netcoreapp3.1\04.SubStringInText.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\obj\Debug\netcoreapp3.1\04.SubStringInText.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\obj\Debug\netcoreapp3.1\04.SubStringInText.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\obj\Debug\netcoreapp3.1\04.SubStringInText.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\obj\Debug\netcoreapp3.1\04.SubStringInText.dll
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\obj\Debug\netcoreapp3.1\04.SubStringInText.pdb
+D:\Yordan\intern\intern\Tasks\Strings\04.SubStringInText\obj\Debug\netcoreapp3.1\04.SubStringInText.genruntimeconfig.cache

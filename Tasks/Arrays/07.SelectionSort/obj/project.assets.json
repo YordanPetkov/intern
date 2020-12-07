@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\": {}
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\07.SelectionSort\\07.SelectionSort.csproj",
       "projectName": "07.SelectionSort",
       "projectPath": "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\07.SelectionSort\\07.SelectionSort.csproj",
-      "packagesPath": "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
       "outputPath": "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\07.SelectionSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tester.GRAFIXOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

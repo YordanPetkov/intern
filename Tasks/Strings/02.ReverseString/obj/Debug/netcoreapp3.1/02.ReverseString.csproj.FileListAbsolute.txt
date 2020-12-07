@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\bin\Debug\netcoreapp3.1\02.ReverseString.exe
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\bin\Debug\netcoreapp3.1\02.ReverseString.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\bin\Debug\netcoreapp3.1\02.ReverseString.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\bin\Debug\netcoreapp3.1\02.ReverseString.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\bin\Debug\netcoreapp3.1\02.ReverseString.dll
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\bin\Debug\netcoreapp3.1\02.ReverseString.pdb
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\obj\Debug\netcoreapp3.1\02.ReverseString.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\obj\Debug\netcoreapp3.1\02.ReverseString.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\obj\Debug\netcoreapp3.1\02.ReverseString.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\obj\Debug\netcoreapp3.1\02.ReverseString.dll
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\obj\Debug\netcoreapp3.1\02.ReverseString.pdb
+D:\Yordan\intern\intern\Tasks\Strings\02.ReverseString\obj\Debug\netcoreapp3.1\02.ReverseString.genruntimeconfig.cache

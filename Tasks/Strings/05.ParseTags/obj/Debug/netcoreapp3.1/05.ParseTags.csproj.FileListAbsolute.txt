@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\bin\Debug\netcoreapp3.1\05.ParseTags.exe
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\bin\Debug\netcoreapp3.1\05.ParseTags.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\bin\Debug\netcoreapp3.1\05.ParseTags.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\bin\Debug\netcoreapp3.1\05.ParseTags.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\bin\Debug\netcoreapp3.1\05.ParseTags.dll
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\bin\Debug\netcoreapp3.1\05.ParseTags.pdb
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\obj\Debug\netcoreapp3.1\05.ParseTags.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\obj\Debug\netcoreapp3.1\05.ParseTags.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\obj\Debug\netcoreapp3.1\05.ParseTags.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\obj\Debug\netcoreapp3.1\05.ParseTags.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\obj\Debug\netcoreapp3.1\05.ParseTags.dll
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\obj\Debug\netcoreapp3.1\05.ParseTags.pdb
+D:\Yordan\intern\intern\Tasks\Strings\05.ParseTags\obj\Debug\netcoreapp3.1\05.ParseTags.genruntimeconfig.cache

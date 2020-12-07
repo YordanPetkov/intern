@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\bin\Debug\netcoreapp3.1\21.LettersCount.exe
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\bin\Debug\netcoreapp3.1\21.LettersCount.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\bin\Debug\netcoreapp3.1\21.LettersCount.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\bin\Debug\netcoreapp3.1\21.LettersCount.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\bin\Debug\netcoreapp3.1\21.LettersCount.dll
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\bin\Debug\netcoreapp3.1\21.LettersCount.pdb
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\obj\Debug\netcoreapp3.1\21.LettersCount.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\obj\Debug\netcoreapp3.1\21.LettersCount.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\obj\Debug\netcoreapp3.1\21.LettersCount.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\obj\Debug\netcoreapp3.1\21.LettersCount.dll
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\obj\Debug\netcoreapp3.1\21.LettersCount.pdb
+D:\Yordan\intern\intern\Tasks\Strings\21.LettersCount\obj\Debug\netcoreapp3.1\21.LettersCount.genruntimeconfig.cache

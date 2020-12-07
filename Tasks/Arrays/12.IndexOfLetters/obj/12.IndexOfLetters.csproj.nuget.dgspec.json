@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\12.IndexOfLetters\\12.IndexOfLetters.csproj",
         "projectName": "12.IndexOfLetters",
         "projectPath": "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\12.IndexOfLetters\\12.IndexOfLetters.csproj",
-        "packagesPath": "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
         "outputPath": "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\12.IndexOfLetters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tester.GRAFIXOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

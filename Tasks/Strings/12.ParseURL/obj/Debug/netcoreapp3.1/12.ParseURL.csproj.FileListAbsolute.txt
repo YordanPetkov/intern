@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\bin\Debug\netcoreapp3.1\12.ParseURL.exe
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\bin\Debug\netcoreapp3.1\12.ParseURL.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\bin\Debug\netcoreapp3.1\12.ParseURL.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\bin\Debug\netcoreapp3.1\12.ParseURL.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\bin\Debug\netcoreapp3.1\12.ParseURL.dll
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\bin\Debug\netcoreapp3.1\12.ParseURL.pdb
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\obj\Debug\netcoreapp3.1\12.ParseURL.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\obj\Debug\netcoreapp3.1\12.ParseURL.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\obj\Debug\netcoreapp3.1\12.ParseURL.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\obj\Debug\netcoreapp3.1\12.ParseURL.dll
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\obj\Debug\netcoreapp3.1\12.ParseURL.pdb
+D:\Yordan\intern\intern\Tasks\Strings\12.ParseURL\obj\Debug\netcoreapp3.1\12.ParseURL.genruntimeconfig.cache

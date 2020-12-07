@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\bin\Debug\netcoreapp3.1\08.ExtractSentences.exe
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\bin\Debug\netcoreapp3.1\08.ExtractSentences.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\bin\Debug\netcoreapp3.1\08.ExtractSentences.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\bin\Debug\netcoreapp3.1\08.ExtractSentences.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\bin\Debug\netcoreapp3.1\08.ExtractSentences.dll
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\bin\Debug\netcoreapp3.1\08.ExtractSentences.pdb
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\obj\Debug\netcoreapp3.1\08.ExtractSentences.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\obj\Debug\netcoreapp3.1\08.ExtractSentences.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\obj\Debug\netcoreapp3.1\08.ExtractSentences.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\obj\Debug\netcoreapp3.1\08.ExtractSentences.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\obj\Debug\netcoreapp3.1\08.ExtractSentences.dll
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\obj\Debug\netcoreapp3.1\08.ExtractSentences.pdb
+D:\Yordan\intern\intern\Tasks\Strings\08.ExtractSentences\obj\Debug\netcoreapp3.1\08.ExtractSentences.genruntimeconfig.cache

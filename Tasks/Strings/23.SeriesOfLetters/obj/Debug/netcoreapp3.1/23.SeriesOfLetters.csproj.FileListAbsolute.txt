@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\bin\Debug\netcoreapp3.1\23.SeriesOfLetters.exe
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\bin\Debug\netcoreapp3.1\23.SeriesOfLetters.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\bin\Debug\netcoreapp3.1\23.SeriesOfLetters.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\bin\Debug\netcoreapp3.1\23.SeriesOfLetters.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\bin\Debug\netcoreapp3.1\23.SeriesOfLetters.dll
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\bin\Debug\netcoreapp3.1\23.SeriesOfLetters.pdb
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\obj\Debug\netcoreapp3.1\23.SeriesOfLetters.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\obj\Debug\netcoreapp3.1\23.SeriesOfLetters.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\obj\Debug\netcoreapp3.1\23.SeriesOfLetters.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\obj\Debug\netcoreapp3.1\23.SeriesOfLetters.dll
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\obj\Debug\netcoreapp3.1\23.SeriesOfLetters.pdb
+D:\Yordan\intern\intern\Tasks\Strings\23.SeriesOfLetters\obj\Debug\netcoreapp3.1\23.SeriesOfLetters.genruntimeconfig.cache

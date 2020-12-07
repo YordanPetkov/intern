@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\Yordan\\intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\02.EnterNumbers.csproj",
         "projectName": "02.EnterNumbers",
         "projectPath": "D:\\Yordan\\intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\02.EnterNumbers.csproj",
-        "packagesPath": "C:\\Users\\Tester.GRAFIXOFT\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
         "outputPath": "D:\\Yordan\\intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tester.GRAFIXOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

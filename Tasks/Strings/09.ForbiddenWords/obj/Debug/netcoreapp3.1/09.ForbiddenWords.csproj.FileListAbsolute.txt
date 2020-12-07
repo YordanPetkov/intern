@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\bin\Debug\netcoreapp3.1\09.ForbiddenWords.exe
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\bin\Debug\netcoreapp3.1\09.ForbiddenWords.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\bin\Debug\netcoreapp3.1\09.ForbiddenWords.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\bin\Debug\netcoreapp3.1\09.ForbiddenWords.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\bin\Debug\netcoreapp3.1\09.ForbiddenWords.dll
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\bin\Debug\netcoreapp3.1\09.ForbiddenWords.pdb
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\obj\Debug\netcoreapp3.1\09.ForbiddenWords.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\obj\Debug\netcoreapp3.1\09.ForbiddenWords.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\obj\Debug\netcoreapp3.1\09.ForbiddenWords.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\obj\Debug\netcoreapp3.1\09.ForbiddenWords.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\obj\Debug\netcoreapp3.1\09.ForbiddenWords.dll
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\obj\Debug\netcoreapp3.1\09.ForbiddenWords.pdb
+D:\Yordan\intern\intern\Tasks\Strings\09.ForbiddenWords\obj\Debug\netcoreapp3.1\09.ForbiddenWords.genruntimeconfig.cache

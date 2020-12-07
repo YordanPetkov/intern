@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\bin\Debug\netcoreapp3.1\06.StringLength.exe
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\bin\Debug\netcoreapp3.1\06.StringLength.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\bin\Debug\netcoreapp3.1\06.StringLength.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\bin\Debug\netcoreapp3.1\06.StringLength.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\bin\Debug\netcoreapp3.1\06.StringLength.dll
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\bin\Debug\netcoreapp3.1\06.StringLength.pdb
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\obj\Debug\netcoreapp3.1\06.StringLength.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\obj\Debug\netcoreapp3.1\06.StringLength.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\obj\Debug\netcoreapp3.1\06.StringLength.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\obj\Debug\netcoreapp3.1\06.StringLength.dll
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\obj\Debug\netcoreapp3.1\06.StringLength.pdb
+D:\Yordan\intern\intern\Tasks\Strings\06.StringLength\obj\Debug\netcoreapp3.1\06.StringLength.genruntimeconfig.cache

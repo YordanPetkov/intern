@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\bin\Debug\netcoreapp3.1\01.StringsInCSharp.exe
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\bin\Debug\netcoreapp3.1\01.StringsInCSharp.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\bin\Debug\netcoreapp3.1\01.StringsInCSharp.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\bin\Debug\netcoreapp3.1\01.StringsInCSharp.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\bin\Debug\netcoreapp3.1\01.StringsInCSharp.dll
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\bin\Debug\netcoreapp3.1\01.StringsInCSharp.pdb
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\obj\Debug\netcoreapp3.1\01.StringsInCSharp.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\obj\Debug\netcoreapp3.1\01.StringsInCSharp.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\obj\Debug\netcoreapp3.1\01.StringsInCSharp.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\obj\Debug\netcoreapp3.1\01.StringsInCSharp.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\obj\Debug\netcoreapp3.1\01.StringsInCSharp.dll
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\obj\Debug\netcoreapp3.1\01.StringsInCSharp.pdb
+D:\Yordan\intern\intern\Tasks\Strings\01.StringsInCSharp\obj\Debug\netcoreapp3.1\01.StringsInCSharp.genruntimeconfig.cache

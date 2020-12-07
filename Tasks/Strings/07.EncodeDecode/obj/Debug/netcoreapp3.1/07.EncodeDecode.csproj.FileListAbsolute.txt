@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\bin\Debug\netcoreapp3.1\07.EncodeDecode.exe
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\bin\Debug\netcoreapp3.1\07.EncodeDecode.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\bin\Debug\netcoreapp3.1\07.EncodeDecode.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\bin\Debug\netcoreapp3.1\07.EncodeDecode.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\bin\Debug\netcoreapp3.1\07.EncodeDecode.dll
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\bin\Debug\netcoreapp3.1\07.EncodeDecode.pdb
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\obj\Debug\netcoreapp3.1\07.EncodeDecode.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\obj\Debug\netcoreapp3.1\07.EncodeDecode.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\obj\Debug\netcoreapp3.1\07.EncodeDecode.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\obj\Debug\netcoreapp3.1\07.EncodeDecode.dll
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\obj\Debug\netcoreapp3.1\07.EncodeDecode.pdb
+D:\Yordan\intern\intern\Tasks\Strings\07.EncodeDecode\obj\Debug\netcoreapp3.1\07.EncodeDecode.genruntimeconfig.cache
