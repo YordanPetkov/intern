@@ -50,11 +50,13 @@ If you want to close the application, type @close";
                         }
                         break;
                     case "@all":
+
                         foreach (var word in dictionary)
                         {
                             Console.WriteLine("{0} : {1}", word.Key, word.Value);
                         }
                         break;
+
                     case "@help":
                         Console.WriteLine(instructions);
                         break;
