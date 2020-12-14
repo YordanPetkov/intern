@@ -18,9 +18,9 @@ If you want to close the application, type @close";
             dictionary["CLR"] = " managed execution environment for .NET";
             dictionary["namespace"] = " hierarchical organization of classes";
             string command = "";
+
             do
             {
-
                 command = Console.ReadLine();
                 string[] parts = command.Split('_');
                 switch (parts[0])
@@ -65,6 +65,7 @@ If you want to close the application, type @close";
                         break;
                 }
             } while (command != "@close");
+
         }
     }
 }
