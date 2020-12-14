@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\bin\Debug\netcoreapp3.1\15.ReplaceTags.exe
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\bin\Debug\netcoreapp3.1\15.ReplaceTags.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\bin\Debug\netcoreapp3.1\15.ReplaceTags.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\bin\Debug\netcoreapp3.1\15.ReplaceTags.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\bin\Debug\netcoreapp3.1\15.ReplaceTags.dll
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\bin\Debug\netcoreapp3.1\15.ReplaceTags.pdb
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\obj\Debug\netcoreapp3.1\15.ReplaceTags.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\obj\Debug\netcoreapp3.1\15.ReplaceTags.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\obj\Debug\netcoreapp3.1\15.ReplaceTags.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\obj\Debug\netcoreapp3.1\15.ReplaceTags.dll
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\obj\Debug\netcoreapp3.1\15.ReplaceTags.pdb
+D:\Yordan\intern\intern\Tasks\Strings\15.ReplaceTags\obj\Debug\netcoreapp3.1\15.ReplaceTags.genruntimeconfig.cache

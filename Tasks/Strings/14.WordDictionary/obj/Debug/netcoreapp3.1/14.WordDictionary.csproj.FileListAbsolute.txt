@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\bin\Debug\netcoreapp3.1\14.WordDictionary.exe
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\bin\Debug\netcoreapp3.1\14.WordDictionary.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\bin\Debug\netcoreapp3.1\14.WordDictionary.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\bin\Debug\netcoreapp3.1\14.WordDictionary.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\bin\Debug\netcoreapp3.1\14.WordDictionary.dll
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\bin\Debug\netcoreapp3.1\14.WordDictionary.pdb
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\obj\Debug\netcoreapp3.1\14.WordDictionary.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\obj\Debug\netcoreapp3.1\14.WordDictionary.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\obj\Debug\netcoreapp3.1\14.WordDictionary.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\obj\Debug\netcoreapp3.1\14.WordDictionary.dll
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\obj\Debug\netcoreapp3.1\14.WordDictionary.pdb
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\obj\Debug\netcoreapp3.1\14.WordDictionary.genruntimeconfig.cache
+D:\Yordan\intern\intern\Tasks\Strings\14.WordDictionary\obj\Debug\netcoreapp3.1\14.WordDictionary.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\bin\Debug\netcoreapp3.1\16.DateDifference.exe
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\bin\Debug\netcoreapp3.1\16.DateDifference.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\bin\Debug\netcoreapp3.1\16.DateDifference.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\bin\Debug\netcoreapp3.1\16.DateDifference.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\bin\Debug\netcoreapp3.1\16.DateDifference.dll
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\bin\Debug\netcoreapp3.1\16.DateDifference.pdb
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\obj\Debug\netcoreapp3.1\16.DateDifference.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\obj\Debug\netcoreapp3.1\16.DateDifference.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\obj\Debug\netcoreapp3.1\16.DateDifference.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\obj\Debug\netcoreapp3.1\16.DateDifference.dll
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\obj\Debug\netcoreapp3.1\16.DateDifference.pdb
+D:\Yordan\intern\intern\Tasks\Strings\16.DateDifference\obj\Debug\netcoreapp3.1\16.DateDifference.genruntimeconfig.cache

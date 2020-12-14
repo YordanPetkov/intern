@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\obj\Debug\netcoreapp3.1\17.DateInBulgarian.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\obj\Debug\netcoreapp3.1\17.DateInBulgarian.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\obj\Debug\netcoreapp3.1\17.DateInBulgarian.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\bin\Debug\netcoreapp3.1\17.DateInBulgarian.exe
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\bin\Debug\netcoreapp3.1\17.DateInBulgarian.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\bin\Debug\netcoreapp3.1\17.DateInBulgarian.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\bin\Debug\netcoreapp3.1\17.DateInBulgarian.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\bin\Debug\netcoreapp3.1\17.DateInBulgarian.dll
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\bin\Debug\netcoreapp3.1\17.DateInBulgarian.pdb
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\obj\Debug\netcoreapp3.1\17.DateInBulgarian.dll
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\obj\Debug\netcoreapp3.1\17.DateInBulgarian.pdb
+D:\Yordan\intern\intern\Tasks\Strings\17.DateInBulgarian\obj\Debug\netcoreapp3.1\17.DateInBulgarian.genruntimeconfig.cache

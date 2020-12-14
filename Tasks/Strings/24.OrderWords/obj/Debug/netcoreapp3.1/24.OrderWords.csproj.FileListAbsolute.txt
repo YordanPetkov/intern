@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\bin\Debug\netcoreapp3.1\24.OrderWords.exe
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\bin\Debug\netcoreapp3.1\24.OrderWords.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\bin\Debug\netcoreapp3.1\24.OrderWords.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\bin\Debug\netcoreapp3.1\24.OrderWords.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\bin\Debug\netcoreapp3.1\24.OrderWords.dll
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\bin\Debug\netcoreapp3.1\24.OrderWords.pdb
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\obj\Debug\netcoreapp3.1\24.OrderWords.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\obj\Debug\netcoreapp3.1\24.OrderWords.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\obj\Debug\netcoreapp3.1\24.OrderWords.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\obj\Debug\netcoreapp3.1\24.OrderWords.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\obj\Debug\netcoreapp3.1\24.OrderWords.dll
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\obj\Debug\netcoreapp3.1\24.OrderWords.pdb
+D:\Yordan\intern\intern\Tasks\Strings\24.OrderWords\obj\Debug\netcoreapp3.1\24.OrderWords.genruntimeconfig.cache

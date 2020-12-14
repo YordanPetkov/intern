@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\bin\Debug\netcoreapp3.1\20.Palindromes.exe
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\bin\Debug\netcoreapp3.1\20.Palindromes.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\bin\Debug\netcoreapp3.1\20.Palindromes.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\bin\Debug\netcoreapp3.1\20.Palindromes.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\bin\Debug\netcoreapp3.1\20.Palindromes.dll
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\bin\Debug\netcoreapp3.1\20.Palindromes.pdb
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\obj\Debug\netcoreapp3.1\20.Palindromes.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\obj\Debug\netcoreapp3.1\20.Palindromes.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\obj\Debug\netcoreapp3.1\20.Palindromes.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\obj\Debug\netcoreapp3.1\20.Palindromes.dll
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\obj\Debug\netcoreapp3.1\20.Palindromes.pdb
+D:\Yordan\intern\intern\Tasks\Strings\20.Palindromes\obj\Debug\netcoreapp3.1\20.Palindromes.genruntimeconfig.cache

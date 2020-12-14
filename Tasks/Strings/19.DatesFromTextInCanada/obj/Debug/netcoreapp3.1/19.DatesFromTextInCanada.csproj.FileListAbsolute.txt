@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\bin\Debug\netcoreapp3.1\19.DatesFromTextInCanada.exe
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\bin\Debug\netcoreapp3.1\19.DatesFromTextInCanada.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\bin\Debug\netcoreapp3.1\19.DatesFromTextInCanada.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\bin\Debug\netcoreapp3.1\19.DatesFromTextInCanada.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\bin\Debug\netcoreapp3.1\19.DatesFromTextInCanada.dll
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\bin\Debug\netcoreapp3.1\19.DatesFromTextInCanada.pdb
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\obj\Debug\netcoreapp3.1\19.DatesFromTextInCanada.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\obj\Debug\netcoreapp3.1\19.DatesFromTextInCanada.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\obj\Debug\netcoreapp3.1\19.DatesFromTextInCanada.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\obj\Debug\netcoreapp3.1\19.DatesFromTextInCanada.dll
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\obj\Debug\netcoreapp3.1\19.DatesFromTextInCanada.pdb
+D:\Yordan\intern\intern\Tasks\Strings\19.DatesFromTextInCanada\obj\Debug\netcoreapp3.1\19.DatesFromTextInCanada.genruntimeconfig.cache

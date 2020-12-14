@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\bin\Debug\netcoreapp3.1\25.ExtractTextFromHTML.exe
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\bin\Debug\netcoreapp3.1\25.ExtractTextFromHTML.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\bin\Debug\netcoreapp3.1\25.ExtractTextFromHTML.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\bin\Debug\netcoreapp3.1\25.ExtractTextFromHTML.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\bin\Debug\netcoreapp3.1\25.ExtractTextFromHTML.dll
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\bin\Debug\netcoreapp3.1\25.ExtractTextFromHTML.pdb
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\obj\Debug\netcoreapp3.1\25.ExtractTextFromHTML.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\obj\Debug\netcoreapp3.1\25.ExtractTextFromHTML.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\obj\Debug\netcoreapp3.1\25.ExtractTextFromHTML.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\obj\Debug\netcoreapp3.1\25.ExtractTextFromHTML.dll
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\obj\Debug\netcoreapp3.1\25.ExtractTextFromHTML.pdb
+D:\Yordan\intern\intern\Tasks\Strings\25.ExtractTextFromHTML\obj\Debug\netcoreapp3.1\25.ExtractTextFromHTML.genruntimeconfig.cache

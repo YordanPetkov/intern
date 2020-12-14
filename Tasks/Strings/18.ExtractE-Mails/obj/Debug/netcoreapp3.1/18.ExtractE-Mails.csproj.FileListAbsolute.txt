@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\bin\Debug\netcoreapp3.1\18.ExtractE-Mails.exe
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\bin\Debug\netcoreapp3.1\18.ExtractE-Mails.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\bin\Debug\netcoreapp3.1\18.ExtractE-Mails.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\bin\Debug\netcoreapp3.1\18.ExtractE-Mails.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\bin\Debug\netcoreapp3.1\18.ExtractE-Mails.dll
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\bin\Debug\netcoreapp3.1\18.ExtractE-Mails.pdb
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\obj\Debug\netcoreapp3.1\18.ExtractE-Mails.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\obj\Debug\netcoreapp3.1\18.ExtractE-Mails.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\obj\Debug\netcoreapp3.1\18.ExtractE-Mails.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\obj\Debug\netcoreapp3.1\18.ExtractE-Mails.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\obj\Debug\netcoreapp3.1\18.ExtractE-Mails.dll
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\obj\Debug\netcoreapp3.1\18.ExtractE-Mails.pdb
+D:\Yordan\intern\intern\Tasks\Strings\18.ExtractE-Mails\obj\Debug\netcoreapp3.1\18.ExtractE-Mails.genruntimeconfig.cache

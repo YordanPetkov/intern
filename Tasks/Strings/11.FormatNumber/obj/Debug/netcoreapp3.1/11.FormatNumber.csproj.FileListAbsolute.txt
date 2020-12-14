@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\bin\Debug\netcoreapp3.1\11.FormatNumber.exe
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\bin\Debug\netcoreapp3.1\11.FormatNumber.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\bin\Debug\netcoreapp3.1\11.FormatNumber.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\bin\Debug\netcoreapp3.1\11.FormatNumber.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\bin\Debug\netcoreapp3.1\11.FormatNumber.dll
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\bin\Debug\netcoreapp3.1\11.FormatNumber.pdb
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\obj\Debug\netcoreapp3.1\11.FormatNumber.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\obj\Debug\netcoreapp3.1\11.FormatNumber.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\obj\Debug\netcoreapp3.1\11.FormatNumber.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\obj\Debug\netcoreapp3.1\11.FormatNumber.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\obj\Debug\netcoreapp3.1\11.FormatNumber.dll
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\obj\Debug\netcoreapp3.1\11.FormatNumber.pdb
+D:\Yordan\intern\intern\Tasks\Strings\11.FormatNumber\obj\Debug\netcoreapp3.1\11.FormatNumber.genruntimeconfig.cache

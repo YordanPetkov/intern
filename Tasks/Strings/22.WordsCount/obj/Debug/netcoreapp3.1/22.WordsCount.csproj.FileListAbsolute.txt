@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\bin\Debug\netcoreapp3.1\22.WordsCount.exe
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\bin\Debug\netcoreapp3.1\22.WordsCount.deps.json
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\bin\Debug\netcoreapp3.1\22.WordsCount.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\bin\Debug\netcoreapp3.1\22.WordsCount.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\bin\Debug\netcoreapp3.1\22.WordsCount.dll
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\bin\Debug\netcoreapp3.1\22.WordsCount.pdb
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\obj\Debug\netcoreapp3.1\22.WordsCount.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\obj\Debug\netcoreapp3.1\22.WordsCount.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\obj\Debug\netcoreapp3.1\22.WordsCount.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\obj\Debug\netcoreapp3.1\22.WordsCount.dll
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\obj\Debug\netcoreapp3.1\22.WordsCount.pdb
+D:\Yordan\intern\intern\Tasks\Strings\22.WordsCount\obj\Debug\netcoreapp3.1\22.WordsCount.genruntimeconfig.cache
