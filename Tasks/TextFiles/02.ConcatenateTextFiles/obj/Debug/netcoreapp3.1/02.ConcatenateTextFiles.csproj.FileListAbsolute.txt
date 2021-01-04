@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\bin\Debug\netcoreapp3.1\02.ConcatenateTextFiles.exe
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\bin\Debug\netcoreapp3.1\02.ConcatenateTextFiles.deps.json
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\bin\Debug\netcoreapp3.1\02.ConcatenateTextFiles.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\bin\Debug\netcoreapp3.1\02.ConcatenateTextFiles.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\bin\Debug\netcoreapp3.1\02.ConcatenateTextFiles.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\bin\Debug\netcoreapp3.1\02.ConcatenateTextFiles.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\obj\Debug\netcoreapp3.1\02.ConcatenateTextFiles.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\obj\Debug\netcoreapp3.1\02.ConcatenateTextFiles.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\obj\Debug\netcoreapp3.1\02.ConcatenateTextFiles.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\obj\Debug\netcoreapp3.1\02.ConcatenateTextFiles.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\obj\Debug\netcoreapp3.1\02.ConcatenateTextFiles.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\obj\Debug\netcoreapp3.1\02.ConcatenateTextFiles.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\02.ConcatenateTextFiles\obj\Debug\netcoreapp3.1\02.ConcatenateTextFiles.genruntimeconfig.cache

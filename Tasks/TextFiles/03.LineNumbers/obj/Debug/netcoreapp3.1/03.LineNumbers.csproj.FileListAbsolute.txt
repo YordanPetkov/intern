@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\bin\Debug\netcoreapp3.1\03.LineNumbers.exe
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\bin\Debug\netcoreapp3.1\03.LineNumbers.deps.json
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\bin\Debug\netcoreapp3.1\03.LineNumbers.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\bin\Debug\netcoreapp3.1\03.LineNumbers.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\bin\Debug\netcoreapp3.1\03.LineNumbers.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\bin\Debug\netcoreapp3.1\03.LineNumbers.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\obj\Debug\netcoreapp3.1\03.LineNumbers.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\obj\Debug\netcoreapp3.1\03.LineNumbers.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\obj\Debug\netcoreapp3.1\03.LineNumbers.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\obj\Debug\netcoreapp3.1\03.LineNumbers.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\obj\Debug\netcoreapp3.1\03.LineNumbers.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\obj\Debug\netcoreapp3.1\03.LineNumbers.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\03.LineNumbers\obj\Debug\netcoreapp3.1\03.LineNumbers.genruntimeconfig.cache

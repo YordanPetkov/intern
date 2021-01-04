@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\bin\Debug\netcoreapp3.1\04.CompareTextFiles.exe
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\bin\Debug\netcoreapp3.1\04.CompareTextFiles.deps.json
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\bin\Debug\netcoreapp3.1\04.CompareTextFiles.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\bin\Debug\netcoreapp3.1\04.CompareTextFiles.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\bin\Debug\netcoreapp3.1\04.CompareTextFiles.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\bin\Debug\netcoreapp3.1\04.CompareTextFiles.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\obj\Debug\netcoreapp3.1\04.CompareTextFiles.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\obj\Debug\netcoreapp3.1\04.CompareTextFiles.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\obj\Debug\netcoreapp3.1\04.CompareTextFiles.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\obj\Debug\netcoreapp3.1\04.CompareTextFiles.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\obj\Debug\netcoreapp3.1\04.CompareTextFiles.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\04.CompareTextFiles\obj\Debug\netcoreapp3.1\04.CompareTextFiles.genruntimeconfig.cache

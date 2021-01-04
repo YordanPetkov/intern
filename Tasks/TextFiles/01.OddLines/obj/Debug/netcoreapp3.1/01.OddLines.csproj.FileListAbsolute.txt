@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.exe
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.deps.json
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.genruntimeconfig.cache
