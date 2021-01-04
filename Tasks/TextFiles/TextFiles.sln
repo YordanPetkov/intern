@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LineNumbers", "03.LineNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CompareTextFiles", "04.CompareTextFiles\04.CompareTextFiles.csproj", "{0790CF48-D82A-45B6-A89E-B025975F8A58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MaximalAreaSum", "05.MaximalAreaSum\05.MaximalAreaSum.csproj", "{E1A0586A-1528-48EE-A267-F505C76E8C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SaveSortedNames", "06.SaveSortedNames\06.SaveSortedNames.csproj", "{7A3DEFDE-D83C-4D96-8831-85EC4E9F9591}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{0790CF48-D82A-45B6-A89E-B025975F8A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0790CF48-D82A-45B6-A89E-B025975F8A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0790CF48-D82A-45B6-A89E-B025975F8A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A0586A-1528-48EE-A267-F505C76E8C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A0586A-1528-48EE-A267-F505C76E8C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A0586A-1528-48EE-A267-F505C76E8C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A0586A-1528-48EE-A267-F505C76E8C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A3DEFDE-D83C-4D96-8831-85EC4E9F9591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3DEFDE-D83C-4D96-8831-85EC4E9F9591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3DEFDE-D83C-4D96-8831-85EC4E9F9591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3DEFDE-D83C-4D96-8831-85EC4E9F9591}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

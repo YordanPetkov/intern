@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\bin\Debug\netcoreapp3.1\06.SaveSortedNames.exe
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\bin\Debug\netcoreapp3.1\06.SaveSortedNames.deps.json
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\bin\Debug\netcoreapp3.1\06.SaveSortedNames.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\bin\Debug\netcoreapp3.1\06.SaveSortedNames.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\bin\Debug\netcoreapp3.1\06.SaveSortedNames.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\bin\Debug\netcoreapp3.1\06.SaveSortedNames.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\obj\Debug\netcoreapp3.1\06.SaveSortedNames.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\obj\Debug\netcoreapp3.1\06.SaveSortedNames.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\obj\Debug\netcoreapp3.1\06.SaveSortedNames.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\obj\Debug\netcoreapp3.1\06.SaveSortedNames.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\obj\Debug\netcoreapp3.1\06.SaveSortedNames.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\obj\Debug\netcoreapp3.1\06.SaveSortedNames.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\06.SaveSortedNames\obj\Debug\netcoreapp3.1\06.SaveSortedNames.genruntimeconfig.cache

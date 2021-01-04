@@ -20,7 +20,6 @@ namespace _02.ConcatenateTextFiles
                 secondFileReader.Close();
                 storyFileWriter.Close();
             }
-
             catch (IOException e)
             {
                 Console.WriteLine("The file could not be read :");

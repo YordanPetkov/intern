@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\bin\Debug\netcoreapp3.1\05.MaximalAreaSum.exe
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\bin\Debug\netcoreapp3.1\05.MaximalAreaSum.deps.json
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\bin\Debug\netcoreapp3.1\05.MaximalAreaSum.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\bin\Debug\netcoreapp3.1\05.MaximalAreaSum.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\bin\Debug\netcoreapp3.1\05.MaximalAreaSum.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\bin\Debug\netcoreapp3.1\05.MaximalAreaSum.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\obj\Debug\netcoreapp3.1\05.MaximalAreaSum.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\obj\Debug\netcoreapp3.1\05.MaximalAreaSum.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\obj\Debug\netcoreapp3.1\05.MaximalAreaSum.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\obj\Debug\netcoreapp3.1\05.MaximalAreaSum.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\obj\Debug\netcoreapp3.1\05.MaximalAreaSum.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\05.MaximalAreaSum\obj\Debug\netcoreapp3.1\05.MaximalAreaSum.genruntimeconfig.cache
