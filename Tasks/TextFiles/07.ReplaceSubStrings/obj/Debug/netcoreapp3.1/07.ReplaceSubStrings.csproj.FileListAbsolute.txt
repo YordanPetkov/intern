@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\bin\Debug\netcoreapp3.1\07.ReplaceSubStrings.exe
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\bin\Debug\netcoreapp3.1\07.ReplaceSubStrings.deps.json
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\bin\Debug\netcoreapp3.1\07.ReplaceSubStrings.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\bin\Debug\netcoreapp3.1\07.ReplaceSubStrings.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\bin\Debug\netcoreapp3.1\07.ReplaceSubStrings.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\bin\Debug\netcoreapp3.1\07.ReplaceSubStrings.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\obj\Debug\netcoreapp3.1\07.ReplaceSubStrings.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\obj\Debug\netcoreapp3.1\07.ReplaceSubStrings.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\obj\Debug\netcoreapp3.1\07.ReplaceSubStrings.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\obj\Debug\netcoreapp3.1\07.ReplaceSubStrings.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\obj\Debug\netcoreapp3.1\07.ReplaceSubStrings.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\07.ReplaceSubStrings\obj\Debug\netcoreapp3.1\07.ReplaceSubStrings.genruntimeconfig.cache

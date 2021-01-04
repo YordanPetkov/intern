@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\bin\Debug\netcoreapp3.1\08.ReplaceWholeWord.exe
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\bin\Debug\netcoreapp3.1\08.ReplaceWholeWord.deps.json
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\bin\Debug\netcoreapp3.1\08.ReplaceWholeWord.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\bin\Debug\netcoreapp3.1\08.ReplaceWholeWord.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\bin\Debug\netcoreapp3.1\08.ReplaceWholeWord.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\bin\Debug\netcoreapp3.1\08.ReplaceWholeWord.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\obj\Debug\netcoreapp3.1\08.ReplaceWholeWord.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\obj\Debug\netcoreapp3.1\08.ReplaceWholeWord.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\obj\Debug\netcoreapp3.1\08.ReplaceWholeWord.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\obj\Debug\netcoreapp3.1\08.ReplaceWholeWord.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\obj\Debug\netcoreapp3.1\08.ReplaceWholeWord.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\08.ReplaceWholeWord\obj\Debug\netcoreapp3.1\08.ReplaceWholeWord.genruntimeconfig.cache

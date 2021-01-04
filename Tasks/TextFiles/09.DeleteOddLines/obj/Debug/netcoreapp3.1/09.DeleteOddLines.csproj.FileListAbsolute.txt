@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\bin\Debug\netcoreapp3.1\09.DeleteOddLines.exe
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\bin\Debug\netcoreapp3.1\09.DeleteOddLines.deps.json
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\bin\Debug\netcoreapp3.1\09.DeleteOddLines.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\bin\Debug\netcoreapp3.1\09.DeleteOddLines.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\bin\Debug\netcoreapp3.1\09.DeleteOddLines.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\bin\Debug\netcoreapp3.1\09.DeleteOddLines.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\obj\Debug\netcoreapp3.1\09.DeleteOddLines.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\obj\Debug\netcoreapp3.1\09.DeleteOddLines.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\obj\Debug\netcoreapp3.1\09.DeleteOddLines.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\obj\Debug\netcoreapp3.1\09.DeleteOddLines.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\obj\Debug\netcoreapp3.1\09.DeleteOddLines.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\obj\Debug\netcoreapp3.1\09.DeleteOddLines.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\09.DeleteOddLines\obj\Debug\netcoreapp3.1\09.DeleteOddLines.genruntimeconfig.cache

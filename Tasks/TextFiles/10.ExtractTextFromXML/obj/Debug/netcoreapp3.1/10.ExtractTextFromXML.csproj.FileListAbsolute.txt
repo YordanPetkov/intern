@@ -1,0 +1,12 @@
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\bin\Debug\netcoreapp3.1\10.ExtractTextFromXML.exe
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\bin\Debug\netcoreapp3.1\10.ExtractTextFromXML.deps.json
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\bin\Debug\netcoreapp3.1\10.ExtractTextFromXML.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\bin\Debug\netcoreapp3.1\10.ExtractTextFromXML.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\bin\Debug\netcoreapp3.1\10.ExtractTextFromXML.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\bin\Debug\netcoreapp3.1\10.ExtractTextFromXML.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\obj\Debug\netcoreapp3.1\10.ExtractTextFromXML.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\obj\Debug\netcoreapp3.1\10.ExtractTextFromXML.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\obj\Debug\netcoreapp3.1\10.ExtractTextFromXML.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\obj\Debug\netcoreapp3.1\10.ExtractTextFromXML.dll
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\obj\Debug\netcoreapp3.1\10.ExtractTextFromXML.pdb
+D:\Yordan\intern\intern\Tasks\TextFiles\10.ExtractTextFromXML\obj\Debug\netcoreapp3.1\10.ExtractTextFromXML.genruntimeconfig.cache

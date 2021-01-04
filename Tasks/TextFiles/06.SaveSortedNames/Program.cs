@@ -36,7 +36,6 @@ namespace _06.SaveSortedNames
                 Console.WriteLine("The file could not be read :");
                 Console.WriteLine(e.Message);
             }
-           
         }
     }
 }

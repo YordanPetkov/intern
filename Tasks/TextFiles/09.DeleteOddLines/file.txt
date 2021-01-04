@@ -1,0 +1,13 @@
+1.Odd lines
+2.Concatenate text files
+3.Line Numbers
+4.Compare text files
+5.Maximal area sum
+6.Save sorted names
+7.Replace sub-string
+8.Replace whole word
+9.Delete odd lines
+10.Extract text from XML
+11.Prefix "test"
+12.Remove words
+13.Count words
