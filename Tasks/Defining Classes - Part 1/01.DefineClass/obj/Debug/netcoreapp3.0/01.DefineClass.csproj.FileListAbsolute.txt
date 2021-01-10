@@ -1,0 +1,11 @@
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.csprojAssemblyReference.cache
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.AssemblyInfoInputs.cache
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.AssemblyInfo.cs
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.exe
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.deps.json
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.runtimeconfig.json
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.runtimeconfig.dev.json
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.dll
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.pdb
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.dll
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.pdb

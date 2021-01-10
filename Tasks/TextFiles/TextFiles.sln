@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OddLines", "01.OddLines\01.OddLines.csproj", "{85C333C9-DA1E-4FB8-AA1A-1DC8F9B6F0AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.OddLines", "01.OddLines\01.OddLines.csproj", "{85C333C9-DA1E-4FB8-AA1A-1DC8F9B6F0AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ConcatenateTextFiles", "02.ConcatenateTextFiles\02.ConcatenateTextFiles.csproj", "{0D573A60-DB20-49B4-A165-84C773FE3BA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.ConcatenateTextFiles", "02.ConcatenateTextFiles\02.ConcatenateTextFiles.csproj", "{0D573A60-DB20-49B4-A165-84C773FE3BA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LineNumbers", "03.LineNumbers\03.LineNumbers.csproj", "{2ACC9C0D-D059-4188-8947-9A437427D1C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.LineNumbers", "03.LineNumbers\03.LineNumbers.csproj", "{2ACC9C0D-D059-4188-8947-9A437427D1C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CompareTextFiles", "04.CompareTextFiles\04.CompareTextFiles.csproj", "{0790CF48-D82A-45B6-A89E-B025975F8A58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CompareTextFiles", "04.CompareTextFiles\04.CompareTextFiles.csproj", "{0790CF48-D82A-45B6-A89E-B025975F8A58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MaximalAreaSum", "05.MaximalAreaSum\05.MaximalAreaSum.csproj", "{E1A0586A-1528-48EE-A267-F505C76E8C0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.MaximalAreaSum", "05.MaximalAreaSum\05.MaximalAreaSum.csproj", "{E1A0586A-1528-48EE-A267-F505C76E8C0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SaveSortedNames", "06.SaveSortedNames\06.SaveSortedNames.csproj", "{7A3DEFDE-D83C-4D96-8831-85EC4E9F9591}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.SaveSortedNames", "06.SaveSortedNames\06.SaveSortedNames.csproj", "{7A3DEFDE-D83C-4D96-8831-85EC4E9F9591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ReplaceSubStrings", "07.ReplaceSubStrings\07.ReplaceSubStrings.csproj", "{8CA3DE16-37D6-41CE-A25B-12FB5FCD24DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.ReplaceSubStrings", "07.ReplaceSubStrings\07.ReplaceSubStrings.csproj", "{8CA3DE16-37D6-41CE-A25B-12FB5FCD24DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ReplaceWholeWord", "08.ReplaceWholeWord\08.ReplaceWholeWord.csproj", "{5FD5CC10-4DC8-40AE-A25F-DF54FD83DE50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.ReplaceWholeWord", "08.ReplaceWholeWord\08.ReplaceWholeWord.csproj", "{5FD5CC10-4DC8-40AE-A25F-DF54FD83DE50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.DeleteOddLines", "09.DeleteOddLines\09.DeleteOddLines.csproj", "{605FA0BD-D62C-4F56-B6AE-521677548C46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.DeleteOddLines", "09.DeleteOddLines\09.DeleteOddLines.csproj", "{605FA0BD-D62C-4F56-B6AE-521677548C46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ExtractTextFromXML", "10.ExtractTextFromXML\10.ExtractTextFromXML.csproj", "{D9B96C31-185E-4A87-B4E3-CC7BEE727247}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.ExtractTextFromXML", "10.ExtractTextFromXML\10.ExtractTextFromXML.csproj", "{D9B96C31-185E-4A87-B4E3-CC7BEE727247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.PrefixTest", "11.PrefixTest\11.PrefixTest.csproj", "{9C02F73E-04F0-489F-B24C-49DAC00BF545}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{D9B96C31-185E-4A87-B4E3-CC7BEE727247}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9B96C31-185E-4A87-B4E3-CC7BEE727247}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9B96C31-185E-4A87-B4E3-CC7BEE727247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C02F73E-04F0-489F-B24C-49DAC00BF545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C02F73E-04F0-489F-B24C-49DAC00BF545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C02F73E-04F0-489F-B24C-49DAC00BF545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C02F73E-04F0-489F-B24C-49DAC00BF545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

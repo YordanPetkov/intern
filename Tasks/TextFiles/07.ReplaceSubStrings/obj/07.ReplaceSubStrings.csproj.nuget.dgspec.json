@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Yordan\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj": {}
+    "C:\\YRD\\Programming\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj": {}
   },
   "projects": {
-    "D:\\Yordan\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj": {
+    "C:\\YRD\\Programming\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Yordan\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj",
+        "projectUniqueName": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj",
         "projectName": "07.ReplaceSubStrings",
-        "projectPath": "D:\\Yordan\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj",
-        "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
-        "outputPath": "D:\\Yordan\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\obj\\",
+        "projectPath": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,12 +47,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
