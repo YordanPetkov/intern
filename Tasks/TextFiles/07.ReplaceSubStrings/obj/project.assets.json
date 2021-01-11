@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Pc\\.nuget\\packages\\": {}
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj",
+      "projectUniqueName": "D:\\Yordan\\intern yordan\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj",
       "projectName": "07.ReplaceSubStrings",
-      "projectPath": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj",
-      "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\obj\\",
+      "projectPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\07.ReplaceSubStrings.csproj",
+      "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
+      "outputPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\TextFiles\\07.ReplaceSubStrings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,7 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

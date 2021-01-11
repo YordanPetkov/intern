@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\bin\Debug\netcoreapp3.1\12.RemoveWords.exe
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\bin\Debug\netcoreapp3.1\12.RemoveWords.deps.json
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\bin\Debug\netcoreapp3.1\12.RemoveWords.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\bin\Debug\netcoreapp3.1\12.RemoveWords.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\bin\Debug\netcoreapp3.1\12.RemoveWords.dll
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\bin\Debug\netcoreapp3.1\12.RemoveWords.pdb
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\obj\Debug\netcoreapp3.1\12.RemoveWords.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\obj\Debug\netcoreapp3.1\12.RemoveWords.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\obj\Debug\netcoreapp3.1\12.RemoveWords.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\obj\Debug\netcoreapp3.1\12.RemoveWords.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\obj\Debug\netcoreapp3.1\12.RemoveWords.dll
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\obj\Debug\netcoreapp3.1\12.RemoveWords.pdb
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\12.RemoveWords\obj\Debug\netcoreapp3.1\12.RemoveWords.genruntimeconfig.cache

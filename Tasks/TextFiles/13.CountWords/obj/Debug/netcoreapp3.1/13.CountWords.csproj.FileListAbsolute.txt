@@ -1,0 +1,12 @@
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\bin\Debug\netcoreapp3.1\13.CountWords.exe
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\bin\Debug\netcoreapp3.1\13.CountWords.deps.json
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\bin\Debug\netcoreapp3.1\13.CountWords.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\bin\Debug\netcoreapp3.1\13.CountWords.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\bin\Debug\netcoreapp3.1\13.CountWords.dll
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\bin\Debug\netcoreapp3.1\13.CountWords.pdb
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\obj\Debug\netcoreapp3.1\13.CountWords.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\obj\Debug\netcoreapp3.1\13.CountWords.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\obj\Debug\netcoreapp3.1\13.CountWords.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\obj\Debug\netcoreapp3.1\13.CountWords.dll
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\obj\Debug\netcoreapp3.1\13.CountWords.pdb
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\13.CountWords\obj\Debug\netcoreapp3.1\13.CountWords.genruntimeconfig.cache

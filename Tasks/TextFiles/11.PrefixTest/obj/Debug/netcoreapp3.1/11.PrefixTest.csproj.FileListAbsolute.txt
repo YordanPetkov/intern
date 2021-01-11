@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\bin\Debug\netcoreapp3.1\11.PrefixTest.exe
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\bin\Debug\netcoreapp3.1\11.PrefixTest.deps.json
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\bin\Debug\netcoreapp3.1\11.PrefixTest.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\bin\Debug\netcoreapp3.1\11.PrefixTest.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\bin\Debug\netcoreapp3.1\11.PrefixTest.dll
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\bin\Debug\netcoreapp3.1\11.PrefixTest.pdb
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\obj\Debug\netcoreapp3.1\11.PrefixTest.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\obj\Debug\netcoreapp3.1\11.PrefixTest.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\obj\Debug\netcoreapp3.1\11.PrefixTest.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\obj\Debug\netcoreapp3.1\11.PrefixTest.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\obj\Debug\netcoreapp3.1\11.PrefixTest.dll
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\obj\Debug\netcoreapp3.1\11.PrefixTest.pdb
+D:\Yordan\intern yordan\intern\Tasks\TextFiles\11.PrefixTest\obj\Debug\netcoreapp3.1\11.PrefixTest.genruntimeconfig.cache

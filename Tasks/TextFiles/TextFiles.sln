@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.DeleteOddLines", "09.Del
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.ExtractTextFromXML", "10.ExtractTextFromXML\10.ExtractTextFromXML.csproj", "{D9B96C31-185E-4A87-B4E3-CC7BEE727247}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.PrefixTest", "11.PrefixTest\11.PrefixTest.csproj", "{9C02F73E-04F0-489F-B24C-49DAC00BF545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.PrefixTest", "11.PrefixTest\11.PrefixTest.csproj", "{9C02F73E-04F0-489F-B24C-49DAC00BF545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.RemoveWords", "12.RemoveWords\12.RemoveWords.csproj", "{2C8020AE-F174-41F1-A90C-F26CD037F92E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.CountWords", "13.CountWords\13.CountWords.csproj", "{55485BB9-43CE-405A-8417-9AB3AA94D813}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{9C02F73E-04F0-489F-B24C-49DAC00BF545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C02F73E-04F0-489F-B24C-49DAC00BF545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C02F73E-04F0-489F-B24C-49DAC00BF545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8020AE-F174-41F1-A90C-F26CD037F92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8020AE-F174-41F1-A90C-F26CD037F92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8020AE-F174-41F1-A90C-F26CD037F92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8020AE-F174-41F1-A90C-F26CD037F92E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55485BB9-43CE-405A-8417-9AB3AA94D813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55485BB9-43CE-405A-8417-9AB3AA94D813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55485BB9-43CE-405A-8417-9AB3AA94D813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55485BB9-43CE-405A-8417-9AB3AA94D813}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

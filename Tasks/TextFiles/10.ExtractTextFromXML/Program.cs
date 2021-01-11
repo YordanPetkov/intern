@@ -13,8 +13,15 @@ namespace _10.ExtractTextFromXML
             {
                 if (xmlReader.NodeType == XmlNodeType.Element)
                 {
-                    if (xmlReader.HasAttributes)
+                        Console.WriteLine(xmlReader.Name);
+                }
+                if (xmlReader.NodeType == XmlNodeType.Text)
+                {
                         Console.WriteLine(xmlReader.Value);
+                }
+                if (xmlReader.NodeType == XmlNodeType.EndElement)
+                {
+                    Console.WriteLine("");
                 }
             }
         }

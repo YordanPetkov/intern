@@ -1,0 +1,7 @@
+kindly:1
+everything:1
+containing:1
+villager:2
+children:2
+I:6
+the:24
