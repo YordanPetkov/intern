@@ -6,8 +6,6 @@ namespace _01.DefineClass
 {
     class Display
     {
-        private double size;
-        private long numberColors;
         public Display()
         {
             Size = 0;

@@ -9,3 +9,16 @@ C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\
 C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.pdb
 C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.dll
 C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.pdb
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.exe
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.deps.json
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.dll
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\bin\Debug\netcoreapp3.0\01.DefineClass.pdb
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.dll
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.pdb
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 1\01.DefineClass\obj\Debug\netcoreapp3.0\01.DefineClass.genruntimeconfig.cache

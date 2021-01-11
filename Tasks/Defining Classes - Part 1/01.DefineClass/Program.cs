@@ -7,7 +7,7 @@ namespace _01.DefineClass
         static void Main(string[] args)
         {
             GSMTest test = new GSMTest();
-            Console.WriteLine(test.ToString());
+            GSMCallHistoryTest test2 = new GSMCallHistoryTest();
         }
     }
 }

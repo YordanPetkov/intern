@@ -6,12 +6,6 @@ namespace _01.DefineClass
 {
     class GSM
     {
-        private string model;
-        private string manufacturer;
-        private double price;
-        private string owner;
-        private Display gsmDisplay;
-        private Battery gsmBattery;
         private static string iPhone4S;
         public GSM(string model, string manufacturer, Display display = null, Battery battery = null, double price = 0, string owner = null)
         {
@@ -22,6 +16,7 @@ namespace _01.DefineClass
             Owner = owner;
             GsmDisplay = display;
             GsmBattery = battery;
+            CallHistory = new List<Call>();
         }
 
         public string Model { get; private set; }
@@ -31,7 +26,31 @@ namespace _01.DefineClass
         public Display GsmDisplay { get; private set; }
         public Battery GsmBattery { get; private set; }
         public static string IPhone4S { get { return iPhone4S; } }
+        public List<Call> CallHistory { get; private set; }
 
+        public void AddCall(Call call)
+        {
+            CallHistory.Add(call);
+        }
+        public void DeleteCall(Call call)
+        {
+            CallHistory.Remove(call);
+        }
+        public void ClearHistory()
+        {
+            CallHistory.Clear();
+        }
+        public double CallPrice(double pricePerMinute)
+        {
+            double price = 0;
+
+            foreach (Call call in CallHistory)
+            {
+                price += call.Duration / 60.0 * pricePerMinute;
+            }
+
+            return price;
+        }
         public override string ToString()
         {
             string text = "";

@@ -15,6 +15,7 @@ namespace _01.DefineClass
             gsm[2] = new GSM("Venue 8 7000", "Dell", new Display(8.4), new Battery(type:BatteryType.LiIon, hoursIdle:48, hoursTalk:10.5));
             gsm[3] = new GSM("P smart 2021", "Huawei", new Display(6.67), new Battery(type:BatteryType.LiPoly, hoursIdle:40, hoursTalk:9.1), 1200);
             gsm[4] = new GSM("K12 Pro", "Lenovo", new Display(6.8, 16747216), new Battery("Lithium polymer", BatteryType.LiPoly, 47.7, 8.9), 980, "Peter Jackson");
+            Console.WriteLine(this.ToString());
         }
 
         public override string ToString()
