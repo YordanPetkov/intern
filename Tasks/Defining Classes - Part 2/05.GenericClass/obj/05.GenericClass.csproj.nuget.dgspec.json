@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj": {}
+    "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj": {
+    "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj",
+        "projectUniqueName": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj",
         "projectName": "05.GenericClass",
-        "projectPath": "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj",
+        "projectPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj",
         "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\05.GenericClass\\obj\\",
+        "outputPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",

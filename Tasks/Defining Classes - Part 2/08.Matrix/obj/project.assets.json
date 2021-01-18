@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\08.Matrix\\08.Matrix.csproj",
+      "projectUniqueName": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\08.Matrix\\08.Matrix.csproj",
       "projectName": "08.Matrix",
-      "projectPath": "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\08.Matrix\\08.Matrix.csproj",
+      "projectPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\08.Matrix\\08.Matrix.csproj",
       "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\08.Matrix\\obj\\",
+      "outputPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\08.Matrix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",

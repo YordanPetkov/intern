@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\02.DefineClass\\02.DefineClass.csproj",
+      "projectUniqueName": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\02.DefineClass\\02.DefineClass.csproj",
       "projectName": "02.DefineClass",
-      "projectPath": "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\02.DefineClass\\02.DefineClass.csproj",
+      "projectPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\02.DefineClass\\02.DefineClass.csproj",
       "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yordan.Petkov\\source\\repos\\Defining Classes - Part 2\\02.DefineClass\\obj\\",
+      "outputPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\02.DefineClass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
