@@ -1,0 +1,13 @@
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\bin\Debug\netcoreapp3.1\02.DefineClass.exe
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\bin\Debug\netcoreapp3.1\02.DefineClass.deps.json
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\bin\Debug\netcoreapp3.1\02.DefineClass.runtimeconfig.json
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\bin\Debug\netcoreapp3.1\02.DefineClass.runtimeconfig.dev.json
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\bin\Debug\netcoreapp3.1\02.DefineClass.dll
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\bin\Debug\netcoreapp3.1\02.DefineClass.pdb
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\obj\Debug\netcoreapp3.1\02.DefineClass.csprojAssemblyReference.cache
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\obj\Debug\netcoreapp3.1\02.DefineClass.AssemblyInfoInputs.cache
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\obj\Debug\netcoreapp3.1\02.DefineClass.AssemblyInfo.cs
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\obj\Debug\netcoreapp3.1\02.DefineClass.csproj.CoreCompileInputs.cache
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\obj\Debug\netcoreapp3.1\02.DefineClass.dll
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\obj\Debug\netcoreapp3.1\02.DefineClass.pdb
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\02.DefineClass\obj\Debug\netcoreapp3.1\02.DefineClass.genruntimeconfig.cache

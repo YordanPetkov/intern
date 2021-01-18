@@ -1,0 +1,13 @@
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\bin\Debug\netcoreapp3.1\05.GenericClass.exe
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\bin\Debug\netcoreapp3.1\05.GenericClass.deps.json
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\bin\Debug\netcoreapp3.1\05.GenericClass.runtimeconfig.json
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\bin\Debug\netcoreapp3.1\05.GenericClass.runtimeconfig.dev.json
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\bin\Debug\netcoreapp3.1\05.GenericClass.dll
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\bin\Debug\netcoreapp3.1\05.GenericClass.pdb
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\obj\Debug\netcoreapp3.1\05.GenericClass.csprojAssemblyReference.cache
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\obj\Debug\netcoreapp3.1\05.GenericClass.AssemblyInfoInputs.cache
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\obj\Debug\netcoreapp3.1\05.GenericClass.AssemblyInfo.cs
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\obj\Debug\netcoreapp3.1\05.GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\obj\Debug\netcoreapp3.1\05.GenericClass.dll
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\obj\Debug\netcoreapp3.1\05.GenericClass.pdb
+C:\Users\Yordan.Petkov\source\repos\Defining Classes - Part 2\05.GenericClass\obj\Debug\netcoreapp3.1\05.GenericClass.genruntimeconfig.cache
