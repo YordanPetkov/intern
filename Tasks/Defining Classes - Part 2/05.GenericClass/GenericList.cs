@@ -33,11 +33,13 @@ namespace _05.GenericClass
                 Console.WriteLine("Invalid index.");
                 return array[0];
             }
+
             else if(index > lastIndex)
             {
                 Console.WriteLine("There is not value at index : {0}", index);
                 return array[0];
             }
+
             else
             {
                 return array[index];
@@ -50,10 +52,12 @@ namespace _05.GenericClass
             {
                 Console.WriteLine("Invalid index.");
             }
+
             else if (index > lastIndex)
             {
                 Console.WriteLine("There is not value at index : {0}", index);
             }
+
             else
             {
                 for (int i = index; i < lastIndex; i++)
@@ -61,6 +65,7 @@ namespace _05.GenericClass
                     array[i] = array[i + 1];
                 }
             }
+
             lastIndex--;
         }
 
@@ -70,10 +75,12 @@ namespace _05.GenericClass
             {
                 Console.WriteLine("Invalid index.");
             }
+
             else if (index > lastIndex)
             {
                 Console.WriteLine("There is not value at index : {0}", index);
             }
+
             else
             {
                 if(lastIndex + 1 < capacity)

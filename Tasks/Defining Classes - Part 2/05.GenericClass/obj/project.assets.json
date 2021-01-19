@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\": {}
+    "C:\\Users\\Pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj",
+      "projectUniqueName": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj",
       "projectName": "05.GenericClass",
-      "projectPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj",
-      "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
-      "outputPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\obj\\",
+      "projectPath": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\05.GenericClass.csproj",
+      "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+      "outputPath": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\Defining Classes - Part 2\\05.GenericClass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,12 +53,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
