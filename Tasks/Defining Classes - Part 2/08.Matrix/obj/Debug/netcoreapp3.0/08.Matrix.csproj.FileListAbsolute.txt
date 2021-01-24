@@ -1,0 +1,11 @@
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.exe
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.deps.json
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.runtimeconfig.json
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.runtimeconfig.dev.json
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.dll
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.pdb
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.csprojAssemblyReference.cache
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.AssemblyInfoInputs.cache
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.AssemblyInfo.cs
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.dll
+C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.pdb

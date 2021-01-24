@@ -99,25 +99,33 @@ namespace _08.Matrix
         {
             try
             {
-                if (matrixA.cells.GetLength(1) != matrixB.cells.GetLength(0))
+                int rowsMatrixA = matrixA.cells.GetLength(0);
+                int colsMatrixA = matrixA.cells.GetLength(1);
+                int rowsMatrixB = matrixB.cells.GetLength(0);
+                int colsMatrixB = matrixB.cells.GetLength(1);
+                if (colsMatrixA != rowsMatrixB)
                 {
                     throw new Exception("Operation multiplication cannot be performed.");
                 }
 
                 else
                 {
-                    int rows = matrixA.cells.GetLength(0);
-                    int cols = matrixB.cells.GetLength(1);
-                    Matrix<T> matrixResult = new Matrix<T>(rows, cols);
+                    Matrix<T> matrixResult = new Matrix<T>(rowsMatrixA, colsMatrixB);
 
-                    for (int i = 0; i < rows; i++)
+                    for (int i = 0; i < rowsMatrixA; i++)
                     {
-                        for (int j = 0; j < cols; j++)
+                        for (int j = 0; j < colsMatrixB; j++)
                         {
-                            dynamic tempA = matrixA[i, j];
-                            dynamic tempB = matrixB[i, j];
-                            dynamic result = Math.Abs(tempA - tempB);
-                            matrixResult[i, j] = result;
+                            dynamic cellIJ = 0;
+                            for (int k = 0; k < colsMatrixA; k++)
+                            {
+                                dynamic tempA = matrixA[i, k];
+                                dynamic tempB = matrixB[k, j];
+                                dynamic result = Math.Abs(tempA * tempB);
+                                cellIJ += result;
+                            }
+                            matrixResult[i, j] = cellIJ;
+
                         }
                     }
 
@@ -131,6 +139,56 @@ namespace _08.Matrix
             }
 
             return null;
+        }
+
+        public static bool operator true(Matrix<T> matrix)
+        {
+            bool isNonZero = true;
+            for (int i = 0; i < matrix.cells.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix.cells.GetLength(1); j++)
+                {
+                    dynamic cellIJ = matrix[i, j];
+                    if(cellIJ == 0)
+                    {
+                        isNonZero = false;
+                    }
+                }
+            }
+
+            return isNonZero;
+        }
+
+        public static bool operator false(Matrix<T> matrix)
+        {
+            bool isZero = true;
+            for (int i = 0; i < matrix.cells.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix.cells.GetLength(1); j++)
+                {
+                    dynamic cellIJ = matrix[i, j];
+                    if (cellIJ == 0)
+                    {
+                        isZero = true;
+                    }
+                }
+            }
+
+            return isZero;
+        }
+
+        public override string ToString()
+        {
+            string printedMatrix = "";
+            for (int i = 0; i < cells.GetLength(0); i++)
+            {
+                for (int j = 0; j < cells.GetLength(1); j++)
+                {
+                    printedMatrix += cells[i, j] + " ";
+                }
+                printedMatrix += "\n";
+            }
+            return printedMatrix;
         }
     }
 }
