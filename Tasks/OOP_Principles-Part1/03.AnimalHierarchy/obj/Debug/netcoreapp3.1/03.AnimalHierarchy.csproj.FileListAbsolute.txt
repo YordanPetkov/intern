@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\bin\Debug\netcoreapp3.1\03.AnimalHierarchy.exe
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\bin\Debug\netcoreapp3.1\03.AnimalHierarchy.deps.json
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\bin\Debug\netcoreapp3.1\03.AnimalHierarchy.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\bin\Debug\netcoreapp3.1\03.AnimalHierarchy.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\bin\Debug\netcoreapp3.1\03.AnimalHierarchy.dll
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\bin\Debug\netcoreapp3.1\03.AnimalHierarchy.pdb
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\obj\Debug\netcoreapp3.1\03.AnimalHierarchy.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\obj\Debug\netcoreapp3.1\03.AnimalHierarchy.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\obj\Debug\netcoreapp3.1\03.AnimalHierarchy.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\obj\Debug\netcoreapp3.1\03.AnimalHierarchy.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\obj\Debug\netcoreapp3.1\03.AnimalHierarchy.dll
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\obj\Debug\netcoreapp3.1\03.AnimalHierarchy.pdb
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\03.AnimalHierarchy\obj\Debug\netcoreapp3.1\03.AnimalHierarchy.genruntimeconfig.cache

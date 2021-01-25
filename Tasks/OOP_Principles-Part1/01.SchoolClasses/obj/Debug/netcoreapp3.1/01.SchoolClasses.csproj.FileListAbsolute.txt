@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\bin\Debug\netcoreapp3.1\01.SchoolClasses.exe
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\bin\Debug\netcoreapp3.1\01.SchoolClasses.deps.json
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\bin\Debug\netcoreapp3.1\01.SchoolClasses.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\bin\Debug\netcoreapp3.1\01.SchoolClasses.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\bin\Debug\netcoreapp3.1\01.SchoolClasses.dll
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\bin\Debug\netcoreapp3.1\01.SchoolClasses.pdb
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\obj\Debug\netcoreapp3.1\01.SchoolClasses.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\obj\Debug\netcoreapp3.1\01.SchoolClasses.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\obj\Debug\netcoreapp3.1\01.SchoolClasses.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\obj\Debug\netcoreapp3.1\01.SchoolClasses.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\obj\Debug\netcoreapp3.1\01.SchoolClasses.dll
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\obj\Debug\netcoreapp3.1\01.SchoolClasses.pdb
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\01.SchoolClasses\obj\Debug\netcoreapp3.1\01.SchoolClasses.genruntimeconfig.cache

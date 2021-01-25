@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\bin\Debug\netcoreapp3.1\02.StudentsAndWorkers.exe
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\bin\Debug\netcoreapp3.1\02.StudentsAndWorkers.deps.json
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\bin\Debug\netcoreapp3.1\02.StudentsAndWorkers.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\bin\Debug\netcoreapp3.1\02.StudentsAndWorkers.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\bin\Debug\netcoreapp3.1\02.StudentsAndWorkers.dll
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\bin\Debug\netcoreapp3.1\02.StudentsAndWorkers.pdb
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\obj\Debug\netcoreapp3.1\02.StudentsAndWorkers.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\obj\Debug\netcoreapp3.1\02.StudentsAndWorkers.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\obj\Debug\netcoreapp3.1\02.StudentsAndWorkers.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\obj\Debug\netcoreapp3.1\02.StudentsAndWorkers.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\obj\Debug\netcoreapp3.1\02.StudentsAndWorkers.dll
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\obj\Debug\netcoreapp3.1\02.StudentsAndWorkers.pdb
+D:\Yordan\intern yordan\intern\Tasks\OOP_Principles-Part1\02.StudentsAndWorkers\obj\Debug\netcoreapp3.1\02.StudentsAndWorkers.genruntimeconfig.cache
