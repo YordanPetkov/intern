@@ -1,0 +1,11 @@
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\bin\Debug\netcoreapp3.0\02.BankAccounts.exe
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\bin\Debug\netcoreapp3.0\02.BankAccounts.deps.json
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\bin\Debug\netcoreapp3.0\02.BankAccounts.runtimeconfig.json
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\bin\Debug\netcoreapp3.0\02.BankAccounts.runtimeconfig.dev.json
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\bin\Debug\netcoreapp3.0\02.BankAccounts.dll
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\bin\Debug\netcoreapp3.0\02.BankAccounts.pdb
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\obj\Debug\netcoreapp3.0\02.BankAccounts.csprojAssemblyReference.cache
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\obj\Debug\netcoreapp3.0\02.BankAccounts.AssemblyInfoInputs.cache
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\obj\Debug\netcoreapp3.0\02.BankAccounts.AssemblyInfo.cs
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\obj\Debug\netcoreapp3.0\02.BankAccounts.dll
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\02.BankAccounts\obj\Debug\netcoreapp3.0\02.BankAccounts.pdb

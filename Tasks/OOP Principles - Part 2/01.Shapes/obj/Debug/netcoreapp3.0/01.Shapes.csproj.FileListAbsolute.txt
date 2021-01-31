@@ -1,0 +1,11 @@
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\bin\Debug\netcoreapp3.0\01.Shapes.exe
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\bin\Debug\netcoreapp3.0\01.Shapes.deps.json
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\bin\Debug\netcoreapp3.0\01.Shapes.runtimeconfig.json
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\bin\Debug\netcoreapp3.0\01.Shapes.runtimeconfig.dev.json
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\bin\Debug\netcoreapp3.0\01.Shapes.dll
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\bin\Debug\netcoreapp3.0\01.Shapes.pdb
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\obj\Debug\netcoreapp3.0\01.Shapes.csprojAssemblyReference.cache
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\obj\Debug\netcoreapp3.0\01.Shapes.AssemblyInfoInputs.cache
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\obj\Debug\netcoreapp3.0\01.Shapes.AssemblyInfo.cs
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\obj\Debug\netcoreapp3.0\01.Shapes.dll
+C:\YRD\Programming\intern\intern\Tasks\OOP Principles - Part 2\01.Shapes\obj\Debug\netcoreapp3.0\01.Shapes.pdb
