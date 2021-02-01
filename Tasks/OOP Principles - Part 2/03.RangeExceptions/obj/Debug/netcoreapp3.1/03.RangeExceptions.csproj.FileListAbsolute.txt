@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\bin\Debug\netcoreapp3.1\03.RangeExceptions.exe
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\bin\Debug\netcoreapp3.1\03.RangeExceptions.deps.json
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\bin\Debug\netcoreapp3.1\03.RangeExceptions.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\bin\Debug\netcoreapp3.1\03.RangeExceptions.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\bin\Debug\netcoreapp3.1\03.RangeExceptions.dll
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\bin\Debug\netcoreapp3.1\03.RangeExceptions.pdb
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\obj\Debug\netcoreapp3.1\03.RangeExceptions.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\obj\Debug\netcoreapp3.1\03.RangeExceptions.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\obj\Debug\netcoreapp3.1\03.RangeExceptions.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\obj\Debug\netcoreapp3.1\03.RangeExceptions.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\obj\Debug\netcoreapp3.1\03.RangeExceptions.dll
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\obj\Debug\netcoreapp3.1\03.RangeExceptions.pdb
+D:\Yordan\intern yordan\intern\Tasks\OOP Principles - Part 2\03.RangeExceptions\obj\Debug\netcoreapp3.1\03.RangeExceptions.genruntimeconfig.cache

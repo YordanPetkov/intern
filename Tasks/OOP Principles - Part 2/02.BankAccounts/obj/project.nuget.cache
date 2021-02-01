@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "naX0GlnKx49Ib8wvRB0XxS50/rR0cQ2QGvBcAFaLStL+uwI5aS/+LxYBRI4y6APZgQiLtC0+DBQIRFNz7txmQQ==",
+  "success": true,
+  "projectFilePath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\OOP Principles - Part 2\\02.BankAccounts\\02.BankAccounts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

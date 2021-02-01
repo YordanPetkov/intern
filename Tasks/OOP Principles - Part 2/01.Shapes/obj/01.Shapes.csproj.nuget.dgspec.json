@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\YRD\\Programming\\intern\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\01.Shapes.csproj": {}
+    "D:\\Yordan\\intern yordan\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\01.Shapes.csproj": {}
   },
   "projects": {
-    "C:\\YRD\\Programming\\intern\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\01.Shapes.csproj": {
+    "D:\\Yordan\\intern yordan\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\01.Shapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\01.Shapes.csproj",
+        "projectUniqueName": "D:\\Yordan\\intern yordan\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\01.Shapes.csproj",
         "projectName": "01.Shapes",
-        "projectPath": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\01.Shapes.csproj",
-        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\YRD\\Programming\\intern\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\obj\\",
+        "projectPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\01.Shapes.csproj",
+        "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
+        "outputPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,12 +47,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

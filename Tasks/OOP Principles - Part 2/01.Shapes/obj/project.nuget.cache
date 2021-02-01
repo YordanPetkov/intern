@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3XSt/UzVe/eRs9zz2G/wYGanh9NXf88Xa5Sht3IGSluNhTTgxeCRXKGndrKjRv0Tux3Es2slfQhUV0XO87s6Tw==",
+  "success": true,
+  "projectFilePath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\OOP Principles - Part 2\\01.Shapes\\01.Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
