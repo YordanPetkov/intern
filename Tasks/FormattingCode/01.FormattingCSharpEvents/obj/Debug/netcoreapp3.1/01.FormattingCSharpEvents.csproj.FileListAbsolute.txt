@@ -1,0 +1,3 @@
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\bin\Debug\netcoreapp3.1\01.FormattingCSharpEvents.exe
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\obj\Debug\netcoreapp3.1\01.FormattingCSharpEvents.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\obj\Debug\netcoreapp3.1\01.FormattingCSharpEvents.AssemblyInfo.cs

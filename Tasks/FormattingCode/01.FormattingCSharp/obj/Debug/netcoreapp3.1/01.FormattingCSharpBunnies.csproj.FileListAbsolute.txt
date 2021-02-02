@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\bin\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.exe
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\bin\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.deps.json
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\bin\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\bin\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\bin\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.dll
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\bin\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.pdb
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\obj\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\obj\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\obj\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\obj\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\obj\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.dll
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\obj\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.pdb
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharp\obj\Debug\netcoreapp3.1\01.FormattingCSharpBunnies.genruntimeconfig.cache
