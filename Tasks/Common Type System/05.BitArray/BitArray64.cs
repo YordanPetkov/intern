@@ -6,20 +6,20 @@ namespace _05.BitArray
 {
     class BitArray64
     {
-        private ulong data;
-
         public BitArray64()
         {
-            data = 0;
+            Data = 0;
         }
+
+        public ulong Data { get; set; }
 
         public byte this[int index]
         {
             get
             {
-                ulong tempData = data;
+                ulong tempData = Data;
 
-                for (int i = 1; i < index; i++)
+                for (int i = 0; i < index; i++)
                 {
                     tempData = tempData / 2;
                 }
@@ -35,13 +35,34 @@ namespace _05.BitArray
             {
                 if(this[index] == 0 && value == 1)
                 {
-                    data += (ulong)Math.Pow(2, (double)index);
+                    Data += (ulong)Math.Pow(2, (double)index);
                 }
                 else if(this[index] == 1 && value == 0)
                 {
-                    data -= (ulong)Math.Pow(2, (double)index);
+                    Data -= (ulong)Math.Pow(2, (double)index);
                 }
             }
         }
+
+        public static bool operator ==(BitArray64 firstArray, BitArray64 secondArray)
+        {
+            return firstArray.Data == secondArray.Data;
+        }
+
+        public static bool operator !=(BitArray64 firstArray, BitArray64 secondArray)
+        {
+            return firstArray.Data != secondArray.Data;
+        }
+
+        public bool Equals(BitArray64 bitArray)
+        {
+            return this.Data == bitArray.Data;
+        }
+
+        public override int GetHashCode()
+        {
+            return this.Data.GetHashCode();
+        }
+
     }
 }

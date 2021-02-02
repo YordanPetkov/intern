@@ -6,7 +6,13 @@ namespace _05.BitArray
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BitArray64 bitArray = new BitArray64();
+            bitArray[4] = 1;
+            bitArray[7] = 1;
+            for (int i = 0; i < 20; i++)
+            {
+                Console.WriteLine(i + " " + bitArray[i]);
+            }
         }
     }
 }
