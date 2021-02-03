@@ -1,0 +1,13 @@
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\bin\Debug\netcoreapp3.1\01.class_123InCSharp.exe
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\bin\Debug\netcoreapp3.1\01.class_123InCSharp.deps.json
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\bin\Debug\netcoreapp3.1\01.class_123InCSharp.runtimeconfig.json
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\bin\Debug\netcoreapp3.1\01.class_123InCSharp.runtimeconfig.dev.json
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\bin\Debug\netcoreapp3.1\01.class_123InCSharp.dll
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\bin\Debug\netcoreapp3.1\01.class_123InCSharp.pdb
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\obj\Debug\netcoreapp3.1\01.class_123InCSharp.csprojAssemblyReference.cache
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\obj\Debug\netcoreapp3.1\01.class_123InCSharp.AssemblyInfoInputs.cache
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\obj\Debug\netcoreapp3.1\01.class_123InCSharp.AssemblyInfo.cs
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\obj\Debug\netcoreapp3.1\01.class_123InCSharp.csproj.CoreCompileInputs.cache
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\obj\Debug\netcoreapp3.1\01.class_123InCSharp.dll
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\obj\Debug\netcoreapp3.1\01.class_123InCSharp.pdb
+D:\Yordan\intern\intern\Tasks\Naming Identifiers\01.class_123InCSharp\obj\Debug\netcoreapp3.1\01.class_123InCSharp.genruntimeconfig.cache
