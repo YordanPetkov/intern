@@ -6,7 +6,23 @@ namespace _02.MakePersonInCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+        }
+
+        public void MakePerson(int personIdentifier)
+        {
+            Person person = new Person();
+            person.Age = personIdentifier;
+            if(personIdentifier % 2 == 0)
+            {
+                person.Name = "The man";
+                person.Sex = Sex.Male;
+            }
+
+            else
+            {
+                person.Name = "The man";
+                person.Sex = Sex.Female;
+            }
         }
     }
 }
