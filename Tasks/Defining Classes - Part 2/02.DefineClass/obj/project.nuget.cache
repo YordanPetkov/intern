@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7wrF7ndEG22TX60h6yXwJ472eu8lxGliDeEDr7ltZxpuhVqkGzcwWybRgG8Zrt2k1Iqfbq79eeygimx6weuAjQ==",
+  "dgSpecHash": "6yJOPuzTmOJ5t+Un71WHykINnae14vHv6qaoDg9+aUp8wKovOcZy4BdHiG80BoEfm8nhzrz+E9ZhxSNpfYRliA==",
   "success": true,
   "projectFilePath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\02.DefineClass\\02.DefineClass.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

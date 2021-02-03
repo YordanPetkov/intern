@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xzycGirDhWugtT0ZZpqlDZK//xvxWdqpXyzVE8DzzAAuFhvF4h/v+CnkdqEbyhhS8dT+ucC6uEEG4L86eQp6HQ==",
+  "dgSpecHash": "Fsbh4DOtoHM0HXGprHmAeUeJfjprx2efxK1HRWch5aZlpweX9vBLrjcq16uRzn5Snf687rEI/7EOmOoeCMol/g==",
   "success": true,
   "projectFilePath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Defining Classes - Part 2\\08.Matrix\\08.Matrix.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

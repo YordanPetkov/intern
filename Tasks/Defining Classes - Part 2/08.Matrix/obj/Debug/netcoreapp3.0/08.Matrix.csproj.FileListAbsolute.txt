@@ -9,3 +9,16 @@ C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\D
 C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.AssemblyInfo.cs
 C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.dll
 C:\YRD\Programming\intern\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.pdb
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.exe
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.deps.json
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.dll
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\bin\Debug\netcoreapp3.0\08.Matrix.pdb
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.dll
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.pdb
+D:\Yordan\intern yordan\intern\Tasks\Defining Classes - Part 2\08.Matrix\obj\Debug\netcoreapp3.0\08.Matrix.genruntimeconfig.cache

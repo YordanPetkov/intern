@@ -21,7 +21,8 @@ namespace _08.Matrix
             Matrix<int> productMatrix = matrixA * matrixB;
             Console.WriteLine(sumMatrix.ToString());
             Console.WriteLine(resultSubtractionMatrix.ToString()); 
-            Console.WriteLine(productMatrix.ToString()); 
+            Console.WriteLine(productMatrix.ToString());
+            Console.WriteLine("Version of matrix A: {0}", matrixA.Version);
         }
     }
 }

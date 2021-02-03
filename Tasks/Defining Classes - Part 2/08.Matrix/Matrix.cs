@@ -7,12 +7,15 @@ namespace _08.Matrix
 {
     class Matrix<T>
     {
-        T[,] cells;
+        private T[,] cells;
+        public Version version = new Version("2.11");
 
         public Matrix(int n, int m)
         {
             cells = new T[n, m];
         }
+
+        public Version Version { get { return version; } }
 
         public T this[int row, int col]
         {
