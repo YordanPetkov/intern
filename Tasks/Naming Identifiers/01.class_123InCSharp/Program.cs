@@ -6,10 +6,10 @@ namespace _01.class_123InCSharp
     {
         static void Main(string[] args)
         {
-            inputValue();
+            input();
         }
 
-        public static void inputValue()
+        public static void input()
         {
             StringUtility stringUtility = new StringUtility();
             stringUtility.parseBool(true);
