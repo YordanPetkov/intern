@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\bin\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.exe
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\bin\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.deps.json
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\bin\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\bin\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\bin\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.dll
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\bin\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.pdb
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\obj\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\obj\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\obj\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\obj\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\obj\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.dll
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\obj\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.pdb
+D:\Yordan\intern yordan\intern\Tasks\Naming Identifiers\04.Re-factorAndImproveTheCode\obj\Debug\netcoreapp3.1\04.Re-factorAndImproveTheCode.genruntimeconfig.cache
