@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MakePersonInCSharp", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ClickOnTheButtonJS", "03.ClickOnTheButtonJS\03.ClickOnTheButtonJS.csproj", "{EBCA87CB-7B11-4B89-8280-582B4BA740F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Re-factorAndImproveTheCode", "04.Re-factorAndImproveTheCode\04.Re-factorAndImproveTheCode.csproj", "{9D6D66DD-52C2-48B7-B910-681AF01FF678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EBCA87CB-7B11-4B89-8280-582B4BA740F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBCA87CB-7B11-4B89-8280-582B4BA740F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBCA87CB-7B11-4B89-8280-582B4BA740F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D6D66DD-52C2-48B7-B910-681AF01FF678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6D66DD-52C2-48B7-B910-681AF01FF678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6D66DD-52C2-48B7-B910-681AF01FF678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6D66DD-52C2-48B7-B910-681AF01FF678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
