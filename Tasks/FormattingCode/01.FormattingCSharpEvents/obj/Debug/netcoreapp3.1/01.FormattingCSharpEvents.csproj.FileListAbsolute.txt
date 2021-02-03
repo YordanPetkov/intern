@@ -1,3 +1,15 @@
 D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\bin\Debug\netcoreapp3.1\01.FormattingCSharpEvents.exe
 D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\obj\Debug\netcoreapp3.1\01.FormattingCSharpEvents.AssemblyInfoInputs.cache
 D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\obj\Debug\netcoreapp3.1\01.FormattingCSharpEvents.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\bin\Debug\netcoreapp3.1\01.FormattingCSharpEvents.deps.json
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\bin\Debug\netcoreapp3.1\01.FormattingCSharpEvents.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\bin\Debug\netcoreapp3.1\01.FormattingCSharpEvents.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\bin\Debug\netcoreapp3.1\01.FormattingCSharpEvents.dll
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\bin\Debug\netcoreapp3.1\01.FormattingCSharpEvents.pdb
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\bin\Debug\netcoreapp3.1\PowerCollections.dll
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\obj\Debug\netcoreapp3.1\01.FormattingCSharpEvents.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\obj\Debug\netcoreapp3.1\01.FormattingCSharpEvents.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\obj\Debug\netcoreapp3.1\01.FormattingCSharpEvents.csproj.CopyComplete
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\obj\Debug\netcoreapp3.1\01.FormattingCSharpEvents.dll
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\obj\Debug\netcoreapp3.1\01.FormattingCSharpEvents.pdb
+D:\Yordan\intern yordan\intern\Tasks\FormattingCode\01.FormattingCSharpEvents\obj\Debug\netcoreapp3.1\01.FormattingCSharpEvents.genruntimeconfig.cache

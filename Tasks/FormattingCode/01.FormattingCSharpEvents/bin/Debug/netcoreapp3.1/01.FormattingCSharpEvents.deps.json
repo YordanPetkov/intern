@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "01.FormattingCSharpEvents/1.0.0": {
+        "dependencies": {
+          "Stakata.Wintellect.PowerCollections": "1.0.4"
+        },
+        "runtime": {
+          "01.FormattingCSharpEvents.dll": {}
+        }
+      },
+      "Stakata.Wintellect.PowerCollections/1.0.4": {
+        "runtime": {
+          "lib/net20/PowerCollections.dll": {
+            "assemblyVersion": "1.0.2141.24679",
+            "fileVersion": "1.0.2141.24679"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01.FormattingCSharpEvents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stakata.Wintellect.PowerCollections/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+uB9ZDbTYhIMMXEC9UcSrD/QmjtJFoAWGY0EeGM66nJ/dt/O7nCc5c4ITNTI445Cp0mrFbOk629wwtTZNw0YEw==",
+      "path": "stakata.wintellect.powercollections/1.0.4",
+      "hashPath": "stakata.wintellect.powercollections.1.0.4.nupkg.sha512"
+    }
+  }
+}
