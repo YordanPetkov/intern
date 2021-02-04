@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\bin\Debug\netcoreapp3.1\03.CohesionAndCoupling.exe
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\bin\Debug\netcoreapp3.1\03.CohesionAndCoupling.deps.json
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\bin\Debug\netcoreapp3.1\03.CohesionAndCoupling.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\bin\Debug\netcoreapp3.1\03.CohesionAndCoupling.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\bin\Debug\netcoreapp3.1\03.CohesionAndCoupling.dll
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\bin\Debug\netcoreapp3.1\03.CohesionAndCoupling.pdb
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\obj\Debug\netcoreapp3.1\03.CohesionAndCoupling.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\obj\Debug\netcoreapp3.1\03.CohesionAndCoupling.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\obj\Debug\netcoreapp3.1\03.CohesionAndCoupling.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\obj\Debug\netcoreapp3.1\03.CohesionAndCoupling.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\obj\Debug\netcoreapp3.1\03.CohesionAndCoupling.dll
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\obj\Debug\netcoreapp3.1\03.CohesionAndCoupling.pdb
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\03.CohesionAndCoupling\obj\Debug\netcoreapp3.1\03.CohesionAndCoupling.genruntimeconfig.cache
