@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\bin\Debug\netcoreapp3.1\03.RefactorTheLoop.exe
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\bin\Debug\netcoreapp3.1\03.RefactorTheLoop.deps.json
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\bin\Debug\netcoreapp3.1\03.RefactorTheLoop.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\bin\Debug\netcoreapp3.1\03.RefactorTheLoop.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\bin\Debug\netcoreapp3.1\03.RefactorTheLoop.dll
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\bin\Debug\netcoreapp3.1\03.RefactorTheLoop.pdb
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\obj\Debug\netcoreapp3.1\03.RefactorTheLoop.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\obj\Debug\netcoreapp3.1\03.RefactorTheLoop.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\obj\Debug\netcoreapp3.1\03.RefactorTheLoop.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\obj\Debug\netcoreapp3.1\03.RefactorTheLoop.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\obj\Debug\netcoreapp3.1\03.RefactorTheLoop.dll
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\obj\Debug\netcoreapp3.1\03.RefactorTheLoop.pdb
+D:\Yordan\intern yordan\intern\Tasks\Control Flow, Conditionals, Loops\03.RefactorTheLoop\obj\Debug\netcoreapp3.1\03.RefactorTheLoop.genruntimeconfig.cache

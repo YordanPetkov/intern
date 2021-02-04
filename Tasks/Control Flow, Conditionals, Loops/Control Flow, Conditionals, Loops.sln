@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ClassChef", "01.ClassChe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RefactorTheIfStatements", "02.RefactorTheIfStatements\02.RefactorTheIfStatements.csproj", "{42CD858D-E41E-440C-935F-AB16A8C83E4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RefactorTheLoop", "03.RefactorTheLoop\03.RefactorTheLoop.csproj", "{EAEDCB99-E79C-402A-A118-BEEA19AEB17D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{42CD858D-E41E-440C-935F-AB16A8C83E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42CD858D-E41E-440C-935F-AB16A8C83E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42CD858D-E41E-440C-935F-AB16A8C83E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAEDCB99-E79C-402A-A118-BEEA19AEB17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEDCB99-E79C-402A-A118-BEEA19AEB17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEDCB99-E79C-402A-A118-BEEA19AEB17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEDCB99-E79C-402A-A118-BEEA19AEB17D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
