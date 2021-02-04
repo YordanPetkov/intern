@@ -1,0 +1,3 @@
+D:\Yordan\intern yordan\intern\Tasks\Comments_Documentation\01.StringExtensions\obj\Debug\netcoreapp3.1\01.StringExtensions.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Comments_Documentation\01.StringExtensions\obj\Debug\netcoreapp3.1\01.StringExtensions.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\Comments_Documentation\01.StringExtensions\obj\Debug\netcoreapp3.1\01.StringExtensions.csproj.CoreCompileInputs.cache
