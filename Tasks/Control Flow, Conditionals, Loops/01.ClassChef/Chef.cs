@@ -22,28 +22,31 @@ namespace _01.ClassChef
 
             foreach (var vegetable in vegetables)
             {
-                bowl.Add(carrot);
+                bowl.Add(vegetable);
             }
         }
 
         private Potato GetPotato()
         {
-            //...
+            return new Potato();
         }
 
         private Bowl GetBowl()
         {
-            //... 
+            return new Bowl();
         }
 
         private Carrot GetCarrot()
         {
-            //...
+            return new Carrot();
         }
 
-        private void Cut(Vegetable potato)
+        private void Cut(Vegetable vegetable)
         {
-            //...
+        }
+
+        private void Peel(Vegetable vegetable)
+        {
         }
     }
 }
