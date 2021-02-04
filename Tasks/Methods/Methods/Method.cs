@@ -4,7 +4,7 @@ namespace Methods
 {
     class Methods
     {
-        static double CalcTriangleArea(double a, double b, double c)
+        static double CalculateTriangleArea(double a, double b, double c)
         {
             if (a <= 0 || b <= 0 || c <= 0)
             {
@@ -15,7 +15,7 @@ namespace Methods
             return area;
         }
 
-        static string NumberToDigit(int number)
+        static string SpellDigit(int number)
         {
             switch (number)
             {
@@ -68,7 +68,7 @@ namespace Methods
             }
         }
 
-        static double CalcDistance(double x1, double y1, double x2, double y2,
+        static double CalculateDistance(double x1, double y1, double x2, double y2,
             out bool isHorizontal, out bool isVertical)
         {
             isHorizontal = (y1 == y2);
@@ -80,9 +80,9 @@ namespace Methods
 
         static void Main()
         {
-            Console.WriteLine(CalcTriangleArea(3, 4, 5));
+            Console.WriteLine(CalculateTriangleArea(3, 4, 5));
 
-            Console.WriteLine(NumberToDigit(5));
+            Console.WriteLine(SpellDigit(5));
 
             Console.WriteLine(FindMax(5, -1, 3, 2, 14, 2, 3));
 
@@ -91,7 +91,7 @@ namespace Methods
             PrintAsNumber(2.30, "r");
 
             bool horizontal, vertical;
-            Console.WriteLine(CalcDistance(3, -1, 3, 2.5, out horizontal, out vertical));
+            Console.WriteLine(CalculateDistance(3, -1, 3, 2.5, out horizontal, out vertical));
             Console.WriteLine("Horizontal? " + horizontal);
             Console.WriteLine("Vertical? " + vertical);
 
