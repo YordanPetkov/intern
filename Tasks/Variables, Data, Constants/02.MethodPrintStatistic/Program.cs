@@ -26,7 +26,22 @@ namespace _02.MethodPrintStatistic
 
             PrintMax(maxNumber);
             PrintMin(minNumber);
-            PrintAvg(sumNumbers / countNumbers);
+            PrintAverage(sumNumbers / countNumbers);
+        }
+
+        public void PrintMax(double number)
+        {
+            Console.WriteLine("Biggest number is {0}.", number);
+        }
+
+        public void PrintMin(double number)
+        {
+            Console.WriteLine("Lowest number is {0}.", number);
+        }
+
+        public void PrintAverage(double number)
+        {
+            Console.WriteLine("Average value is {0}.", number);
         }
 
     }

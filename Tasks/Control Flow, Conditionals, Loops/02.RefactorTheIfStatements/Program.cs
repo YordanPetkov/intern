@@ -15,7 +15,7 @@ namespace _02.RefactorTheIfStatements
             bool shouldNotVisitCell = false;
 
             Potato potato = new Potato();
-            //... 
+
             if (potato != null && !potato.HasNotBeenPeeled && !potato.IsRotten)
             {
                 Cook(potato);
