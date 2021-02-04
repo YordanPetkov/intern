@@ -14,7 +14,7 @@ namespace _01.Abstraction
         {
         }
 
-        public override double Width
+        protected override double Width
         {
             get
             {
@@ -26,7 +26,7 @@ namespace _01.Abstraction
             }
         }
 
-        public override double Height
+        protected override double Height
         {
             get
             {

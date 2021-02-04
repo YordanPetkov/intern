@@ -22,9 +22,51 @@ namespace _01.Abstraction
             this.Height = height;
         }
 
-        public virtual double Width { get; set; }
-        public virtual double Height { get; set; }
-        public virtual double Radius { get; set; }
+        protected virtual double Width 
+        {
+            get => Width;
+            set 
+            {
+                if (value < 0)
+                {
+                    Width = 0;
+                }
+                else
+                {
+                    Width = value;
+                }
+            }
+        }
+        protected virtual double Height
+        {
+            get => Height;
+            set
+            {
+                if (value < 0)
+                {
+                    Height = 0;
+                }
+                else
+                {
+                    Height = value;
+                }
+            }
+        }
+        protected virtual double Radius
+        {
+            get => Radius;
+            set
+            {
+                if (value < 0)
+                {
+                    Radius = 0;
+                }
+                else
+                {
+                    Radius = value;
+                }
+            }
+        }
 
         public abstract double CalcPerimeter();
 

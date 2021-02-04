@@ -16,7 +16,7 @@ namespace _01.Abstraction
         {
         }
 
-        public override double Radius
+        protected override double Radius
         {
             get
             {
