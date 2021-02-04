@@ -5,7 +5,7 @@ namespace _04.Re_factorAndImproveTheCode
 {
     class Program
     {
-		static void Main(string[] аргументи)
+		static void Main(string[] args)
 		{
 			string command = string.Empty;
 			char[,] gameField = createGameField();
@@ -16,7 +16,7 @@ namespace _04.Re_factorAndImproveTheCode
 			int positionRow = 0;
 			int positionColumn = 0;
 			bool isFirstInteraction = true;
-			const int maxMoves = 35;
+			const int MaxMoves = 35;
 			bool areMadeMaxMoves = false;
 
 			do
@@ -62,7 +62,7 @@ namespace _04.Re_factorAndImproveTheCode
 								makeTurn(gameField, bombs, positionRow, positionColumn);
 								counterOfPoints++;
 							}
-							if (maxMoves == counterOfPoints)
+							if (MaxMoves == counterOfPoints)
 							{
 								areMadeMaxMoves = true;
 							}
@@ -85,26 +85,26 @@ namespace _04.Re_factorAndImproveTheCode
 					printGameField(bombs);
 					Console.Write("\nHrrrrrr! Umria gerojski s {0} to4ki. " +
 						"Daj si niknejm: ", counterOfPoints);
-					string niknejm = Console.ReadLine();
-					Score t = new Score(niknejm, counterOfPoints);
+					string nickname = Console.ReadLine();
+					Score playerScore = new Score(nickname, counterOfPoints);
 					if (ranking.Count < 5)
 					{
-						ranking.Add(t);
+						ranking.Add(playerScore);
 					}
 					else
 					{
 						for (int i = 0; i < ranking.Count; i++)
 						{
-							if (ranking[i].Points < t.Points)
+							if (ranking[i].Points < playerScore.Points)
 							{
-								ranking.Insert(i, t);
+								ranking.Insert(i, playerScore);
 								ranking.RemoveAt(ranking.Count - 1);
 								break;
 							}
 						}
 					}
-					ranking.Sort((Score r1, Score r2) => r2.Name.CompareTo(r1.Name));
-					ranking.Sort((Score r1, Score r2) => r2.Points.CompareTo(r1.Points));
+					ranking.Sort((Score firstPlayer, Score secondPlayer) => secondPlayer.Name.CompareTo(firstPlayer.Name));
+					ranking.Sort((Score firstPlayer, Score secondPlayer) => secondPlayer.Points.CompareTo(firstPlayer.Points));
 					printRanking(ranking);
 
 					gameField = createGameField();
@@ -118,9 +118,9 @@ namespace _04.Re_factorAndImproveTheCode
 					Console.WriteLine("\nBRAVOOOS! Otvri 35 kletki bez kapka kryv.");
 					printGameField(bombs);
 					Console.WriteLine("Daj si imeto, batka: ");
-					string imeee = Console.ReadLine();
-					Score to4kii = new Score(imeee, counterOfPoints);
-					ranking.Add(to4kii);
+					string nickname = Console.ReadLine();
+					Score playerScore = new Score(nickname, counterOfPoints);
+					ranking.Add(playerScore);
 					printRanking(ranking);
 					gameField = createGameField();
 					bombs = setBombs();
@@ -241,12 +241,12 @@ namespace _04.Re_factorAndImproveTheCode
 
 		private static void smetki(char[,] gameField)
 		{
-			int kol = gameField.GetLength(0);
-			int red = gameField.GetLength(1);
+			int countColumns = gameField.GetLength(0);
+			int countRows = gameField.GetLength(1);
 
-			for (int i = 0; i < kol; i++)
+			for (int i = 0; i < countColumns; i++)
 			{
-				for (int j = 0; j < red; j++)
+				for (int j = 0; j < countRows; j++)
 				{
 					if (gameField[i, j] != '*')
 					{
@@ -257,64 +257,64 @@ namespace _04.Re_factorAndImproveTheCode
 			}
 		}
 
-		private static char getCountBombs(char[,] bombs, int row, int column)
+		private static char getCountBombs(char[,] gameField, int row, int column)
 		{
 			int counterBombs = 0;
-			int countRows = bombs.GetLength(0);
-			int countColumns = bombs.GetLength(1);
+			int countRows = gameField.GetLength(0);
+			int countColumns = gameField.GetLength(1);
 
 			if (row - 1 >= 0)
 			{
-				if (bombs[row - 1, column] == '*')
+				if (gameField[row - 1, column] == '*')
 				{
 					counterBombs++;
 				}
 			}
 			if (row + 1 < countRows)
 			{
-				if (bombs[row + 1, column] == '*')
+				if (gameField[row + 1, column] == '*')
 				{
 					counterBombs++;
 				}
 			}
 			if (column - 1 >= 0)
 			{
-				if (bombs[row, column - 1] == '*')
+				if (gameField[row, column - 1] == '*')
 				{
 					counterBombs++;
 				}
 			}
 			if (column + 1 < countColumns)
 			{
-				if (bombs[row, column + 1] == '*')
+				if (gameField[row, column + 1] == '*')
 				{
 					counterBombs++;
 				}
 			}
 			if ((row - 1 >= 0) && (column - 1 >= 0))
 			{
-				if (bombs[row - 1, column - 1] == '*')
+				if (gameField[row - 1, column - 1] == '*')
 				{
 					counterBombs++;
 				}
 			}
 			if ((row - 1 >= 0) && (column + 1 < countColumns))
 			{
-				if (bombs[row - 1, column + 1] == '*')
+				if (gameField[row - 1, column + 1] == '*')
 				{
 					counterBombs++;
 				}
 			}
 			if ((row + 1 < countRows) && (column - 1 >= 0))
 			{
-				if (bombs[row + 1, column - 1] == '*')
+				if (gameField[row + 1, column - 1] == '*')
 				{
 					counterBombs++;
 				}
 			}
 			if ((row + 1 < countRows) && (column + 1 < countColumns))
 			{
-				if (bombs[row + 1, column + 1] == '*')
+				if (gameField[row + 1, column + 1] == '*')
 				{
 					counterBombs++;
 				}
