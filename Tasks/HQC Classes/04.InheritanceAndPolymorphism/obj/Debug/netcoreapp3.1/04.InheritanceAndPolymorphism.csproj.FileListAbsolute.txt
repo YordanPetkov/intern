@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\obj\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\obj\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\obj\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\obj\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\bin\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.exe
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\bin\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.deps.json
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\bin\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\bin\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\bin\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.dll
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\bin\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.pdb
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\obj\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.dll
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\obj\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.pdb
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\04.InheritanceAndPolymorphism\obj\Debug\netcoreapp3.1\04.InheritanceAndPolymorphism.genruntimeconfig.cache
