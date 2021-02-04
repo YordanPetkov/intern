@@ -1,0 +1,4 @@
+D:\Yordan\intern yordan\intern\Tasks\Variables, Data, Constants\01.ClassSizeInCSharp\obj\Debug\netcoreapp3.1\01.ClassSizeInCSharp.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Variables, Data, Constants\01.ClassSizeInCSharp\obj\Debug\netcoreapp3.1\01.ClassSizeInCSharp.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Variables, Data, Constants\01.ClassSizeInCSharp\obj\Debug\netcoreapp3.1\01.ClassSizeInCSharp.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\Variables, Data, Constants\01.ClassSizeInCSharp\obj\Debug\netcoreapp3.1\01.ClassSizeInCSharp.csproj.CoreCompileInputs.cache
