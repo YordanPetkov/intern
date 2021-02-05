@@ -5,6 +5,9 @@ namespace _04.Re_factorAndImproveTheCode
 {
     class Program
     {
+		private const int BoardRows = 5;
+		private const int BoardColumns = 10;
+		private const int BombCount = 15;
 		static void Main(string[] args)
 		{
 			string command = string.Empty;
@@ -16,7 +19,7 @@ namespace _04.Re_factorAndImproveTheCode
 			int positionRow = 0;
 			int positionColumn = 0;
 			bool isFirstInteraction = true;
-			const int MaxMoves = 35;
+			const int MaxMoves = BoardColumns * BoardRows - BombCount;
 			bool areMadeMaxMoves = false;
 
 			do
@@ -164,7 +167,13 @@ namespace _04.Re_factorAndImproveTheCode
 		{
 			int countRows = board.GetLength(0);
 			int countColumns = board.GetLength(1);
-			Console.WriteLine("\n    0 1 2 3 4 5 6 7 8 9");
+
+			Console.Write("\n    ");
+			for (int i = 0; i < countColumns; i++)
+            {
+                Console.Write(i + " ");
+            }
+            Console.WriteLine();
 			Console.WriteLine("   ---------------------");
 			for (int i = 0; i < countRows; i++)
 			{
@@ -181,8 +190,8 @@ namespace _04.Re_factorAndImproveTheCode
 
 		private static char[,] createGameField()
 		{
-			int boardRows = 5;
-			int boardColumns = 10;
+			int boardRows = BoardRows;
+			int boardColumns = BoardColumns;
 			char[,] board = new char[boardRows, boardColumns];
 			for (int i = 0; i < boardRows; i++)
 			{
@@ -197,8 +206,8 @@ namespace _04.Re_factorAndImproveTheCode
 
 		private static char[,] setBombs()
 		{
-			int boardRows = 5;
-			int boardColumns = 10;
+			int boardRows = BoardRows;
+			int boardColumns = BoardColumns;
 			char[,] board = new char[boardRows, boardColumns];
 
 			for (int i = 0; i < boardRows; i++)
@@ -210,10 +219,10 @@ namespace _04.Re_factorAndImproveTheCode
 			}
 
 			List<int> randomBombIndexes = new List<int>();
-			while (randomBombIndexes.Count < 15)
+			while (randomBombIndexes.Count < BombCount)
 			{
 				Random random = new Random();
-				int randomNumber = random.Next(50);
+				int randomNumber = random.Next(boardRows * boardColumns);
 				if (!randomBombIndexes.Contains(randomNumber))
 				{
 					randomBombIndexes.Add(randomNumber);
