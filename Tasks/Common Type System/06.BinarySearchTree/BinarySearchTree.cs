@@ -4,15 +4,17 @@ using System.Text;
 
 namespace _06.BinarySearchTree
 {
-    class BinarySearchTree
+    public class BinarySearchTree
     {
         private List<Node> nodes = new List<Node>();
         private Node root = new Node();
+
         public BinarySearchTree()
         {
             nodes = new List<Node>();
-            root = null;
+            root = new Node();
         }
+
         public void addNode(int nodeValue)
         {
             if(nodes.Count == 0)
@@ -27,17 +29,18 @@ namespace _06.BinarySearchTree
             else
             {
                 int currentNodeIndex = 0;
-                Node currentNode = root;
+                Node currentNode = new Node();
+                currentNode.Clone(root);
                 do
                 {
                     if (currentNode.Value >= nodeValue)
                     {
-                        currentNode = currentNode.LeftChild;
+                        currentNode.Clone(currentNode.LeftChild);
                         currentNodeIndex = currentNode.Index;
                     }
                     else if(currentNode.Value < nodeValue)
                     {
-                        currentNode = currentNode.RightChild;
+                        currentNode.Clone(currentNode.RightChild);
                         currentNodeIndex = currentNode.Index;
                     }
                 } while (currentNode != null);
@@ -63,22 +66,24 @@ namespace _06.BinarySearchTree
 
         public bool searchNode(int nodeValue)
         {
-            Node currentNode = root;
+            Node currentNode = new Node();
+            currentNode.Clone(root);
             do
             {
+                Console.WriteLine(currentNode);
                 if (currentNode.Value > nodeValue)
                 {
-                    currentNode = currentNode.LeftChild;
+                    currentNode.Clone(currentNode.LeftChild);
                 }
                 else if (currentNode.Value < nodeValue)
                 {
-                    currentNode = currentNode.RightChild;
+                    currentNode.Clone(currentNode.RightChild);
                 }
                 else if (currentNode.Value == nodeValue)
                 {
                     return true;
                 }
-            } while (currentNode != null);
+            } while (currentNode.Index != -1);
 
             return false;
         }

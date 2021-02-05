@@ -12,6 +12,7 @@ namespace _06.BinarySearchTree
             LeftChild = null;
             RightChild = null;
             Parent = null;
+            Value = int.MinValue;
         }
 
         public int Index { get; set; }

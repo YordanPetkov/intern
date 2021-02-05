@@ -6,6 +6,6 @@ namespace _01.StudentClass
 {
     interface ICloneable
     {
-        public void Clone(BinarySearchTree tree);
+        public void Clone();
     }
 }
