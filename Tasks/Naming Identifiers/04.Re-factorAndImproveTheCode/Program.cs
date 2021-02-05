@@ -23,12 +23,12 @@ namespace _04.Re_factorAndImproveTheCode
 			{
 				if (isFirstInteraction)
 				{
-					Console.WriteLine("Hajde da igraem na “Mini4KI”. Probvaj si kasmeta da otkriesh poleteta bez mini4ki." +
-					" Komanda 'top' pokazva klasiraneto, 'restart' po4va nova igra, 'exit' izliza i hajde 4ao!");
+					Console.WriteLine("Let's play 'Mines'. Try your luck to find cells without mines." +
+					" Command 'top' show ranking, 'restart' start new game, 'exit' quit the game");
 					printGameField(gameField);
 					isFirstInteraction = false;
 				}
-				Console.Write("Daj red i kolona : ");
+				Console.Write("Input row and column : ");
 				command = Console.ReadLine().Trim();
 				if (command.Length >= 3)
 				{
@@ -52,7 +52,7 @@ namespace _04.Re_factorAndImproveTheCode
 						isFirstInteraction = false;
 						break;
 					case "exit":
-						Console.WriteLine("4a0, 4a0, 4a0!");
+						Console.WriteLine("Bye , bye!");
 						break;
 					case "turn":
 						if (bombs[positionRow, positionColumn] != '*')
@@ -77,14 +77,14 @@ namespace _04.Re_factorAndImproveTheCode
 						}
 						break;
 					default:
-						Console.WriteLine("\nGreshka! nevalidna Komanda\n");
+						Console.WriteLine("\nError! Invalid command.\n");
 						break;
 				}
 				if (isGameOver)
 				{
 					printGameField(bombs);
-					Console.Write("\nHrrrrrr! Umria gerojski s {0} to4ki. " +
-						"Daj si niknejm: ", counterOfPoints);
+					Console.Write("\nHrrrrrr! You die heroically with {0} points. " +
+						"Input nickname: ", counterOfPoints);
 					string nickname = Console.ReadLine();
 					Score playerScore = new Score(nickname, counterOfPoints);
 					if (ranking.Count < 5)
@@ -115,9 +115,9 @@ namespace _04.Re_factorAndImproveTheCode
 				}
 				if (areMadeMaxMoves)
 				{
-					Console.WriteLine("\nBRAVOOOS! Otvri 35 kletki bez kapka kryv.");
+					Console.WriteLine("\nGood job! You open {0} cells without a drop of blood.", MaxMoves);
 					printGameField(bombs);
-					Console.WriteLine("Daj si imeto, batka: ");
+					Console.WriteLine("Input your nickname: ");
 					string nickname = Console.ReadLine();
 					Score playerScore = new Score(nickname, counterOfPoints);
 					ranking.Add(playerScore);
@@ -130,26 +130,26 @@ namespace _04.Re_factorAndImproveTheCode
 				}
 			}
 			while (command != "exit");
-			Console.WriteLine("Made in Bulgaria - Uauahahahahaha!");
-			Console.WriteLine("AREEEEEEeeeeeee.");
+			Console.WriteLine("Made in Bulgaria!");
+			Console.WriteLine("Byee.");
 			Console.Read();
 		}
 
 		private static void printRanking(List<Score> ranking)
 		{
-			Console.WriteLine("\nTo4KI:");
+			Console.WriteLine("\nRanking:");
 			if (ranking.Count > 0)
 			{
 				for (int i = 0; i < ranking.Count; i++)
 				{
-					Console.WriteLine("{0}. {1} --> {2} kutii",
+					Console.WriteLine("{0}. {1} --> {2} cells",
 						i + 1, ranking[i].Name, ranking[i].Points);
 				}
 				Console.WriteLine();
 			}
 			else
 			{
-				Console.WriteLine("prazna klasaciq!\n");
+				Console.WriteLine("ranking is empty!\n");
 			}
 		}
 
