@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _06.BinarySearchTreeData
 {
-    class Tree
+    class Tree : ICloneable
     {
-        private Node root;
+        public Node root;
         private string treeOutput;
 
         public Tree()
@@ -136,10 +136,12 @@ namespace _06.BinarySearchTreeData
             {
                 return;
             }
+
             if(root.value == Root.value)
             {
                 treeOutput = "";
             }
+
             if (Root != null)
             {
                 treeOutput += Root.value + " ";
@@ -161,6 +163,19 @@ namespace _06.BinarySearchTreeData
         public override int GetHashCode()
         {
             return treeOutput.GetHashCode();
+        }
+
+        public Node Clone(Node root)
+        {
+            if(root == null)
+            {
+                return null;
+            }
+            Node newNode = new Node();
+            newNode.value = root.value;
+            newNode.leftChild = Clone(root.leftChild);
+            newNode.rightChild = Clone(root.rightChild);
+            return newNode;
         }
 
         public static bool operator ==(Tree firstTree, Tree secondTree)

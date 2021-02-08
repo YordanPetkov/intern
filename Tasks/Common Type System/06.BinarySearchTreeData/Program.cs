@@ -26,6 +26,14 @@ namespace _06.BinarySearchTreeData
             Console.WriteLine(tree.Search(7));
             Console.WriteLine(tree.Search(6));
             Console.WriteLine(tree.Search(17));
+            Tree tree2 = new Tree();
+            Node tempNode = tree.Clone(tree.root);
+            tree2.root.value = tempNode.value;
+            tree2.root.leftChild = tempNode.leftChild;
+            tree2.root.rightChild = tempNode.rightChild;
+
+            Console.WriteLine(tree2.ToString());
+            Console.WriteLine(tree.ToString());
         }
     }
 }

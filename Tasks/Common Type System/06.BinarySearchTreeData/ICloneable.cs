@@ -8,5 +8,6 @@ namespace _06.BinarySearchTreeData
 {
     interface ICloneable
     {
+        Node Clone(Node root);
     }
 }
