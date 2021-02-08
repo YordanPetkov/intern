@@ -1,0 +1,7 @@
+D:\Yordan\intern yordan\intern\Tasks\Common Type System\06.BinarySearchTreeData\bin\Debug\06.BinarySearchTreeData.exe.config
+D:\Yordan\intern yordan\intern\Tasks\Common Type System\06.BinarySearchTreeData\bin\Debug\06.BinarySearchTreeData.exe
+D:\Yordan\intern yordan\intern\Tasks\Common Type System\06.BinarySearchTreeData\bin\Debug\06.BinarySearchTreeData.pdb
+D:\Yordan\intern yordan\intern\Tasks\Common Type System\06.BinarySearchTreeData\obj\Debug\06.BinarySearchTreeData.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Common Type System\06.BinarySearchTreeData\obj\Debug\06.BinarySearchTreeData.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Common Type System\06.BinarySearchTreeData\obj\Debug\06.BinarySearchTreeData.exe
+D:\Yordan\intern yordan\intern\Tasks\Common Type System\06.BinarySearchTreeData\obj\Debug\06.BinarySearchTreeData.pdb
