@@ -1,0 +1,10 @@
+D:\Yordan\intern yordan\intern\Tasks\JSON_HW\01.JSONtask\bin\Debug\01.JSONtask.exe.config
+D:\Yordan\intern yordan\intern\Tasks\JSON_HW\01.JSONtask\bin\Debug\01.JSONtask.exe
+D:\Yordan\intern yordan\intern\Tasks\JSON_HW\01.JSONtask\bin\Debug\01.JSONtask.pdb
+D:\Yordan\intern yordan\intern\Tasks\JSON_HW\01.JSONtask\bin\Debug\Newtonsoft.Json.dll
+D:\Yordan\intern yordan\intern\Tasks\JSON_HW\01.JSONtask\bin\Debug\Newtonsoft.Json.xml
+D:\Yordan\intern yordan\intern\Tasks\JSON_HW\01.JSONtask\obj\Debug\01.JSONtask.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\JSON_HW\01.JSONtask\obj\Debug\01.JSONtask.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\JSON_HW\01.JSONtask\obj\Debug\01.JSONtask.csproj.CopyComplete
+D:\Yordan\intern yordan\intern\Tasks\JSON_HW\01.JSONtask\obj\Debug\01.JSONtask.exe
+D:\Yordan\intern yordan\intern\Tasks\JSON_HW\01.JSONtask\obj\Debug\01.JSONtask.pdb

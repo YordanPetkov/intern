@@ -43,11 +43,13 @@ namespace _06.BinarySearchTreeData
                             return;
                         }
                     }
+
                     else if(item == currentNode.value)
                     {
                         Preorder(root);
                         return;
                     }
+
                     else
                     {
                         currentNode = currentNode.rightChild;
