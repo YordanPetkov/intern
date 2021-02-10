@@ -1,0 +1,6 @@
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\02.Exceptions-Homework\bin\Debug\02.Exceptions-Homework.exe.config
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\02.Exceptions-Homework\bin\Debug\02.Exceptions-Homework.exe
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\02.Exceptions-Homework\bin\Debug\02.Exceptions-Homework.pdb
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\02.Exceptions-Homework\obj\Debug\02.Exceptions-Homework.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\02.Exceptions-Homework\obj\Debug\02.Exceptions-Homework.exe
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\02.Exceptions-Homework\obj\Debug\02.Exceptions-Homework.pdb
