@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{460DA7C6-019E-4D07-8B46-7A459405C58D}</ProjectGuid>
+    <ProjectGuid>{FC980D3A-6061-4FBB-BA37-A03DD4168750}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_01.Assertions</RootNamespace>
     <AssemblyName>01.Assertions</AssemblyName>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="AssertionsHomework.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

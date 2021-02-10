@@ -1,0 +1,7 @@
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\01.Assertions\bin\Debug\01.Assertions.exe.config
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\01.Assertions\bin\Debug\01.Assertions.exe
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\01.Assertions\bin\Debug\01.Assertions.pdb
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\01.Assertions\obj\Debug\01.Assertions.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\01.Assertions\obj\Debug\01.Assertions.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\01.Assertions\obj\Debug\01.Assertions.exe
+D:\Yordan\intern yordan\intern\Tasks\Defensive Programming\01.Assertions\obj\Debug\01.Assertions.pdb
