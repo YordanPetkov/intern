@@ -12,6 +12,18 @@ namespace _02.Exceptions_Homework
         {
             try
             {
+                if(arr == null)
+                {
+                    throw new Exception("Array is empty.");
+                }
+                if(startIndex >= arr.Length || startIndex < 0)
+                {
+                    throw new Exception("Invalid start index.");
+                }
+                if(startIndex + count >= arr.Length || count < 0)
+                {
+                    throw new Exception("Invalid count.");
+                }
                 List<T> result = new List<T>();
                 for (int i = startIndex; i < startIndex + count; i++)
                 {
@@ -19,7 +31,12 @@ namespace _02.Exceptions_Homework
                 }
                 return result.ToArray();
             }
-            catch(Exception e)
+            catch(IndexOutOfRangeException e)
+            {
+                Console.WriteLine(e.Message);
+                return new List<T>().ToArray();
+            }
+            catch (Exception e)
             {
                 Console.WriteLine(e.Message);
                 return new List<T>().ToArray();
@@ -32,7 +49,7 @@ namespace _02.Exceptions_Homework
             {
                 if (count > str.Length)
                 {
-                    return "Invalid count!";
+                    throw new Exception("Invalid count!");
                 }
 
                 StringBuilder result = new StringBuilder();
@@ -49,26 +66,38 @@ namespace _02.Exceptions_Homework
             }
         }
 
-        public static void CheckPrime(int number)
+        public static bool CheckPrime(int number)
         {
             try
             {
+                if(number < 2)
+                {
+                    throw new Exception("Invalid number!");
+                }
+
                 for (int divisor = 2; divisor <= Math.Sqrt(number); divisor++)
                 {
                     if (number % divisor == 0)
                     {
-                        throw new Exception("The number is not prime!");
+                        Console.WriteLine("Number is not prime.");
+                        return true;
                     }
                 }
+                Console.WriteLine("Number is prime.");
+                return true;
             }
             catch (Exception e)
             {
-
+                Console.WriteLine(e.Message);
+                return false;
             }
         }
 
         static void Main()
         {
+            var substr1 = Subsequence(new int[0], 2, 3);
+            Console.WriteLine(substr1);
+
             var substr = Subsequence("Hello!".ToCharArray(), 2, 3);
             Console.WriteLine(substr);
 
@@ -86,26 +115,9 @@ namespace _02.Exceptions_Homework
             Console.WriteLine(ExtractEnding("beer", 4));
             Console.WriteLine(ExtractEnding("Hi", 100));
 
-            try
-            {
-                CheckPrime(23);
-                Console.WriteLine("23 is prime.");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("23 is not prime");
-            }
-
-            try
-            {
-                CheckPrime(33);
-                Console.WriteLine("33 is prime.");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("33 is not prime");
-            }
-
+            CheckPrime(23);
+            CheckPrime(33);
+                
             List<Exam> peterExams = new List<Exam>()
         {
             new SimpleMathExam(2),

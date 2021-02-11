@@ -12,34 +12,56 @@ namespace _02.Exceptions_Homework
 
         public SimpleMathExam(int problemsSolved)
         {
-            if (problemsSolved < 0)
+            try
             {
-                problemsSolved = 0;
+                if (problemsSolved < 0)
+                {
+                    problemsSolved = 0;
+                    throw new Exception("Count of solved problems can't be negative number.");
+                }
+                if (problemsSolved > 10)
+                {
+                    problemsSolved = 10;
+                    throw new Exception("Count of solved problems can't be more than 10.");
+                }
             }
-            if (problemsSolved > 10)
+            catch (Exception e)
             {
-                problemsSolved = 10;
+                Console.WriteLine(e.Message);
             }
-
-            this.ProblemsSolved = problemsSolved;
+            finally
+            {
+                this.ProblemsSolved = problemsSolved;
+            }
+            
         }
 
         public override ExamResult Check()
         {
-            if (ProblemsSolved == 0)
+            try
             {
-                return new ExamResult(2, 2, 6, "Bad result: nothing done.");
+                if (ProblemsSolved == 0)
+                {
+                    return new ExamResult(2, 2, 6, "Bad result: nothing done.");
+                }
+                else if (ProblemsSolved == 1)
+                {
+                    return new ExamResult(4, 2, 6, "Average result: nothing done.");
+                }
+                else if (ProblemsSolved == 2)
+                {
+                    return new ExamResult(6, 2, 6, "Average result: nothing done.");
+                }
+                else
+                {
+                    throw new Exception("Invalid number of problems solved!");
+                }
             }
-            else if (ProblemsSolved == 1)
+            catch (Exception e)
             {
-                return new ExamResult(4, 2, 6, "Average result: nothing done.");
+                Console.WriteLine(e.Message);
+                return new ExamResult(0, 0, 0, "Invalid number of problems solved!");
             }
-            else if (ProblemsSolved == 2)
-            {
-                return new ExamResult(6, 2, 6, "Average result: nothing done.");
-            }
-
-            return new ExamResult(0, 0, 0, "Invalid number of problems solved!");
         }
     }
 }

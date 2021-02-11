@@ -12,23 +12,39 @@ namespace _02.Exceptions_Homework
 
         public CSharpExam(int score)
         {
-            if (score < 0)
+            try
             {
-                throw new NullReferenceException();
-            }
+                if (score < 0)
+                {
+                    throw new NullReferenceException("Score must be positive.");
+                }
 
-            this.Score = score;
+                this.Score = score;
+            }
+            catch (NullReferenceException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            
         }
 
         public override ExamResult Check()
         {
-            if (Score < 0 || Score > 100)
+            try
             {
-                throw new InvalidOperationException();
+                if (Score < 0 || Score > 100)
+                {
+                    throw new InvalidOperationException("Invalid score.");
+                }
+                else
+                {
+                    return new ExamResult(this.Score, 0, 100, "Exam results calculated by score.");
+                }
             }
-            else
+            catch (InvalidOperationException e)
             {
-                return new ExamResult(this.Score, 0, 100, "Exam results calculated by score.");
+                Console.WriteLine(e.Message);
+                return new ExamResult(0, 0, 100, "Exam results calculated by score.");
             }
         }
     }
