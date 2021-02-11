@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\bin\Debug\netcoreapp3.1\02.CompareSimpleMaths.exe
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\bin\Debug\netcoreapp3.1\02.CompareSimpleMaths.deps.json
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\bin\Debug\netcoreapp3.1\02.CompareSimpleMaths.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\bin\Debug\netcoreapp3.1\02.CompareSimpleMaths.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\bin\Debug\netcoreapp3.1\02.CompareSimpleMaths.dll
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\bin\Debug\netcoreapp3.1\02.CompareSimpleMaths.pdb
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\obj\Debug\netcoreapp3.1\02.CompareSimpleMaths.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\obj\Debug\netcoreapp3.1\02.CompareSimpleMaths.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\obj\Debug\netcoreapp3.1\02.CompareSimpleMaths.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\obj\Debug\netcoreapp3.1\02.CompareSimpleMaths.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\obj\Debug\netcoreapp3.1\02.CompareSimpleMaths.dll
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\obj\Debug\netcoreapp3.1\02.CompareSimpleMaths.pdb
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\02.CompareSimpleMaths\obj\Debug\netcoreapp3.1\02.CompareSimpleMaths.genruntimeconfig.cache
