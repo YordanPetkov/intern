@@ -1,0 +1,7 @@
+D:\Yordan\intern yordan\intern\Tasks\Refactoring\Matrica\bin\Debug\Matrica.exe.config
+D:\Yordan\intern yordan\intern\Tasks\Refactoring\Matrica\bin\Debug\Matrica.exe
+D:\Yordan\intern yordan\intern\Tasks\Refactoring\Matrica\bin\Debug\Matrica.pdb
+D:\Yordan\intern yordan\intern\Tasks\Refactoring\Matrica\obj\Debug\Matrica.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Refactoring\Matrica\obj\Debug\Matrica.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Refactoring\Matrica\obj\Debug\Matrica.exe
+D:\Yordan\intern yordan\intern\Tasks\Refactoring\Matrica\obj\Debug\Matrica.pdb
