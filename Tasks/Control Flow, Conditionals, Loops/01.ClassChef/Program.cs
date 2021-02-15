@@ -6,7 +6,6 @@ namespace _01.ClassChef
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }

@@ -6,11 +6,9 @@ namespace _01.ClassChef
 {
     public class Chef
     {
-        
         public void Cook()
         {
-            Vegetable[] vegetables = { GetPotato(), GetCarrot() }; 
-            Bowl bowl;
+            Vegetable[] vegetables = { GetPotato(), GetCarrot() };
 
             foreach(var vegetable in vegetables)
             {
@@ -18,7 +16,7 @@ namespace _01.ClassChef
                 Cut(vegetable);
             }
 
-            bowl = GetBowl();
+            Bowl bowl = GetBowl();
 
             foreach (var vegetable in vegetables)
             {
