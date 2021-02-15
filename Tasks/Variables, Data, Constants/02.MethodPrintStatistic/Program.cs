@@ -9,6 +9,7 @@ namespace _02.MethodPrintStatistic
             double maxNumber = double.MinValue;
             double minNumber = double.MaxValue;
             double sumNumbers = 0;
+
             for (int i = 0; i < countNumbers; i++)
             {
                 if (numbers[i] > maxNumber)

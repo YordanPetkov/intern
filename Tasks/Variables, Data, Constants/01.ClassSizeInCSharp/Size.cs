@@ -5,6 +5,7 @@ namespace _01.ClassSizeInCSharp
     public class Size
     {
         public double width, height;
+
         public Size(double width, double height)
         {
             this.width = width;
