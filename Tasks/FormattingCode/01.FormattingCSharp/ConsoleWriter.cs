@@ -8,6 +8,7 @@ namespace _01.FormattingCSharp
         {
             Console.Write(message);
         }
+
         public void WriteLine(string message)
         {
             Console.WriteLine(message);

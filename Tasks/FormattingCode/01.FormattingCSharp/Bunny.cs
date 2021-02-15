@@ -3,10 +3,6 @@ using System.Text;
 
 namespace _01.FormattingCSharp
 {
-    public enum FurType
-    {
-        NotFluffy, ALittleFluffy, Fluffy, FluffyToTheLimit
-    }
     [Serializable] public class Bunny
     {
         public int Age { get; set; }

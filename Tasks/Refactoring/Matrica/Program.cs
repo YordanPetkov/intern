@@ -79,13 +79,10 @@ namespace Task3
             }
         }
 
-        static void FillMatrix(int[,] matrix, int matrixSize, int row, int column)
+        static void FillMatrix(int[,] matrix, int matrixSize, int row, int column,ref int currentNumber)
         {
-            int currentNumber = 1;
             int directionX = 1;
             int directionY = 1;
-            row = 0;
-            column = 0;
 
             while (true)
             {
@@ -93,6 +90,7 @@ namespace Task3
 
                 if (!CheckForPath(matrix, row, column))
                 {
+                    currentNumber++;
                     break;
                 }
 
@@ -120,7 +118,9 @@ namespace Task3
             {
                 for (int j = 0; j < matrixSize; j++)
                 {
-                    Console.Write("{0,3}", matrix[i, j]);
+                    int countSymbols = (matrixSize * matrixSize).ToString().Length;
+                    string formatString = String.Concat("{0,", countSymbols + 1, "}");
+                    Console.Write(formatString, matrix[i, j], countSymbols);
                 }
                 Console.WriteLine();
             }
@@ -128,20 +128,25 @@ namespace Task3
 
         static void Main(string[] args)
         {
-            int matrixSize = 3;
+            Console.WriteLine( "Enter a positive number " );
+            string input = Console.ReadLine();
+            int matrixSize = 0;
+
+            while ( !int.TryParse( input, out matrixSize) || matrixSize < 0 || matrixSize > 100 )
+            {
+                Console.WriteLine( "You haven't entered a correct positive number" );
+                input = Console.ReadLine();
+            }
+
             int[,] matrix = new int[matrixSize, matrixSize];
             int row = 0;
             int column = 0;
+            int currentNumber = 1;
 
-            FillMatrix(matrix, matrixSize, row, column);
-
-            PrintMatrix(matrix, matrixSize);
-
-            FindCell(matrix, out row, out column);
-
-            if (row != 0 && column != 0)
+            while(currentNumber < matrixSize * matrixSize)
             {
-                FillMatrix(matrix, matrixSize, row, column);
+                FillMatrix(matrix, matrixSize, row, column, ref currentNumber);
+                FindCell(matrix, out row, out column);
             }
 
             PrintMatrix(matrix, matrixSize);
