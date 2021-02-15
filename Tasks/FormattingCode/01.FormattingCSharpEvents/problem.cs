@@ -16,6 +16,7 @@ namespace _01.FormattingCSharpEvents
 			while (ExecuteNextCommand()) 
 			{ 
 			}
+
 			Console.WriteLine(output);
 		}
 
@@ -52,10 +53,7 @@ namespace _01.FormattingCSharpEvents
 
 		private static void DeleteEvents(string command)
 		{
-			string title = command.Substring
-			(
-				"DeleteEvents".Length + 1
-			);
+			string title = command.Substring("DeleteEvents".Length + 1);
 			events.DeleteEvents(title);
 		}
 
@@ -71,11 +69,13 @@ namespace _01.FormattingCSharpEvents
 			dateAndTime = GetDate(commandForExecution, commandType);
 			int firstPipeIndex = commandForExecution.IndexOf('|');
 			int lastPipeIndex = commandForExecution.LastIndexOf('|');
+
 			if (firstPipeIndex == lastPipeIndex)
 			{
 				eventTitle = commandForExecution.Substring(firstPipeIndex + 1).Trim();
 				eventLocation = "";
 			}
+
 			else
 			{
 				eventTitle = commandForExecution.Substring(firstPipeIndex + 1, lastPipeIndex - firstPipeIndex - 1).Trim();

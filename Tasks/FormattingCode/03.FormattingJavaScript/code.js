@@ -42,16 +42,20 @@ function mouseMove(evn) {
 function PopTip() {
 	if (b == "Netscape") {
 		theLayer = eval('document.layers[\'ToolTip\']');
+
 		if ((pX + 120) > window.innerWidth) {
 			pX = window.innerWidth - 150;
 		}
 
 		theLayer.left = pX + 10; theLayer.top = pY + 15; theLayer.visibility = 'show';	
 	}
+
 	else {
 		theLayer = eval('document.all[\'ToolTip\']');
+
 		if (theLayer) {
 			pX = event.x - 5; pY = event.y;
+
 			if (addScroll) {
 				pX = pX + document.body.scrollLeft;
 				pY = pY + document.body.scrollTop;
@@ -70,6 +74,7 @@ function PopTip() {
 
 function HideTip() {
 	args = HideTip.arguments;
+
 	if (b == "Netscape") {
 		document.layers['ToolTip'].visibility = 'hide';
 	}

@@ -25,6 +25,7 @@ namespace _01.FormattingCSharpEvents
 			int byDate = this.date.CompareTo(other.date);
 			int byTitle = this.title.CompareTo(other.title);
 			int byLocation = this.location.CompareTo(other.location);
+
 			if (byDate == 0)
 			{
 				if (byTitle == 0)
@@ -50,6 +51,7 @@ namespace _01.FormattingCSharpEvents
 			StringBuilder toString = new StringBuilder();
 			toString.Append(date.ToString("yyyy-MM-ddTHH:mm:ss"));
 			toString.Append(" | " + title);
+
 			if (location != null && location != "")
 			{
 				toString.Append(" | " + location);
