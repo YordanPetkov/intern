@@ -8,8 +8,9 @@ namespace Methods
         {
             if (a <= 0 || b <= 0 || c <= 0)
             {
-                Console.Error.WriteLine("Sides should be positive.");
+                throw new Exception("Sides should be positive.");
             }
+
             double s = (a + b + c) / 2;
             double area = Math.Sqrt(s * (s - a) * (s - b) * (s - c));
             return area;
@@ -47,6 +48,7 @@ namespace Methods
                     elements[0] = elements[i];
                 }
             }
+
             return elements[0];
         }
 
@@ -68,13 +70,14 @@ namespace Methods
             }
         }
 
-        static double CalculateDistance(double x1, double y1, double x2, double y2,
-            out bool isHorizontal, out bool isVertical)
+        static double CalculateDistance(Point firstPoint, Point secondPoint, out bool isHorizontal, out bool isVertical)
         {
-            isHorizontal = (y1 == y2);
-            isVertical = (x1 == x2);
+            isHorizontal = (firstPoint.y == secondPoint.y);
+            isVertical = (firstPoint.x == secondPoint.x);
 
-            double distance = Math.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
+            double distance = Math.Sqrt((secondPoint.x - firstPoint.x) * (secondPoint.x - firstPoint.x) +
+                    (secondPoint.y - firstPoint.y) * (secondPoint.y - firstPoint.y));
+
             return distance;
         }
 
@@ -91,14 +94,17 @@ namespace Methods
             PrintAsNumber(2.30, "r");
 
             bool horizontal, vertical;
-            Console.WriteLine(CalculateDistance(3, -1, 3, 2.5, out horizontal, out vertical));
+            Point firstPoint = new Point(3, -1);
+            Point secondPoint = new Point(3, 2.5);
+
+            Console.WriteLine(CalculateDistance(firstPoint, secondPoint, out horizontal, out vertical));
             Console.WriteLine("Horizontal? " + horizontal);
             Console.WriteLine("Vertical? " + vertical);
 
-            Student peter = new Student() { FirstName = "Peter", LastName = "Ivanov" };
+            Student peter = new Student() { FirstName = "Peter", LastName = "Ivanov"};
             peter.OtherInfo = "From Sofia, born at 17.03.1992";
 
-            Student stella = new Student() { FirstName = "Stella", LastName = "Markova" };
+            Student stella = new Student() { FirstName = "Stella", LastName = "Markova"};
             stella.OtherInfo = "From Vidin, gamer, high results, born at 03.11.1993";
 
             Console.WriteLine("{0} older than {1} -> {2}",

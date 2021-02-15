@@ -1,0 +1,12 @@
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+D:\Yordan\intern yordan\intern\Tasks\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
