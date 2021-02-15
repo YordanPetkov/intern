@@ -12,15 +12,16 @@ namespace _02.MakePersonInCSharp
         {
             Person person = new Person();
             person.Age = personIdentifier;
+
             if(personIdentifier % 2 == 0)
             {
-                person.Name = "The man";
+                person.Name = "The strong man";
                 person.Sex = Sex.Male;
             }
 
             else
             {
-                person.Name = "The man";
+                person.Name = "The beautiful girl";
                 person.Sex = Sex.Female;
             }
         }

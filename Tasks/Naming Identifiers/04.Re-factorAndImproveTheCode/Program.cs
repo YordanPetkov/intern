@@ -8,92 +8,107 @@ namespace _04.Re_factorAndImproveTheCode
 		private const int BoardRows = 5;
 		private const int BoardColumns = 10;
 		private const int BombCount = 15;
+
 		static void Main(string[] args)
 		{
 			string command = string.Empty;
-			char[,] gameField = createGameField();
+			char[,] visualGameField = createGameField();
 			char[,] bombs = setBombs();
+			List<Score> ranking = new List<Score>(6);
 			int counterOfPoints = 0;
 			bool isGameOver = false;
-			List<Score> ranking = new List<Score>(6);
-			int positionRow = 0;
-			int positionColumn = 0;
-			bool isFirstInteraction = true;
-			const int MaxMoves = BoardColumns * BoardRows - BombCount;
 			bool areMadeMaxMoves = false;
+			bool isFirstInteraction = true;
 
 			do
 			{
 				if (isFirstInteraction)
 				{
 					Console.WriteLine("Let's play 'Mines'. Try your luck to find cells without mines." +
-					" Command 'top' show ranking, 'restart' start new game, 'exit' quit the game");
-					printGameField(gameField);
+						" Command 'top' show ranking, 'restart' start new game, 'exit' quit the game");
+					printGameField(visualGameField);
 					isFirstInteraction = false;
 				}
+
 				Console.Write("Input row and column : ");
 				command = Console.ReadLine().Trim();
+
+				int positionRow = 0;
+				int positionColumn = 0;
 				if (command.Length >= 3)
 				{
 					if (int.TryParse(command[0].ToString(), out positionRow) &&
-					int.TryParse(command[2].ToString(), out positionColumn) &&
-						positionRow <= gameField.GetLength(0) && positionColumn <= gameField.GetLength(1))
+						int.TryParse(command[2].ToString(), out positionColumn) &&
+						positionRow <= visualGameField.GetLength(0) &&
+						positionColumn <= visualGameField.GetLength(1))
 					{
 						command = "turn";
 					}
 				}
+
+				const int MaxMoves = BoardColumns * BoardRows - BombCount;
 				switch (command)
 				{
 					case "top":
 						printRanking(ranking);
 						break;
+
 					case "restart":
-						gameField = createGameField();
+						visualGameField = createGameField();
 						bombs = setBombs();
-						printGameField(gameField);
+						printGameField(visualGameField);
 						isGameOver = false;
 						isFirstInteraction = false;
 						break;
+
 					case "exit":
 						Console.WriteLine("Bye , bye!");
 						break;
+
 					case "turn":
 						if (bombs[positionRow, positionColumn] != '*')
 						{
 							if (bombs[positionRow, positionColumn] == '-')
 							{
-								makeTurn(gameField, bombs, positionRow, positionColumn);
+								makeTurn(visualGameField, bombs, positionRow, positionColumn);
 								counterOfPoints++;
 							}
+
 							if (MaxMoves == counterOfPoints)
 							{
 								areMadeMaxMoves = true;
 							}
+
 							else
 							{
-								printGameField(gameField);
+								printGameField(visualGameField);
 							}
 						}
+
 						else
 						{
 							isGameOver = true;
 						}
 						break;
+
 					default:
 						Console.WriteLine("\nError! Invalid command.\n");
 						break;
 				}
+
 				if (isGameOver)
 				{
 					printGameField(bombs);
 					Console.Write("\nHrrrrrr! You die heroically with {0} points. " +
 						"Input nickname: ", counterOfPoints);
 					string nickname = Console.ReadLine();
+
 					Score playerScore = new Score(nickname, counterOfPoints);
 					if (ranking.Count < 5)
 					{
 						ranking.Add(playerScore);
 					}
+
 					else
 					{
 						for (int i = 0; i < ranking.Count; i++)
@@ -106,16 +121,18 @@ namespace _04.Re_factorAndImproveTheCode
 							}
 						}
 					}
+
 					ranking.Sort((Score firstPlayer, Score secondPlayer) => secondPlayer.Name.CompareTo(firstPlayer.Name));
 					ranking.Sort((Score firstPlayer, Score secondPlayer) => secondPlayer.Points.CompareTo(firstPlayer.Points));
 					printRanking(ranking);
 
-					gameField = createGameField();
+					visualGameField = createGameField();
 					bombs = setBombs();
 					counterOfPoints = 0;
 					isGameOver = false;
 					isFirstInteraction = true;
 				}
+
 				if (areMadeMaxMoves)
 				{
 					Console.WriteLine("\nGood job! You open {0} cells without a drop of blood.", MaxMoves);
@@ -123,16 +140,18 @@ namespace _04.Re_factorAndImproveTheCode
 					Console.WriteLine("Input your nickname: ");
 					string nickname = Console.ReadLine();
 					Score playerScore = new Score(nickname, counterOfPoints);
+
 					ranking.Add(playerScore);
 					printRanking(ranking);
-					gameField = createGameField();
+
+					visualGameField = createGameField();
 					bombs = setBombs();
 					counterOfPoints = 0;
 					areMadeMaxMoves = false;
 					isFirstInteraction = true;
 				}
-			}
-			while (command != "exit");
+			}while (command != "exit");
+
 			Console.WriteLine("Made in Bulgaria!");
 			Console.WriteLine("Byee.");
 			Console.Read();
@@ -148,8 +167,10 @@ namespace _04.Re_factorAndImproveTheCode
 					Console.WriteLine("{0}. {1} --> {2} cells",
 						i + 1, ranking[i].Name, ranking[i].Points);
 				}
+
 				Console.WriteLine();
 			}
+
 			else
 			{
 				Console.WriteLine("ranking is empty!\n");
@@ -173,6 +194,7 @@ namespace _04.Re_factorAndImproveTheCode
             {
                 Console.Write(i + " ");
             }
+
             Console.WriteLine();
 			Console.WriteLine("   ---------------------");
 			for (int i = 0; i < countRows; i++)
@@ -182,9 +204,11 @@ namespace _04.Re_factorAndImproveTheCode
 				{
 					Console.Write(string.Format("{0} ", board[i, j]));
 				}
+
 				Console.Write("|");
 				Console.WriteLine();
 			}
+
 			Console.WriteLine("   ---------------------\n");
 		}
 
@@ -193,6 +217,7 @@ namespace _04.Re_factorAndImproveTheCode
 			int boardRows = BoardRows;
 			int boardColumns = BoardColumns;
 			char[,] board = new char[boardRows, boardColumns];
+
 			for (int i = 0; i < boardRows; i++)
 			{
 				for (int j = 0; j < boardColumns; j++)
@@ -233,15 +258,18 @@ namespace _04.Re_factorAndImproveTheCode
 			{
 				int column = (cellIndex / boardColumns);
 				int row = (cellIndex % boardColumns);
+
 				if (row == 0 && cellIndex != 0)
 				{
 					column--;
 					row = boardColumns;
 				}
+
 				else
 				{
 					row++;
 				}
+
 				board[column, row - 1] = '*';
 			}
 
@@ -279,6 +307,7 @@ namespace _04.Re_factorAndImproveTheCode
 					counterBombs++;
 				}
 			}
+
 			if (row + 1 < countRows)
 			{
 				if (gameField[row + 1, column] == '*')
@@ -286,6 +315,7 @@ namespace _04.Re_factorAndImproveTheCode
 					counterBombs++;
 				}
 			}
+
 			if (column - 1 >= 0)
 			{
 				if (gameField[row, column - 1] == '*')
@@ -293,6 +323,7 @@ namespace _04.Re_factorAndImproveTheCode
 					counterBombs++;
 				}
 			}
+
 			if (column + 1 < countColumns)
 			{
 				if (gameField[row, column + 1] == '*')
@@ -300,6 +331,7 @@ namespace _04.Re_factorAndImproveTheCode
 					counterBombs++;
 				}
 			}
+
 			if ((row - 1 >= 0) && (column - 1 >= 0))
 			{
 				if (gameField[row - 1, column - 1] == '*')
@@ -307,6 +339,7 @@ namespace _04.Re_factorAndImproveTheCode
 					counterBombs++;
 				}
 			}
+
 			if ((row - 1 >= 0) && (column + 1 < countColumns))
 			{
 				if (gameField[row - 1, column + 1] == '*')
@@ -314,6 +347,7 @@ namespace _04.Re_factorAndImproveTheCode
 					counterBombs++;
 				}
 			}
+
 			if ((row + 1 < countRows) && (column - 1 >= 0))
 			{
 				if (gameField[row + 1, column - 1] == '*')
@@ -321,6 +355,7 @@ namespace _04.Re_factorAndImproveTheCode
 					counterBombs++;
 				}
 			}
+
 			if ((row + 1 < countRows) && (column + 1 < countColumns))
 			{
 				if (gameField[row + 1, column + 1] == '*')
@@ -328,6 +363,7 @@ namespace _04.Re_factorAndImproveTheCode
 					counterBombs++;
 				}
 			}
+
 			return char.Parse(counterBombs.ToString());
 		}
 	}

@@ -1,7 +1,7 @@
 ﻿function ClickButton(event, arguments) {
-	var myWindow= window,
-		browser = myWindow.navigator.appCodeName,
-		isMozilla = browser == "Mozilla";
+	var myWindow = window;
+	var browser = myWindow.navigator.appCodeName;
+	var	isMozilla = (browser == "Mozilla");
 
     if (isMozilla) {
 		alert("Yes");

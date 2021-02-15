@@ -6,7 +6,6 @@ namespace _03.ClickOnTheButtonJS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
