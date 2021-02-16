@@ -122,6 +122,7 @@ namespace Task3
                     string formatString = String.Concat("{0,", countSymbols + 1, "}");
                     Console.Write(formatString, matrix[i, j], countSymbols);
                 }
+
                 Console.WriteLine();
             }
         }
@@ -130,7 +131,7 @@ namespace Task3
         {
             Console.WriteLine( "Enter a positive number " );
             string input = Console.ReadLine();
-            int matrixSize = 0;
+            int matrixSize;
 
             while ( !int.TryParse( input, out matrixSize) || matrixSize < 0 || matrixSize > 100 )
             {

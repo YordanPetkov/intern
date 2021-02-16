@@ -55,8 +55,7 @@
         /// <returns>Parsed value of input if conversion succeeded.</returns>
         public static short ToShort(this string input)
         {
-            short shortValue;
-            short.TryParse(input, out shortValue);
+            short.TryParse(input, out short shortValue);
             return shortValue;
         }
 
@@ -67,8 +66,7 @@
         /// <returns>Parsed value of input if conversion succeeded.</returns>
         public static int ToInteger(this string input)
         {
-            int integerValue;
-            int.TryParse(input, out integerValue);
+            int.TryParse(input, out int integerValue);
             return integerValue;
         }
 
@@ -79,8 +77,7 @@
         /// <returns>Parsed value of input if conversion succeeded.</returns>
         public static long ToLong(this string input)
         {
-            long longValue;
-            long.TryParse(input, out longValue);
+            long.TryParse(input, out long longValue);
             return longValue;
         }
 
@@ -91,8 +88,7 @@
         /// <returns>Parsed date of input if conversion succeeded.</returns>
         public static DateTime ToDateTime(this string input)
         {
-            DateTime dateTimeValue;
-            DateTime.TryParse(input, out dateTimeValue);
+            DateTime.TryParse(input, out DateTime dateTimeValue);
             return dateTimeValue;
         }
 
