@@ -21,14 +21,17 @@ namespace _02.Exceptions_Homework
                 {
                     throw new Exception("Grade can't be negative.");
                 }
+
                 if (minGrade < 0)
                 {
                     throw new Exception("Minimal grade can't be negative.");
                 }
+
                 if (maxGrade <= minGrade)
                 {
                     throw new Exception("Minimal grade must be lower than maximal grade.");
                 }
+
                 if (comments == null || comments == "")
                 {
                     throw new Exception("Comments can't be empty.");
@@ -39,6 +42,7 @@ namespace _02.Exceptions_Homework
                 this.MaxGrade = maxGrade;
                 this.Comments = comments;
             }
+
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);

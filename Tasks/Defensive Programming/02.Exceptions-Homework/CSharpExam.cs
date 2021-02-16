@@ -16,12 +16,13 @@ namespace _02.Exceptions_Homework
             {
                 if (score < 0)
                 {
-                    throw new NullReferenceException("Score must be positive.");
+                    throw new Exception("Score must be positive.");
                 }
 
                 this.Score = score;
             }
-            catch (NullReferenceException e)
+
+            catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
@@ -36,11 +37,13 @@ namespace _02.Exceptions_Homework
                 {
                     throw new InvalidOperationException("Invalid score.");
                 }
+
                 else
                 {
                     return new ExamResult(this.Score, 0, 100, "Exam results calculated by score.");
                 }
             }
+
             catch (InvalidOperationException e)
             {
                 Console.WriteLine(e.Message);

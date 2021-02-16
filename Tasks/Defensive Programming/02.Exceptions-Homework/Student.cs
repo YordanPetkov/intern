@@ -16,20 +16,11 @@ namespace _02.Exceptions_Homework
         {
             try
             {
-                if (firstName == null)
-                {
-                    throw new Exception("Invalid first name!");
-                }
-
-                if (lastName == null)
-                {
-                    throw new Exception("Invalid last name!");
-                }
-
-                this.FirstName = firstName;
-                this.LastName = lastName;
+                this.FirstName = firstName ?? throw new Exception("Invalid first name!");
+                this.LastName = lastName ?? throw new Exception("Invalid last name!");
                 this.Exams = exams;
             }
+
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);

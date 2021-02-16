@@ -16,26 +16,32 @@ namespace _02.Exceptions_Homework
                 {
                     throw new Exception("Array is empty.");
                 }
+
                 if(startIndex >= arr.Length || startIndex < 0)
                 {
                     throw new Exception("Invalid start index.");
                 }
+
                 if(startIndex + count >= arr.Length || count < 0)
                 {
                     throw new Exception("Invalid count.");
                 }
+
                 List<T> result = new List<T>();
                 for (int i = startIndex; i < startIndex + count; i++)
                 {
                     result.Add(arr[i]);
                 }
+
                 return result.ToArray();
             }
+
             catch(IndexOutOfRangeException e)
             {
                 Console.WriteLine(e.Message);
                 return new List<T>().ToArray();
             }
+
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
@@ -57,8 +63,10 @@ namespace _02.Exceptions_Homework
                 {
                     result.Append(str[i]);
                 }
+
                 return result.ToString();
             }
+
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
@@ -83,9 +91,11 @@ namespace _02.Exceptions_Homework
                         return true;
                     }
                 }
+
                 Console.WriteLine("Number is prime.");
                 return true;
             }
+
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
