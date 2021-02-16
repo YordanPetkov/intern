@@ -6,9 +6,10 @@ namespace _03.CohesionAndCoupling
 {
     static class Utils2D
     {
-        public static double CalcDistance2D(double x1, double y1, double x2, double y2)
+        public static double CalcDistance2D(Point firstPoint, Point secondPoint)
         {
-            double distance = Math.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
+            double distance = Math.Sqrt((secondPoint.x - firstPoint.x) * (secondPoint.x - firstPoint.x) 
+                    + (secondPoint.y - firstPoint.y) * (secondPoint.y - firstPoint.y));
             return distance;
         }
     }
