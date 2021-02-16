@@ -15,7 +15,7 @@ namespace _04.InheritanceAndPolymorphism
 
             localCourse.Students = new List<string>() { "Peter", "Maria" };
             Console.WriteLine(localCourse);
-
+            
             localCourse.TeacherName = "Svetlin Nakov";
             localCourse.Students.Add("Milena");
             localCourse.Students.Add("Todor");
@@ -24,6 +24,7 @@ namespace _04.InheritanceAndPolymorphism
             OffsiteCourse offsiteCourse = new OffsiteCourse(
                 "PHP and WordPress Development", "Mario Peshev",
                 new List<string>() { "Thomas", "Ani", "Steve" });
+
             Console.WriteLine(offsiteCourse);
         }
     }

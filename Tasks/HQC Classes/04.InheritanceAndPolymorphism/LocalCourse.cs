@@ -25,12 +25,15 @@ namespace _04.InheritanceAndPolymorphism
 
         public override string ToString()
         {
-            StringBuilder result = new StringBuilder(base.ToString());
+            StringBuilder result = new StringBuilder("LocalCourse { Name = ");
+            result.Append(base.ToString());
+
             if (this.Lab != null)
             {
                 result.Append("; Lab = ");
                 result.Append(this.Lab);
             }
+
             result.Append(" }");
             return result.ToString();
         }

@@ -37,6 +37,7 @@ namespace _04.InheritanceAndPolymorphism
             {
                 return "{ }";
             }
+
             else
             {
                 return "{ " + string.Join(", ", this.Students) + " }";
@@ -46,13 +47,14 @@ namespace _04.InheritanceAndPolymorphism
         public override string ToString()
         {
             StringBuilder result = new StringBuilder();
-            result.Append("OffsiteCourse { Name = ");
             result.Append(this.Name);
+
             if (this.TeacherName != null)
             {
                 result.Append("; Teacher = ");
                 result.Append(this.TeacherName);
             }
+
             result.Append("; Students = ");
             result.Append(this.GetStudentsAsString());
             return result.ToString();
