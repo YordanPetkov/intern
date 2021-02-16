@@ -1,0 +1,105 @@
+1.What database models do you know?
+
+	Hierarchical, Network, Entity-relationship, Relational
+
+2.Which are the main functions performed by a Relational Database Management System (RDBMS)?
+
+	View data that meet certain criteria.
+	Create a new table that is a subset of a base table.
+	Connect the contents of two different tables.
+	Combine data in two tables.
+	View data that have no relationship.
+	Add new data to existing records.
+	Delete data from existing records.
+
+3.Define what is "table" in database terms.
+
+	A group of rows that match the parameters set up for the table. 
+		The data in a table must all be related.
+
+4.Explain the difference between a primary and a foreign key.
+
+	Primary key is the unique identifier of a row in a table.
+	On the other hand foreign key is a unique identifier of a row in another table.
+
+5.Explain the different kinds of relationships between tables in relational databases.
+
+	-One-to-one : One row in one table is connected to only one row in another table.
+	-One-to-many : One row in one table is connected to zero,
+		 one and more than one rows in another table.
+	-Many-to-many : Zero, one or many rows in one table are linked to zero,
+		 one ot many rows in another table.
+
+6.When is a certain database schema normalized?
+
+	Database is normalized when:
+	- is eliminating redundant data
+	- data is logically stored
+
+	- First Normal Form
+		- every column should be single valued
+		- in each column the values stored must be of the same type
+		- each column should have a unique name
+		- order in which we store the data doesn't matter
+
+	- Second Normal Form
+		- any attribute in the table should depends on the complete primary key
+
+	- Third Normal Form
+		- Non-prime atribute should not depends on other non-prime attributes.
+
+	-Boyce-Codd Normal Form
+		- Non-prime atribute should not depends prime attributes.
+
+	-Forth Normal Form
+		- the table should not have any Multi-valued Dependency.
+
+	
+7.What are the advantages of normalized databases?
+	
+	-Normalization produces smaller tables with smaller rows
+	-Searching, sorting, and creating indexes is faster
+	-More tables allow better use of segments to control physical placement of data.
+	-You usually have fewer indexes per table, so data modification commands are faster.
+	-Fewer null values and less redundant data, making your database more compact.
+
+8.What are database integrity constraints and when are they used?
+
+	-Domain contraints
+		-Domain constraints can be defined as the definition of a 
+			valid set of values for an attribute.
+
+	-Entity integrity constraints
+		-The entity integrity constraint states that primary key value can't be null.
+		
+	-Referential Integrity Constraints
+		-In the Referential integrity constraints, if a foreign key in Table 1 
+			refers to the Primary Key of Table 2, 
+			then every value of the Foreign Key in Table 1 must be null 
+			or be available in Table 2.
+
+	-Key constraints
+		-An entity set can have multiple keys, but out of which one key will be the primary key.
+			A primary key must contain a unique value.
+
+9.Point out the pros and cons of using indexes in a database.
+
+
+10.What's the main purpose of the SQL language?
+
+
+11.What are transactions used for?
+
+
+12.Give an example.
+
+
+13.What is a NoSQL database?
+
+
+14.Explain the classical non-relational data models.
+
+
+15.Give few examples of NoSQL databases and their pros and cons.
+
+
