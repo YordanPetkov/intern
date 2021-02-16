@@ -9,6 +9,7 @@ namespace Methods
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string OtherInfo { get; set; }
+        public DateTime BirthDay { get; set; }
 
         public bool IsOlderThan(Student other)
         {
@@ -17,9 +18,12 @@ namespace Methods
                 throw new Exception("Student instance is null.");
             }
 
-            DateTime firstDate = DateTime.Parse(this.OtherInfo.Substring(this.OtherInfo.Length - 10));
-            DateTime secondDate = DateTime.Parse(other.OtherInfo.Substring(other.OtherInfo.Length - 10));
-            return firstDate > secondDate;
+            if(this.BirthDay == null || other.BirthDay == null)
+            {
+                throw new Exception("Student birthday is undefined.");
+            }
+
+            return this.BirthDay > other.BirthDay;
         }
     }
 }

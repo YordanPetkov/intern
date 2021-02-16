@@ -93,19 +93,20 @@ namespace Methods
             PrintAsNumber(0.75, "%");
             PrintAsNumber(2.30, "r");
 
-            bool horizontal, vertical;
             Point firstPoint = new Point(3, -1);
             Point secondPoint = new Point(3, 2.5);
 
-            Console.WriteLine(CalculateDistance(firstPoint, secondPoint, out horizontal, out vertical));
+            Console.WriteLine(CalculateDistance(firstPoint, secondPoint, out bool horizontal, out bool vertical));
             Console.WriteLine("Horizontal? " + horizontal);
             Console.WriteLine("Vertical? " + vertical);
 
             Student peter = new Student() { FirstName = "Peter", LastName = "Ivanov"};
-            peter.OtherInfo = "From Sofia, born at 17.03.1992";
+            peter.OtherInfo = "From Sofia.";
+            peter.BirthDay = new DateTime(1999, 12, 16);
 
             Student stella = new Student() { FirstName = "Stella", LastName = "Markova"};
-            stella.OtherInfo = "From Vidin, gamer, high results, born at 03.11.1993";
+            stella.OtherInfo = "From Vidin, gamer, high results.";
+            stella.BirthDay = new DateTime(1993, 11, 03);
 
             Console.WriteLine("{0} older than {1} -> {2}",
                 peter.FirstName, stella.FirstName, peter.IsOlderThan(stella));
