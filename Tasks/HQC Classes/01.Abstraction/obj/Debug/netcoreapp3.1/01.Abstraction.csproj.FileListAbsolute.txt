@@ -1,0 +1,13 @@
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\bin\Debug\netcoreapp3.1\01.Abstraction.exe
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\bin\Debug\netcoreapp3.1\01.Abstraction.deps.json
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\bin\Debug\netcoreapp3.1\01.Abstraction.runtimeconfig.json
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\bin\Debug\netcoreapp3.1\01.Abstraction.runtimeconfig.dev.json
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\bin\Debug\netcoreapp3.1\01.Abstraction.dll
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\bin\Debug\netcoreapp3.1\01.Abstraction.pdb
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\obj\Debug\netcoreapp3.1\01.Abstraction.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\obj\Debug\netcoreapp3.1\01.Abstraction.AssemblyInfoInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\obj\Debug\netcoreapp3.1\01.Abstraction.AssemblyInfo.cs
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\obj\Debug\netcoreapp3.1\01.Abstraction.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\obj\Debug\netcoreapp3.1\01.Abstraction.dll
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\obj\Debug\netcoreapp3.1\01.Abstraction.pdb
+D:\Yordan\intern yordan\intern\Tasks\HQC Classes\01.Abstraction\obj\Debug\netcoreapp3.1\01.Abstraction.genruntimeconfig.cache

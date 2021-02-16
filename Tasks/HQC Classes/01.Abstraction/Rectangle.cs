@@ -6,25 +6,44 @@ namespace _01.Abstraction
 {
     class Rectangle : Figure
     {
-        public Rectangle()
-            : base(0, 0)
+        private double _width;
+        private double _height;
+
+        public Rectangle(double width = 0, double height = 0)
         {
+            Width = width;
+            Height = height;
         }
 
-        public Rectangle(double width, double height)
-            : base(width, height)
+        public virtual double Width
         {
-        }
-
-        protected override double Radius
-        {
-            get
-            {
-                throw new NotImplementedException("Rectangle does not have Radius");
-            }
+            get => _width;
             set
             {
-                throw new NotImplementedException("Rectangle does not have Radius");
+                if (value < 0)
+                {
+                    _width = 0;
+                }
+                else
+                {
+                    _width = value;
+                }
+            }
+        }
+
+        public virtual double Height
+        {
+            get => _height;
+            set
+            {
+                if (value < 0)
+                {
+                    _height = 0;
+                }
+                else
+                {
+                    _height = value;
+                }
             }
         }
 

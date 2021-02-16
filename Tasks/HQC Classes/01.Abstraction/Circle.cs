@@ -6,35 +6,31 @@ namespace _01.Abstraction
 {
     class Circle : Figure
     {
-        public Circle() : base(0)
+        private double _radius;
+
+        public Circle()
         {
+            Radius = 0;
         }
 
-        public Circle(double radius) : base(radius)
+        public Circle(double radius)
         {
+            Radius = radius;
         }
 
-        protected override double Width
+        public virtual double Radius
         {
-            get
-            {
-                throw new NotImplementedException("Circle does not have Width");
-            }
+            get => _radius;
             set
             {
-                throw new NotImplementedException("Circle does not have Width");
-            }
-        }
-
-        protected override double Height
-        {
-            get
-            {
-                throw new NotImplementedException("Circle does not have Height");
-            }
-            set
-            {
-                throw new NotImplementedException("Circle does not have Height");
+                if (value < 0)
+                {
+                    _radius = 0;
+                }
+                else
+                {
+                    _radius = value;
+                }
             }
         }
 
