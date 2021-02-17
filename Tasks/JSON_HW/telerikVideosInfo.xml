@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCLC-vbm7OWvpbqzXaoAMGGw"/>
+ <id>yt:channel:UCLC-vbm7OWvpbqzXaoAMGGw</id>
+ <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+ <title>Telerik Academy</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw"/>
+ <author>
+  <name>Telerik Academy</name>
+  <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+ </author>
+ <published>2011-06-24T15:53:13+00:00</published>
+ <entry>
+  <id>yt:video:F8TxwmM35Ok</id>
+  <yt:videoId>F8TxwmM35Ok</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Как да станеш търсен програмист за 6 месеца [Уебинар]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=F8TxwmM35Ok"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2020-03-31T18:10:00+00:00</published>
+  <updated>2020-08-25T16:00:59+00:00</updated>
+  <media:group>
+   <media:title>Как да станеш търсен програмист за 6 месеца [Уебинар]</media:title>
+   <media:content url="https://www.youtube.com/v/F8TxwmM35Ok?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/F8TxwmM35Ok/hqdefault.jpg" width="480" height="360"/>
+   <media:description>За 6 месеца можеш да станеш търсен програмист с .NET или JavaScript. Благодарение на нашия над 10-годишен опит, знаем, че това е напълно възможно.
+
+В рамките на уебинара: 
+
+• Ще научиш кои са най-търсените умения от ИТ компаниите днес и как можеш да ги усвоиш
+
+• Ще чуеш повече за кариерните възможности в най-бурно развиващата се индустрия у нас
+
+• Ще се вдъхновиш от разказите на хората, завършили предишни издания на програмите, които днес работят в ИТ компании 
+
+• Ще се запознаеш в детайли с програмите за кариерен старт Telerik Academy Alpha .NET и Telerik Academy Alpha Javascript
+
+• Ще получиш ценни съвети, свързани с кандидатстването, подготовката и обучението в програмата 
+
+• Ще можеш да зададеш всички свои въпроси (през чат функцията на YouTube)
+
+
+Научи повече за програмата Telerik Academy Alpha .NET: https://bit.ly/2xUrpho
+
+Научи повече за програмата Telerik Academy Alpha JavaScript: https://bit.ly/33EPBjD
+
+Уебсайт: http://telerikacademy.com
+
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.
+
+Пиши ни на info@telerikacademy.com</media:description>
+   <media:community>
+    <media:starRating count="75" average="4.89" min="1" max="5"/>
+    <media:statistics views="3153"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:c40PadcFNzQ</id>
+  <yt:videoId>c40PadcFNzQ</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Как да стартираш кариера като QA инженер [Уебинар]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=c40PadcFNzQ"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2020-03-24T19:23:24+00:00</published>
+  <updated>2020-08-26T07:11:25+00:00</updated>
+  <media:group>
+   <media:title>Как да стартираш кариера като QA инженер [Уебинар]</media:title>
+   <media:content url="https://www.youtube.com/v/c40PadcFNzQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/c40PadcFNzQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Обмисляш ли кариера в ИТ индустрията? Знаеш ли, че QA специалистите са също толкова търсени у нас, колкото и програмистите с Java? Причината е, че те имат ключова роля в разработката на всеки софтуерен продукт. 
+
+В рамките на уебинара: 
+
+• Ще чуеш от QA експерти какви са отговорностите и предизвикателствата на професията 
+
+• Ще се вдъхновиш от разказите на хората, завършили предишни издания на програмата, които днес работят в ИТ компании 
+
+• Ще се запознаеш в детайли с програмата за кариерен старт Telerik Academy Alpha QA 
+
+• Ще получиш ценни съвети, свързани с кандидатстването, подготовката и обучението в програмата 
+
+• Ще можеш да зададеш всички свои въпроси (през чат функцията на YouTube)
+
+
+Научи повече за програмата Telerik Academy Alpha QA: http://bit.ly/3dbGlbl
+
+
+
+Уебсайт: http://telerikacademy.com
+
+Следи всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.
+
+Пиши ни на info@telerikacademy.com</media:description>
+   <media:community>
+    <media:starRating count="40" average="4.90" min="1" max="5"/>
+    <media:statistics views="2061"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kpKQrvnjUeM</id>
+  <yt:videoId>kpKQrvnjUeM</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Как да станеш предпочитан експерт по дигитален маркетинг [Уебинар]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kpKQrvnjUeM"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2020-03-18T18:39:53+00:00</published>
+  <updated>2020-08-25T21:46:05+00:00</updated>
+  <media:group>
+   <media:title>Как да станеш предпочитан експерт по дигитален маркетинг [Уебинар]</media:title>
+   <media:content url="https://www.youtube.com/v/kpKQrvnjUeM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kpKQrvnjUeM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Днес маркетинг специлистите трябва да притежават широк спектър от знания и да бъдат в крак с последните дигитални тенденции. Това е единственият начин да бъдат успешни, ефективни и търсени от бизнеса.
+
+По време на уебинара ще отговорим на някои от най-важните въпроси:
+
+• Какви ключови умения са необходими, за да създадеш и изпълниш стратегически маркетингови кампании от край до край.
+
+• Как да работиш еднакво добре във всички дисциплини на дигиталния маркетинг.
+ 
+• Как да станеш 360-градусов маркетинг експерт.
+
+• Какво отличава Telerik Academy Upskill Digital Marketing от други програми и как ще ти помогне да изведеш кариерата си до следващото ниво.
+
+Програма:
+
+19:30 - 20:00: Презентация и детайли за програмата по дигитален маркетинг
+20:00 - 20:15: Дискусионен панел със завършили предишни издания на програмата
+20:15-20:30: Q&amp;A панел (задавай въпросите си през чата в YouTube)
+
+
+Научи повече за програмата Telerik Academy Upskill Digital Marketing: http://bit.ly/2TVTfSV
+
+Уебсайт: http://telerikacademy.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="26" average="5.00" min="1" max="5"/>
+    <media:statistics views="1070"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IWYiKHp-4Fg</id>
+  <yt:videoId>IWYiKHp-4Fg</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Telerik Academy's 10th Anniversary - Partners</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IWYiKHp-4Fg"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2019-11-08T14:50:32+00:00</published>
+  <updated>2020-12-10T22:53:49+00:00</updated>
+  <media:group>
+   <media:title>Telerik Academy's 10th Anniversary - Partners</media:title>
+   <media:content url="https://www.youtube.com/v/IWYiKHp-4Fg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IWYiKHp-4Fg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>През последните 10 години захранваме технологичния бизнес с master junior талант. Така свързваме компаниите с мотивирани специалисти и помагаме на курсистите ни да реализират пълния си потенциал.
+
+Ето какво споделят част от партньорите ни за съвместната ни работа.
+
+Уебсайт: http://telerikacademy.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="18" average="4.78" min="1" max="5"/>
+    <media:statistics views="833"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:8ZmBk02J4OI</id>
+  <yt:videoId>8ZmBk02J4OI</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Telerik Academy's 10th Anniversary - Alumni</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=8ZmBk02J4OI"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2019-11-08T14:32:23+00:00</published>
+  <updated>2020-12-14T05:07:39+00:00</updated>
+  <media:group>
+   <media:title>Telerik Academy's 10th Anniversary - Alumni</media:title>
+   <media:content url="https://www.youtube.com/v/8ZmBk02J4OI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8ZmBk02J4OI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Преди 10 години поставихме основите на първата голяма частна инициатива за подготовка на ИТ специалисти. 
+
+Успехът на възпитаниците ни е основната ни движеща сила и вдъхновение.
+
+Виж част от многобройните истории на наши курсисти, които днес работят в ИТ сферата.
+
+Уебсайт: http://telerikacademy.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="613"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:oxbt4iOIwC0</id>
+  <yt:videoId>oxbt4iOIwC0</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Професия Java програмист - кариерни възможности</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oxbt4iOIwC0"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2018-02-23T08:29:59+00:00</published>
+  <updated>2020-12-11T23:25:58+00:00</updated>
+  <media:group>
+   <media:title>Професия Java програмист - кариерни възможности</media:title>
+   <media:content url="https://www.youtube.com/v/oxbt4iOIwC0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oxbt4iOIwC0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>В рамките на кариерното ни събитие &quot;How to Kickstart a Career with Java&quot; Атанас Игнатов, мениджър на софтуерен екип в Experian, и Христо Ганев, технически директор на Proxiad, разказват за кариерните възможности с Java.
+
+Уебсайт: http://telerikacademy.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="24" average="4.33" min="1" max="5"/>
+    <media:statistics views="1947"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RSVLN2KVfKE</id>
+  <yt:videoId>RSVLN2KVfKE</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>Telerik Academy Alpha JAVA - представяне</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RSVLN2KVfKE"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2018-02-23T08:17:46+00:00</published>
+  <updated>2020-12-25T20:00:58+00:00</updated>
+  <media:group>
+   <media:title>Telerik Academy Alpha JAVA - представяне</media:title>
+   <media:content url="https://www.youtube.com/v/RSVLN2KVfKE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RSVLN2KVfKE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Научете повече за програмата за подготовка на софтуерни специалисти Telerik Academy Alpha JAVA от Михаил Вълков, генерален мениджър, и Дончо Минков, старши технологичен трейнър в Професионалната Телерик Академия. 
+
+Уебсайт: http://telerikacademy.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="23" average="4.83" min="1" max="5"/>
+    <media:statistics views="2796"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WSoO-XgOK3M</id>
+  <yt:videoId>WSoO-XgOK3M</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>„Успешен кариерен старт в ИТ сектора“ - възпитаници на Професионалната Телерик Академия</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WSoO-XgOK3M"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2018-02-19T10:51:58+00:00</published>
+  <updated>2020-12-10T22:53:52+00:00</updated>
+  <media:group>
+   <media:title>„Успешен кариерен старт в ИТ сектора“ - възпитаници на Професионалната Телерик Академия</media:title>
+   <media:content url="https://www.youtube.com/v/WSoO-XgOK3M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WSoO-XgOK3M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Събитие „Как да стартирате кариера с Java“.
+
+Панелна дискусия с участието на Калин Костов, Мартин Доневски и Никола Станойчев, курсисти, завършили успешно Професионалните програми на Телерик Академия. 
+
+Уебсайт: http://telerikacademy.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="24" average="4.83" min="1" max="5"/>
+    <media:statistics views="1746"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SBEqo5AbnQ4</id>
+  <yt:videoId>SBEqo5AbnQ4</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>[ASP.NET MVC] Deployment локално, в Azure, CI и CD с Jenkins (part 2)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SBEqo5AbnQ4"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-10-11T07:07:04+00:00</published>
+  <updated>2020-12-11T07:38:01+00:00</updated>
+  <media:group>
+   <media:title>[ASP.NET MVC] Deployment локално, в Azure, CI и CD с Jenkins (part 2)</media:title>
+   <media:content url="https://www.youtube.com/v/SBEqo5AbnQ4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SBEqo5AbnQ4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: [ASP.NET MVC] Deployment локално, в Azure, CI и CD с Jenkins (part 2)
+Курс: ASP.NET MVC
+Лектор: Виктор Цветков
+Дата: 05 октомври 2017
+
+Уебсайт: http://academy.telerik.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="1157"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TikxR8VgQhM</id>
+  <yt:videoId>TikxR8VgQhM</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>[ASP.NET MVC] Deployment локално, в Azure, CI и CD с Jenkins (part 1)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TikxR8VgQhM"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-10-11T06:53:49+00:00</published>
+  <updated>2020-12-10T19:27:41+00:00</updated>
+  <media:group>
+   <media:title>[ASP.NET MVC] Deployment локално, в Azure, CI и CD с Jenkins (part 1)</media:title>
+   <media:content url="https://www.youtube.com/v/TikxR8VgQhM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TikxR8VgQhM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: [ASP.NET MVC] Deployment локално, в Azure, CI и CD с Jenkins (part 1)
+Курс: ASP.NET MVC
+Лектор: Виктор Цветков
+Дата: 05 октомври 2017
+
+Уебсайт: http://academy.telerik.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="3" average="3.67" min="1" max="5"/>
+    <media:statistics views="817"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rcitP9twoIc</id>
+  <yt:videoId>rcitP9twoIc</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>[ASP.NET MVC] Advanced ASP.NET MVC</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rcitP9twoIc"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-10-10T17:55:06+00:00</published>
+  <updated>2020-12-14T05:07:42+00:00</updated>
+  <media:group>
+   <media:title>[ASP.NET MVC] Advanced ASP.NET MVC</media:title>
+   <media:content url="https://www.youtube.com/v/rcitP9twoIc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rcitP9twoIc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: [ASP.NET MVC] Advanced ASP.NET MVC
+Курс: ASP.NET MVC
+Лектор: Виктор Цветков
+Дата: 10 октомври 2017
+
+Уебсайт: http://academy.telerik.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="9" average="4.56" min="1" max="5"/>
+    <media:statistics views="2138"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6NoWfudne60</id>
+  <yt:videoId>6NoWfudne60</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>[ASP.NET MVC] SignalR</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6NoWfudne60"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-10-10T17:15:56+00:00</published>
+  <updated>2020-12-10T22:53:48+00:00</updated>
+  <media:group>
+   <media:title>[ASP.NET MVC] SignalR</media:title>
+   <media:content url="https://www.youtube.com/v/6NoWfudne60?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6NoWfudne60/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: [ASP.NET MVC] SignalR
+Курс: ASP.NET MVC
+Лектор: Виктор Цветков
+Дата: 10 октомври 2017
+
+Уебсайт: http://academy.telerik.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="12" average="4.33" min="1" max="5"/>
+    <media:statistics views="1824"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7YQNcG85Bo8</id>
+  <yt:videoId>7YQNcG85Bo8</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>[ASP.NET MVC] Deployment локално, в Azure, CI и CD с Jenkins</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7YQNcG85Bo8"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-10-10T17:05:48+00:00</published>
+  <updated>2020-12-12T05:30:26+00:00</updated>
+  <media:group>
+   <media:title>[ASP.NET MVC] Deployment локално, в Azure, CI и CD с Jenkins</media:title>
+   <media:content url="https://www.youtube.com/v/7YQNcG85Bo8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7YQNcG85Bo8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: [ASP.NET MVC] Deployment локално, в Azure, CI и CD с Jenkins
+Курс: ASP.NET MVC
+Лектор: Виктор Цветков
+Дата: 05 октомври 2017
+
+Уебсайт: http://academy.telerik.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="416"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GDsf7Bt1s68</id>
+  <yt:videoId>GDsf7Bt1s68</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>mvp dagger</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GDsf7Bt1s68"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-10-03T15:30:44+00:00</published>
+  <updated>2020-12-14T00:17:34+00:00</updated>
+  <media:group>
+   <media:title>mvp dagger</media:title>
+   <media:content url="https://www.youtube.com/v/GDsf7Bt1s68?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GDsf7Bt1s68/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция:
+Курс:
+Лектор:
+Дата:
+
+Уебсайт: http://academy.telerik.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="705"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fSY_6QpquFg</id>
+  <yt:videoId>fSY_6QpquFg</yt:videoId>
+  <yt:channelId>UCLC-vbm7OWvpbqzXaoAMGGw</yt:channelId>
+  <title>[ASP.NET MVC] Web Security</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fSY_6QpquFg"/>
+  <author>
+   <name>Telerik Academy</name>
+   <uri>https://www.youtube.com/channel/UCLC-vbm7OWvpbqzXaoAMGGw</uri>
+  </author>
+  <published>2017-10-03T15:12:09+00:00</published>
+  <updated>2020-12-14T05:07:39+00:00</updated>
+  <media:group>
+   <media:title>[ASP.NET MVC] Web Security</media:title>
+   <media:content url="https://www.youtube.com/v/fSY_6QpquFg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fSY_6QpquFg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция: Web Security
+Курс: ASP.NET MVC
+Лектор: Мартин Вешев
+Дата: 3 октомври 2017
+
+Уебсайт: http://academy.telerik.com
+Следете всичко ново за Телерик Академия и във Facebook: http://www.facebook.com/TelerikAcademy.</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="1484"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

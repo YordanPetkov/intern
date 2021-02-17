@@ -15,20 +15,32 @@ namespace _01.JSONtask
     {
         static void Main(string[] args)
         {
-            var url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCLC-vbm7OWvpbqzXaoAMGGw";
-            var client = new WebClient();
-            var xml = client.DownloadString(url);
-            var node = XDocument.Parse(xml);
-            var json = JsonConvert.SerializeXNode(node);
-            JObject feed = JObject.Parse(json);
-            IList<string> videoTitles = feed["feed"]["entry"].Select(entry => (string)entry["title"]).ToList();
+            string url = "https://www.youtube.com/feeds/videos.xml?channel_id=UCLC-vbm7OWvpbqzXaoAMGGw";
+            string fileName = "../../../telerikVideosInfo.xml";
 
-            Console.OutputEncoding = Encoding.UTF8;
+            DownloadXmlFile(url);
+            TakeXmlNode(fileName);
+            var json = JsonConvert.SerializeXNode(TakeXmlNode(fileName));
+
+            JObject telerikFeed = JObject.Parse(json);
+            IList<string> videoTitles = telerikFeed["feed"]["entry"].Select(entry => (string)entry["title"]).ToList();
+
             foreach (var title in videoTitles)
             {
                 Console.WriteLine(title);
             }
+        }
 
+        public static void DownloadXmlFile(string url)
+        {
+            var client = new WebClient();
+            client.DownloadFile(url, "../../../telerikVideosInfo.xml");
+        }
+
+        public static XDocument TakeXmlNode(string fileName)
+        {
+            var node = XDocument.Load(fileName);
+            return node;
         }
     }
 }
