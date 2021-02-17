@@ -84,22 +84,65 @@
 
 9.Point out the pros and cons of using indexes in a database.
 
+	-Advantages of using indexes in a database :
+		-Speed up SELECT query.
+		-Helps to make a row unique.
+		-If index is set to fill-text index, then can be searched against large string values.
+	-Disadvantages of using indexes in a database :
+		-Indexes take additional  disk space.
+		-Indexes slow down INSERT, UPDATE, DELETE because on each operation the indexes must also be updated.
 
 10.What's the main purpose of the SQL language?
 
+	-SQL language is a database query language used for storing and managing data in Relational DBMS
 
 11.What are transactions used for?
 
+	-TCL commands are used to manage the changes made to the data in a table by DML statements. It also allows statements to be grouped together into logical transactions.
+		-'Commit' command is used to permanently save the transaction into the database.
+		-'Savepoint' command is used to temporarily save a transaction so that you can rollback to that point whenever required.
+		-'Rollback' command restores the database to last commited state. It is also used with 'SAVEPOINT' command to jump to a savepoint in an ongoing transaction.
 
 12.Give an example.
 
+	-INSERT INTO Customers VALUES(6, 'Ivan', 'Petkov');
+	-COMMIT;
+	-UPDATE Customers SET firstName = 'Petar' WHERE id = '6';
+	-SAVEPOINT A;
+	-INSERT INTO Customers VALUES(7, 'Georgi', 'Ivanov');
+	-SAVEPOINT B;
+	-SELECT * FROM Customers
+
+		id |  firstName | lastName
+		6	Petar	  Petkov
+		7	Georgi	  Ivanov
+
+	-ROLLBACK TO A;
+	SELECT * FROM Customers
+
+		id |  firstName | lastName
+		6	Petar	  Petkov
 
 13.What is a NoSQL database?
 
+	-With NoSQL, data can be stored in a schema-less or free-form fashion. Any data can be stored in any record.
 
 14.Explain the classical non-relational data models.
-
+	
+	-Document databases (CouchDB, MongoDB)
+		- Inserted data is stored in the form of free-form JSON structures or “documents,” where the data could be anything from integers to strings.
+	-Key-value stores ( Redis, Riak)
+		- Free-form values—from simple integers or strings to complex JSON documents—are accessed in the database by way of keys.
+	-Wide column stores (HBase, Cassandra)
+		- Data is stored in columns instead of rows as in a conventional SQL system.
+	-Graph database (Neo4j)
+		- Data is represented as a network or graph of entities and their relationships, with each node in the graph a free-form chunk of data.
 
 15.Give few examples of NoSQL databases and their pros and cons.
-
-
+	-Examples of NoSQL databases :
+		-CouchDB, MongoDB, Redis, Riak, HBase, Cassandra, Neo4j.
+	-Advantages of NoSQL
+		-Fast access to the data
+		-Storing large volume of data
+	-Disadvantages of NoSQL 
+		-NoSQL can't provide constraints, consistency, and safeguards , that many applications still call for it.
