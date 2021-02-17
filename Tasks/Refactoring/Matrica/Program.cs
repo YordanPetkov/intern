@@ -2,11 +2,20 @@
 
 namespace Task3
 {
-    class WalkInMatrica
+    public class WalkInMatrica
     {
-
-        static void ChangeDirection(ref int directionX, ref int directionY)
+        public static void ChangeDirection(ref int directionX, ref int directionY)
         {
+            if(directionX < -1 || directionX > 1)
+            {
+                throw new ArgumentOutOfRangeException("directionX");
+            }
+
+            if (directionY < -1 || directionY > 1)
+            {
+                throw new ArgumentOutOfRangeException("directionY");
+            }
+
             int[] dirX = { 1, 1, 1, 0, -1, -1, -1, 0 };
             int[] dirY = { 1, 0, -1, -1, -1, 0, 1, 1 };
             int currentDirection = 0;
@@ -31,8 +40,23 @@ namespace Task3
             directionY = dirY[currentDirection + 1];
         }
 
-        static bool CheckForPath(int[,] matrix, int row, int column)
+        public static bool CheckForPath(int[,] matrix, int row, int column)
         {
+            if (matrix == null)
+            {
+                throw new ArgumentNullException("matrix");
+            }
+
+            if (row < 0 || row >= matrix.GetLength(0))
+            {
+                throw new ArgumentOutOfRangeException("row");
+            }
+
+            if (column < 0 || column >= matrix.GetLength(1))
+            {
+                throw new ArgumentOutOfRangeException("column");
+            }
+
             int[] dirX = { 1, 1, 1, 0, -1, -1, -1, 0 };
             int[] dirY = { 1, 0, -1, -1, -1, 0, 1, 1 };
 
@@ -43,7 +67,7 @@ namespace Task3
                     dirX[i] = 0;
                 }
 
-                if (column + dirY[i] >= matrix.GetLength(0) || column + dirY[i] < 0)
+                if (column + dirY[i] >= matrix.GetLength(1) || column + dirY[i] < 0)
                 {
                     dirY[i] = 0;
                 }
@@ -60,27 +84,59 @@ namespace Task3
             return false;
         }
 
-        static void FindCell(int[,] matrix, out int row, out int column)
+        public static bool FindCell(int[,] matrix, out int row, out int column)
         {
-            row = 0;
-            column = 0;
+            if(matrix == null)
+            {
+                throw new ArgumentNullException("matrix");
+            }
+
+            row = -1;
+            column = -1;
 
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
-                for (int j = 0; j < matrix.GetLength(0); j++)
+                for (int j = 0; j < matrix.GetLength(1); j++)
                 {
                     if (matrix[i, j] == 0)
                     {
                         row = i;
                         column = j;
-                        return;
+                        return true;
                     }
                 }
             }
+
+            return false;
         }
 
-        static void FillMatrix(int[,] matrix, int matrixSize, int row, int column,ref int currentNumber)
+        public static void FillMatrix(int[,] matrix, int matrixSize, int row, int column, ref int currentNumber)
         {
+            if(matrix == null)
+            {
+                throw new ArgumentNullException("matrix");
+            }
+
+            if(matrixSize != matrix.GetLength(0))
+            {
+                throw new ArgumentOutOfRangeException("matrixSize");
+            }
+
+            if (row < 0 || row >= matrix.GetLength(0))
+            {
+                throw new ArgumentOutOfRangeException("row");
+            }
+
+            if (column < 0 || column >= matrix.GetLength(1))
+            {
+                throw new ArgumentOutOfRangeException("column");
+            }
+
+            if(currentNumber < 0 || currentNumber > matrix.GetLength(0) * matrix.GetLength(1))
+            {
+                throw new ArgumentOutOfRangeException("currentNumber");
+            }
+
             int directionX = 1;
             int directionY = 1;
 
@@ -112,7 +168,7 @@ namespace Task3
             }
         }
 
-        static void PrintMatrix(int[,] matrix, int matrixSize)
+       public static void PrintMatrix(int[,] matrix, int matrixSize)
         {
             for (int i = 0; i < matrixSize; i++)
             {
@@ -133,7 +189,7 @@ namespace Task3
             string input = Console.ReadLine();
             int matrixSize;
 
-            while ( !int.TryParse( input, out matrixSize) || matrixSize < 0 || matrixSize > 100 )
+            while (!int.TryParse( input, out matrixSize) || matrixSize < 0 || matrixSize > 100 )
             {
                 Console.WriteLine( "You haven't entered a correct positive number" );
                 input = Console.ReadLine();
@@ -147,7 +203,10 @@ namespace Task3
             while(currentNumber < matrixSize * matrixSize)
             {
                 FillMatrix(matrix, matrixSize, row, column, ref currentNumber);
-                FindCell(matrix, out row, out column);
+                if(!FindCell(matrix, out row, out column))
+                {
+                    break;
+                }
             }
 
             PrintMatrix(matrix, matrixSize);

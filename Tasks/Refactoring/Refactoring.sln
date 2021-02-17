@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrica", "Matrica\Matrica.csproj", "{C7547D61-42D3-42D4-86B7-2B10232A78DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatricaTests", "MatricaTests\MatricaTests.csproj", "{9460AC8D-E5A5-436D-8C1A-99C5D97DCA1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C7547D61-42D3-42D4-86B7-2B10232A78DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7547D61-42D3-42D4-86B7-2B10232A78DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7547D61-42D3-42D4-86B7-2B10232A78DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9460AC8D-E5A5-436D-8C1A-99C5D97DCA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9460AC8D-E5A5-436D-8C1A-99C5D97DCA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9460AC8D-E5A5-436D-8C1A-99C5D97DCA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9460AC8D-E5A5-436D-8C1A-99C5D97DCA1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
