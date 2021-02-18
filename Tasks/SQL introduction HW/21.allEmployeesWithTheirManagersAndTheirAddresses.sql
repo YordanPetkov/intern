@@ -1,5 +1,5 @@
 SELECT e.*, 
-	CONCAT(m.FirstName, ' ', m.MiddleName, ' ', m.LastName) as managerName,
+	CONCAT(m.FirstName, ' ', m.MiddleName, ' ', m.LastName) as ManagerName,
 	a.AddressText,a.TownID
 FROM Employees as e
 INNER JOIN Employees as m
