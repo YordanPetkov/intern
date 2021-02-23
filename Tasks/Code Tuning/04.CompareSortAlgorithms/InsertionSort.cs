@@ -12,21 +12,21 @@ namespace _04.CompareSortAlgorithms
         {
         }
 
-        public void Sort(T[] arr)
+        public override void Sort()
         {
-            int n = arr.Length;
+            int n = array.Length;
             for (int i = 1; i < n; i++)
             {
-                T key = arr[i];
+                T key = array[i];
                 int j = i - 1;
 
-                while (j >= 0 && arr[j].CompareTo(key) > 1)
+                while (j >= 0 && array[j].CompareTo(key) > 1)
                 {
-                    arr[j + 1] = arr[j];
+                    array[j + 1] = array[j];
                     j--;
                 }
 
-                arr[j + 1] = key;
+                array[j + 1] = key;
             }
         }
     }

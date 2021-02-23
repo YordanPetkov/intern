@@ -18,6 +18,8 @@ namespace _04.CompareSortAlgorithms
             }
         }
 
+        public abstract void Sort();
+
         public void PrintArray()
         {
             for (int i = 0; i < array.Length; i++)

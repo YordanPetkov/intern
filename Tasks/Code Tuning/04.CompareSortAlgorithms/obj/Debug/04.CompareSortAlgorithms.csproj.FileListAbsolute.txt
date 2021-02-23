@@ -1,0 +1,7 @@
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\04.CompareSortAlgorithms\bin\Debug\04.CompareSortAlgorithms.exe.config
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\04.CompareSortAlgorithms\bin\Debug\04.CompareSortAlgorithms.exe
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\04.CompareSortAlgorithms\bin\Debug\04.CompareSortAlgorithms.pdb
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\04.CompareSortAlgorithms\obj\Debug\04.CompareSortAlgorithms.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\04.CompareSortAlgorithms\obj\Debug\04.CompareSortAlgorithms.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\04.CompareSortAlgorithms\obj\Debug\04.CompareSortAlgorithms.exe
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\04.CompareSortAlgorithms\obj\Debug\04.CompareSortAlgorithms.pdb
