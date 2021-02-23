@@ -26,6 +26,7 @@ namespace _07.SelectionSort
                         minIndex = j;
                     }
                 }
+
                 int helpVar;
                 helpVar = nums[i];
                 nums[i] = nums[minIndex];

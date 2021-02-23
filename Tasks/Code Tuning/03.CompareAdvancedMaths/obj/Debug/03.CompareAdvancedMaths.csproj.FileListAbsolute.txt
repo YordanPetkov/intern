@@ -1,0 +1,7 @@
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\03.CompareAdvancedMaths\bin\Debug\03.CompareAdvancedMaths.exe.config
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\03.CompareAdvancedMaths\bin\Debug\03.CompareAdvancedMaths.exe
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\03.CompareAdvancedMaths\bin\Debug\03.CompareAdvancedMaths.pdb
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\03.CompareAdvancedMaths\obj\Debug\03.CompareAdvancedMaths.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\03.CompareAdvancedMaths\obj\Debug\03.CompareAdvancedMaths.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\03.CompareAdvancedMaths\obj\Debug\03.CompareAdvancedMaths.exe
+D:\Yordan\intern yordan\intern\Tasks\Code Tuning\03.CompareAdvancedMaths\obj\Debug\03.CompareAdvancedMaths.pdb

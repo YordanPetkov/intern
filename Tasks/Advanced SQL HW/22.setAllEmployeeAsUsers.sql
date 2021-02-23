@@ -46,7 +46,9 @@ INNER JOIN
 	CONCAT(e.FirstName,' ',e.LastName) as Name,
 	NULL as lastLogin
 	FROM Employees as e
-	WHERE LEN(CONCAT(substring(e.FirstName, 1, 1), e.LastName)) >= 5
+	GROUP BY CONCAT(substring(e.FirstName, 1, 1), e.LastName)
+	HAVING LEN(CONCAT(substring(e.FirstName, 1, 1), e.LastName)) >= 5
+	
 ) UNM
 ON UNM.username = UN.username
 GROUP BY UNM.username

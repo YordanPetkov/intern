@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\13.MergeSort\\13.MergeSort.csproj": {}
+    "D:\\Yordan\\intern yordan\\intern\\Tasks\\Arrays\\13.MergeSort\\13.MergeSort.csproj": {}
   },
   "projects": {
-    "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\13.MergeSort\\13.MergeSort.csproj": {
+    "D:\\Yordan\\intern yordan\\intern\\Tasks\\Arrays\\13.MergeSort\\13.MergeSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\13.MergeSort\\13.MergeSort.csproj",
+        "projectUniqueName": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Arrays\\13.MergeSort\\13.MergeSort.csproj",
         "projectName": "13.MergeSort",
-        "projectPath": "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\13.MergeSort\\13.MergeSort.csproj",
+        "projectPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Arrays\\13.MergeSort\\13.MergeSort.csproj",
         "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
-        "outputPath": "D:\\Yordan\\intern\\intern\\Tasks\\Arrays\\13.MergeSort\\obj\\",
+        "outputPath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Arrays\\13.MergeSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
