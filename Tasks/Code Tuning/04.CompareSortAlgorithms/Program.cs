@@ -25,7 +25,7 @@ namespace _04.CompareSortAlgorithms
             GetSortedIntArray(ref sortedNumbers, count);
 
             double[] sortedDecimals = new double[count];
-            GetRandomDoubleArray(ref randomDecimals, count);
+            GetSortedDoubleArray(ref randomDecimals, count);
 
             string[] sortedWords = new string[count];
             GetRandomStringArray(ref randomWords, count);
@@ -39,15 +39,23 @@ namespace _04.CompareSortAlgorithms
             string[] ReverseSortedWords = new string[count];
             GetRandomStringArray(ref randomWords, count);
 
+            PrintInsertionSortTime(randomNumbers);
+            PrintInsertionSortTime(randomDecimals);
+            PrintInsertionSortTime(randomWords);
+            PrintInsertionSortTime(sortedNumbers);
+            PrintInsertionSortTime(sortedDecimals);
+        }
 
-            InsertionSort<int> insertionSortRandomIntegers = new InsertionSort<int>(randomNumbers);
-            insertionSortRandomIntegers.PrintArray();
+        public static void PrintInsertionSortTime<T>(T[] arr) where T : IComparable
+        {
+            InsertionSort<T> insertionSort = new InsertionSort<T>(arr);
+            insertionSort.PrintArray();
             DateTime startTime = DateTime.Now;
-            insertionSortRandomIntegers.Sort();
+            insertionSort.Sort();
             DateTime endTime = DateTime.Now;
             double seconds = (endTime - startTime).TotalSeconds;
             Console.WriteLine(seconds);
-            insertionSortRandomIntegers.PrintArray();
+            insertionSort.PrintArray();
         }
 
         public static void GetRandomIntArray(ref int[] arr, int count)
@@ -61,9 +69,9 @@ namespace _04.CompareSortAlgorithms
 
         public static void GetRandomDoubleArray(ref double[] arr, int count)
         {
+            var rand = new Random();
             for (int i = 0; i < count; i++)
             {
-                var rand = new Random();
                 arr[i] = rand.NextDouble();
             }
         }
@@ -71,16 +79,15 @@ namespace _04.CompareSortAlgorithms
         public static void GetRandomStringArray(ref string[] arr, int count)
         {
             string chars = "$%#@!*abcdefghijklmnopqrstuvwxyz1234567890?;:ABCDEFGHIJKLMNOPQRSTUVWXYZ^&";
-
+            var randSize = new Random();
+            var randSymbol = new Random();
             for (int i = 0; i < count; i++)
             {
-                var rand = new Random();
-                int size = rand.Next(0, 100);
+                int size = randSize.Next(0, 100);
                 StringBuilder word = new StringBuilder(size);
                 for (int j = 0; j < size; j++)
                 {
-                    rand = new Random();
-                    int index = rand.Next(0, chars.Length - 1);
+                    int index = randSymbol.Next(0, chars.Length - 1);
                     word.Append(chars[index]);
                 }
 
@@ -98,11 +105,12 @@ namespace _04.CompareSortAlgorithms
 
         public static void GetSortedDoubleArray(ref double[] arr, int count)
         {
+            double j = 0.15;
             for (int i = 0; i < count; i++)
             {
-                arr[i] = (double)i + 0.5;
+                j += 0.6;
+                arr[i] = j;
             }
         }
-
     }
 }
