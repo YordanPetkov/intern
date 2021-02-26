@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,22 +11,65 @@ namespace _03.CompareAdvancedMaths
     {
         static void Main(string[] args)
         {
-            DateTime startTime = DateTime.Now;
+            Console.WriteLine("Square root");
+
+            var watch = new Stopwatch();
+            watch.Start();
             double result = Math.Sqrt((double)float.MaxValue);
-            DateTime endTime = DateTime.Now;
-            double sqrtTimeForFloats = (endTime - startTime).TotalSeconds;
+            watch.Stop();
+            Console.WriteLine("\tFloats : {0}", watch.Elapsed);
 
-            startTime = DateTime.Now;
+            watch = new Stopwatch();
+            watch.Start();
             result = Math.Sqrt(double.MaxValue);
-            endTime = DateTime.Now;
-            double sqrtTimeForDoubles = (endTime - startTime).TotalSeconds;
+            watch.Stop();
+            Console.WriteLine("\tDoubles : {0}", watch.Elapsed);
 
-            startTime = DateTime.Now;
+            watch = new Stopwatch();
+            watch.Start();
             result = Math.Sqrt((double)decimal.MaxValue);
-            endTime = DateTime.Now;
-            double sqrtTimeForDecimals = (endTime - startTime).TotalSeconds;
+            watch.Stop();
+            Console.WriteLine("\tDecimals : {0}", watch.Elapsed);
 
-            
+            Console.WriteLine("Natural logarithm");
+
+            watch = new Stopwatch();
+            watch.Start();
+            result = Math.Log((double)float.MaxValue);
+            watch.Stop();
+            Console.WriteLine("\tFloats : {0}", watch.Elapsed);
+
+            watch = new Stopwatch();
+            watch.Start();
+            result = Math.Log(double.MaxValue);
+            watch.Stop();
+            Console.WriteLine("\tDoubles : {0}", watch.Elapsed);
+
+            watch = new Stopwatch();
+            watch.Start();
+            result = Math.Log((double)decimal.MaxValue);
+            watch.Stop();
+            Console.WriteLine("\tDecimals : {0}", watch.Elapsed);
+
+            Console.WriteLine("Sinus");
+
+            watch = new Stopwatch();
+            watch.Start();
+            result = Math.Sin((double)float.MaxValue);
+            watch.Stop();
+            Console.WriteLine("\tFloats : {0}", watch.Elapsed);
+
+            watch = new Stopwatch();
+            watch.Start();
+            result = Math.Sin(double.MaxValue);
+            watch.Stop();
+            Console.WriteLine("\tDoubles : {0}", watch.Elapsed);
+
+            watch = new Stopwatch();
+            watch.Start();
+            result = Math.Sin((double)decimal.MaxValue);
+            watch.Stop();
+            Console.WriteLine("\tDecimals : {0}", watch.Elapsed);
         }
     }
 }
