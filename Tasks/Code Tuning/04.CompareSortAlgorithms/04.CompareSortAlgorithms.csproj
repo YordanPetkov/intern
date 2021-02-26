@@ -43,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="InsertionSort.cs" />
+    <Compile Include="ArrayUtility.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SortingAlgorithm.cs" />
+    <Compile Include="SortUtility.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,107 +11,92 @@ namespace _04.CompareSortAlgorithms
     {
         static void Main(string[] args)
         {
-            int count = 10;
+            int numbersCount = 10000;
 
-            int[] randomNumbers = new int[count];
-            GetRandomIntArray(ref randomNumbers, count);
+            SortUtility.PrintInsertionSortTime<int>(ArrayUtility.GetRandomIntArray(numbersCount), 
+                    "Insertion sort for random " + numbersCount + " integers");
 
-            double[] randomDecimals = new double[count];
-            GetRandomDoubleArray(ref randomDecimals, count);
+            SortUtility.PrintInsertionSortTime<double>(ArrayUtility.GetRandomDoubleArray(numbersCount), 
+                    "Insertion sort for random " + numbersCount + " doubles");
 
-            string[] randomWords = new string[count];
-            GetRandomStringArray(ref randomWords, count);
+            SortUtility.PrintInsertionSortTime<string>(ArrayUtility.GetRandomStringArray(numbersCount), 
+                    "Insertion sort for random " + numbersCount + " strings");
 
-            int[] sortedNumbers = new int[count];
-            GetSortedIntArray(ref sortedNumbers, count);
+            SortUtility.PrintInsertionSortTime<int>(ArrayUtility.GetSortedIntArray(numbersCount, true), 
+                    "Insertion sort for sorted " + numbersCount + " integers");
 
-            double[] sortedDecimals = new double[count];
-            GetSortedDoubleArray(ref randomDecimals, count);
+            SortUtility.PrintInsertionSortTime<double>(ArrayUtility.GetSortedDoubleArray(numbersCount, true), 
+                    "Insertion sort for sorted " + numbersCount + " doubles");
 
-            string[] sortedWords = new string[count];
-            GetRandomStringArray(ref randomWords, count);
+            SortUtility.PrintInsertionSortTime<string>(ArrayUtility.GetSortedStringArray(numbersCount, true), 
+                    "Insertion sort for sorted " + numbersCount + " strings");
 
-            int[] ReverseSortedNumbers = new int[count];
-            GetRandomIntArray(ref randomNumbers, count);
+            SortUtility.PrintInsertionSortTime<int>(ArrayUtility.GetSortedIntArray(numbersCount, false), 
+                    "Insertion sort for sorted " + numbersCount + " integers descending");
 
-            double[] ReverseSortedDecimals = new double[count];
-            GetRandomDoubleArray(ref randomDecimals, count);
+            SortUtility.PrintInsertionSortTime<double>(ArrayUtility.GetSortedDoubleArray(numbersCount, false), 
+                    "Insertion sort for sorted " + numbersCount + " doubles descending");
 
-            string[] ReverseSortedWords = new string[count];
-            GetRandomStringArray(ref randomWords, count);
+            SortUtility.PrintInsertionSortTime<string>(ArrayUtility.GetSortedStringArray(numbersCount, false), 
+                    "Insertion sort for sorted " + numbersCount + " strings descending");
 
-            PrintInsertionSortTime(randomNumbers);
-            PrintInsertionSortTime(randomDecimals);
-            PrintInsertionSortTime(randomWords);
-            PrintInsertionSortTime(sortedNumbers);
-            PrintInsertionSortTime(sortedDecimals);
-        }
+            Console.WriteLine();
 
-        public static void PrintInsertionSortTime<T>(T[] arr) where T : IComparable
-        {
-            InsertionSort<T> insertionSort = new InsertionSort<T>(arr);
-            insertionSort.PrintArray();
-            DateTime startTime = DateTime.Now;
-            insertionSort.Sort();
-            DateTime endTime = DateTime.Now;
-            double seconds = (endTime - startTime).TotalSeconds;
-            Console.WriteLine(seconds);
-            insertionSort.PrintArray();
-        }
+            SortUtility.PrintSelectionSortTime<int>(ArrayUtility.GetRandomIntArray(numbersCount),
+                    "Selection sort for random " + numbersCount + " integers");
 
-        public static void GetRandomIntArray(ref int[] arr, int count)
-        {
-            var rand = new Random();
-            for (int i = 0; i < count; i++)
-            {
-                arr[i] = rand.Next(0, 100);
-            }
-        }
+            SortUtility.PrintSelectionSortTime<double>(ArrayUtility.GetRandomDoubleArray(numbersCount),
+                    "Selection sort for random " + numbersCount + " doubles");
 
-        public static void GetRandomDoubleArray(ref double[] arr, int count)
-        {
-            var rand = new Random();
-            for (int i = 0; i < count; i++)
-            {
-                arr[i] = rand.NextDouble();
-            }
-        }
+            SortUtility.PrintSelectionSortTime<string>(ArrayUtility.GetRandomStringArray(numbersCount),
+                    "Selection sort for random " + numbersCount + " strings");
 
-        public static void GetRandomStringArray(ref string[] arr, int count)
-        {
-            string chars = "$%#@!*abcdefghijklmnopqrstuvwxyz1234567890?;:ABCDEFGHIJKLMNOPQRSTUVWXYZ^&";
-            var randSize = new Random();
-            var randSymbol = new Random();
-            for (int i = 0; i < count; i++)
-            {
-                int size = randSize.Next(0, 100);
-                StringBuilder word = new StringBuilder(size);
-                for (int j = 0; j < size; j++)
-                {
-                    int index = randSymbol.Next(0, chars.Length - 1);
-                    word.Append(chars[index]);
-                }
+            SortUtility.PrintSelectionSortTime<int>(ArrayUtility.GetSortedIntArray(numbersCount, true),
+                    "Selection sort for sorted " + numbersCount + " integers");
 
-                arr[i] = word.ToString();
-            }
-        }
+            SortUtility.PrintSelectionSortTime<double>(ArrayUtility.GetSortedDoubleArray(numbersCount, true),
+                    "Selection sort for sorted " + numbersCount + " doubles");
 
-        public static void GetSortedIntArray(ref int[] arr, int count)
-        {
-            for (int i = 0; i < count; i++)
-            {
-                arr[i] = i;
-            }
-        }
+            SortUtility.PrintSelectionSortTime<string>(ArrayUtility.GetSortedStringArray(numbersCount, true),
+                    "Selection sort for sorted " + numbersCount + " strings");
 
-        public static void GetSortedDoubleArray(ref double[] arr, int count)
-        {
-            double j = 0.15;
-            for (int i = 0; i < count; i++)
-            {
-                j += 0.6;
-                arr[i] = j;
-            }
+            SortUtility.PrintSelectionSortTime<int>(ArrayUtility.GetSortedIntArray(numbersCount, false),
+                    "Selection sort for sorted " + numbersCount + " integers descending");
+
+            SortUtility.PrintSelectionSortTime<double>(ArrayUtility.GetSortedDoubleArray(numbersCount, false),
+                    "Selection sort for sorted " + numbersCount + " doubles descending");
+
+            SortUtility.PrintSelectionSortTime<string>(ArrayUtility.GetSortedStringArray(numbersCount, false),
+                    "Selection sort for sorted " + numbersCount + " strings descending");
+
+            Console.WriteLine();
+
+            SortUtility.PrintQuickSortTime<int>(ArrayUtility.GetRandomIntArray(numbersCount),
+                    "Quick sort for random " + numbersCount + " integers");
+
+            SortUtility.PrintQuickSortTime<double>(ArrayUtility.GetRandomDoubleArray(numbersCount),
+                    "Quick sort for random " + numbersCount + " doubles");
+
+            SortUtility.PrintQuickSortTime<string>(ArrayUtility.GetRandomStringArray(numbersCount),
+                    "Quick sort for random " + numbersCount + " strings");
+
+            SortUtility.PrintQuickSortTime<int>(ArrayUtility.GetSortedIntArray(numbersCount, true),
+                    "Quick sort for sorted " + numbersCount + " integers");
+
+            SortUtility.PrintQuickSortTime<double>(ArrayUtility.GetSortedDoubleArray(numbersCount, true),
+                    "Quick sort for sorted " + numbersCount + " doubles");
+
+            SortUtility.PrintQuickSortTime<string>(ArrayUtility.GetSortedStringArray(numbersCount, true),
+                    "Quick sort for sorted " + numbersCount + " strings");
+
+            SortUtility.PrintQuickSortTime<int>(ArrayUtility.GetSortedIntArray(numbersCount, false),
+                    "Quick sort for sorted " + numbersCount + " integers descending");
+
+            SortUtility.PrintQuickSortTime<double>(ArrayUtility.GetSortedDoubleArray(numbersCount, false),
+                    "Quick sort for sorted " + numbersCount + " doubles descending");
+
+            SortUtility.PrintQuickSortTime<string>(ArrayUtility.GetSortedStringArray(numbersCount, false),
+                    "Quick sort for sorted " + numbersCount + " strings descending");
         }
     }
 }
