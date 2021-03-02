@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 SELECT AVG(Employees.Salary) as averageSalary
 FROM Employees
 INNER JOIN Departments

@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 CREATE TRIGGER tr_del_wh ON WorkHours
 AFTER DELETE
 AS

@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 SELECT em.EmployeeID,em.FirstName,em.LastName,em.JobTitle,em.ManagerID,
 CASE WHEN em.ManagerID IS NULL THEN 'no manager'
 ELSE em.ManagerName

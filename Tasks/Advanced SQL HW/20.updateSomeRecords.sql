@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 UPDATE Users
 SET UserName = 'Bliokl22'
 WHERE UserName = 'B_iokl22'

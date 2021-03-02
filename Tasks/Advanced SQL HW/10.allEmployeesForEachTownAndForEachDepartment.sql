@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 SELECT Departments.Name, COUNT(Employees.EmployeeID) as numberOfEmployees
 FROM Departments
 INNER JOIN Employees

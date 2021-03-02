@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 CREATE or ALTER VIEW TodaysUsers AS
 	SELECT Users.UserName,Users.FullName
 	FROM Users

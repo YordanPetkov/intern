@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 SELECT MinSalary.*,Employees.FirstName,Employees.LastName
 FROM Employees
 INNER JOIN(

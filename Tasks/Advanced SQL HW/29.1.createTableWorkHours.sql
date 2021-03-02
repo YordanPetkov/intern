@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 CREATE TABLE WorkHours
 (
 	WorkHoursID int Identity Primary KEY,

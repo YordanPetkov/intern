@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 SELECT Departments.Name as [Department Name],
 	Employees.JobTitle,
 	AVG(Employees.Salary) as [Average salary]

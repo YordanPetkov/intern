@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 SELECT Towns.Name,COUNT(Employees.ManagerID) as Managers
 FROM Employees
 INNER JOIN Addresses

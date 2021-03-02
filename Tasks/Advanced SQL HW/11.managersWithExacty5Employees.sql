@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 SELECT Employees.FirstName,Employees.LastName
 FROM Employees
 INNER JOIN (

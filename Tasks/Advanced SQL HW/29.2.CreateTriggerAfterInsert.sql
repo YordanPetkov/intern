@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 CREATE TRIGGER tr_ins_wh ON WorkHours
 AFTER INSERT
 AS

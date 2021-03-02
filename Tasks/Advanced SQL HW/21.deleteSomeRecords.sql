@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 DELETE FROM Users
 WHERE Users.GroupID = 8
 

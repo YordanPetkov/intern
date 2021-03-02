@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 INSERT INTO Users (UserName,Password,FullName,LastLogin)
 SELECT DISTINCT
 	LOWER

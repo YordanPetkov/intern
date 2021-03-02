@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 
 SELECT EmployeesByTown.Name
 	FROM

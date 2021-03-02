@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 CREATE TABLE Users
 (
 	UserName varchar(50) UNIQUE,

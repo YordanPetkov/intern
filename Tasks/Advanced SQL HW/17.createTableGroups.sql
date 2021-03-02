@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 CREATE TABLE Groups
 (
 	GroupID int IDENTITY PRIMARY KEY NOT NULL,

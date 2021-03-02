@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 INSERT INTO Groups VALUES ('Helpers')
 INSERT INTO Groups VALUES ('Boosters')
 

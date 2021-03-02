@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 SELECT CONCAT(Employees.FirstName, ' ', Employees.MiddleName, ' ', Employees.LastName) as EmployeeName,
 	Employees.Salary,Departments.Name
 FROM Employees

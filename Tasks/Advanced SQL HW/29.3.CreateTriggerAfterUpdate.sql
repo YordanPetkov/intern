@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 CREATE TRIGGER tr_up_wh ON WorkHours
 AFTER UPDATE
 AS
