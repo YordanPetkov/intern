@@ -17,5 +17,6 @@ BEGIN
 	FROM inserted,deleted
 
 	INSERT INTO WorkHoursLogs
+	inserted.Task
 	VALUES(@OldRecordData, @NewRecordData, 'Update')
 END

@@ -1,7 +1,7 @@
 USE Bank
 GO
 
-CREATE PROCEDURE WithdrawMoney(@accountId int, @money float)
+CREATE PROCEDURE WithdrawMoney(@accountId int, @money money)
 AS
 UPDATE Accounts
 SET Accounts.Balance = Accounts.Balance - @money

@@ -1,4 +1,7 @@
-CREATE FUNCTION dbo.CalculateBallance(@sum float,@yearlyInterestRate float,@numberOfMonths int)
+USE Bank
+GO
+
+CREATE FUNCTION dbo.CalculateBallance(@sum money, @yearlyInterestRate float, @numberOfMonths int)
 RETURNS float
 AS BEGIN
 	DECLARE @newSum float
