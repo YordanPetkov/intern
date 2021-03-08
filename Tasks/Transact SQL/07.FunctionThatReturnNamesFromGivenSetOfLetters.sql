@@ -1,3 +1,6 @@
+USE TelerikAcademy
+GO
+
 CREATE FUNCTION GetNames(@set varchar(50))
 RETURNS TABLE
 AS 
@@ -16,6 +19,7 @@ BEGIN
 	END;
 
 	SET @i = 0;
+
 	DECLARE @validNames TABLE (Name varchar(50));
 	INSERT INTO @validNames
 		SELECT * FROM
@@ -29,10 +33,25 @@ BEGIN
 			SELECT Name FROM Towns
 		) as N
 
-	WHILE @i < 26
+	DECLARE @currentLetter char, @isLetterUsed BIT
+	DECLARE Letters_Cursor CURSOR
+	FOR
+		SELECT * From @letters
+
+	OPEN Letters_Cursor
+
+	FETCH NEXT FROM Employees_Cursor INTO @currentLetter, @isLetterUsed
+
+	WHILE @@FETCH_STATUS = 0
 	BEGIN
-	  
-	  SET @i = @i + 1;
+		if(@isLetterUsed = 0)
+		BEGIN
+			DECLARE @pattern varchar(50)
+			SET @pattern = '%' + @currentLetter + '%'
+			INSERT INTO @validNames (SELECT * FROM @validNames WHERE @validNames.Name NOT LIKE @pattern)
+		END
+
+		FETCH NEXT FROM Employees_Cursor INTO @currentLetter, @isLetterUsed
 	END;
 END;
 RETURN

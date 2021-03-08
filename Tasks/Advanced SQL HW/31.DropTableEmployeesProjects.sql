@@ -11,3 +11,4 @@ COMMIT;
 
 SELECT * FROM Departments
 
+ 
