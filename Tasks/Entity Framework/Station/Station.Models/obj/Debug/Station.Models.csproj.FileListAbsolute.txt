@@ -1,0 +1,6 @@
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Models\bin\Debug\Station.Models.dll
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Models\bin\Debug\Station.Models.pdb
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Models\obj\Debug\Station.Models.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Models\obj\Debug\Station.Models.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Models\obj\Debug\Station.Models.dll
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Models\obj\Debug\Station.Models.pdb

@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Station.Models
 {
@@ -12,7 +13,11 @@ namespace Station.Models
         }
 
         public int Id { get; set; }
+
+        [Column("Starting Point")]
         public string Place1 { get; set; }
+
+        [Column("Destination")]
         public string Place2 { get; set; }
 
         public int TrainId { get; set; }

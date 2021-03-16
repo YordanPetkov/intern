@@ -1,0 +1,17 @@
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\Station.Api.exe.config
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\Station.Api.exe
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\Station.Api.pdb
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\EntityFramework.dll
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\Station.Data.dll
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\Station.Models.dll
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\Station.Data.pdb
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\Station.Data.dll.config
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\Station.Models.pdb
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\EntityFramework.xml
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\obj\Debug\Station.Api.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\obj\Debug\Station.Api.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\obj\Debug\Station.Api.csproj.CopyComplete
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\obj\Debug\Station.Api.exe
+D:\Yordan\intern yordan\intern\Tasks\Entity Framework\Station\Station.Api\obj\Debug\Station.Api.pdb
