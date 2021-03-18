@@ -26,8 +26,9 @@ namespace Station.Api
                 var train = context.Trains.Find(trip.TrainId);
                 var passangers = trip.Users;
 
-                Console.WriteLine("From {0} to {1} , train : \"{2}\"", trip.Place1, trip.Place2, train.Name);
+                Console.WriteLine("From \"{0}\" to \"{1}\" , train : \"{2}\"", trip.Place1, trip.Place2, train.Name);
                 Console.WriteLine("Passangers : ");
+
                 foreach (var passanger in passangers)
                 {
                     Console.WriteLine(passanger.Name);
