@@ -16,7 +16,9 @@ namespace Station.Models
         {
             this.trips = new HashSet<Trip>();
         }
+
         public int Id { get; set; }
+
         public string Name { get; set; }
 
         public virtual ICollection<Trip> Trips { get { return this.trips; } set { this.trips = value; } }

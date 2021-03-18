@@ -50,7 +50,7 @@ namespace Station.Api
                     Name = "Yantra"
                 });
 
-                context.Trains.Add(new Train()
+                context.Trains.Add(new Train() 
                 {
                     Id = 3,
                     Name = "Diana"
@@ -73,6 +73,7 @@ namespace Station.Api
                             .Where(t => t.Name == "Chaika")
                             .FirstOrDefault<Train>()
                 });
+
                 context.Trips.Add(new Trip()
                 {
                     Id = 2,
@@ -82,6 +83,7 @@ namespace Station.Api
                             .Where(t => t.Name == "Yantra")
                             .FirstOrDefault<Train>()
                 });
+
                 context.Trips.Add(new Trip()
                 {
                     Id = 3,
