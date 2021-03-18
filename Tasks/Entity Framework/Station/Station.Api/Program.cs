@@ -15,7 +15,24 @@ namespace Station.Api
             //PopulateTableTrains();
             //PopulateTableTrips();
             //PopulateTableUsers();
+            PrintTrip(2);
+        }
 
+        static void PrintTrip(int tripId)
+        {
+            using(var context = new StationDBContext())
+            {
+                var trip = context.Trips.Find(tripId);
+                var train = context.Trains.Find(trip.TrainId);
+                var passangers = trip.Users;
+
+                Console.WriteLine("From {0} to {1} , train : \"{2}\"", trip.Place1, trip.Place2, train.Name);
+                Console.WriteLine("Passangers : ");
+                foreach (var passanger in passangers)
+                {
+                    Console.WriteLine(passanger.Name);
+                }
+            }
         }
 
         static void PopulateTableTrains()
@@ -84,7 +101,7 @@ namespace Station.Api
                 "Petar Ivanov",
                 "Dimitar Andreev",
                 "Georgi Petrov",
-                "Ivan Kolev",
+                "Miroslav Kolev",
                 "Stanimir Nikolov",
                 "Ivan Kirqkov",
                 "Stanimir Kalinov",
