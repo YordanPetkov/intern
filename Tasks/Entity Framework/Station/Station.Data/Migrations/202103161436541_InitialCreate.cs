@@ -50,7 +50,6 @@
                 .ForeignKey("dbo.Trips", t => t.Trip_Id, cascadeDelete: true)
                 .Index(t => t.User_Id)
                 .Index(t => t.Trip_Id);
-            
         }
         
         public override void Down()
