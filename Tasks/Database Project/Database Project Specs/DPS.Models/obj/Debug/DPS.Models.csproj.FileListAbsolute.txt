@@ -1,0 +1,7 @@
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Models\bin\Debug\DPS.Models.dll.config
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Models\bin\Debug\DPS.Models.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Models\bin\Debug\DPS.Models.pdb
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Models\obj\Debug\DPS.Models.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Models\obj\Debug\DPS.Models.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Models\obj\Debug\DPS.Models.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Models\obj\Debug\DPS.Models.pdb

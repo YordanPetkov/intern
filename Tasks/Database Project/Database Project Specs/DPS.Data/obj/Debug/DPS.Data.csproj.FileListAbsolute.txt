@@ -1,0 +1,17 @@
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\bin\Debug\DPS.Data.dll.config
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\bin\Debug\DPS.Data.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\bin\Debug\DPS.Data.pdb
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\bin\Debug\DPS.Models.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\bin\Debug\EntityFramework.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\bin\Debug\DPS.Models.pdb
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\bin\Debug\DPS.Models.dll.config
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\bin\Debug\EntityFramework.xml
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.csproj.CopyComplete
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.pdb
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.Initial.resources
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.csproj.GenerateResource.cache
