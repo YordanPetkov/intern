@@ -1,4 +1,5 @@
-﻿using DPS.Models;
+﻿using DPS.Data.Configurations;
+using DPS.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -12,10 +13,17 @@ namespace DPS.Data
     {
         public LibraryDbContext()
         {
+
+        }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Configurations.Add(new AuthorConfiguration());
         }
 
         public virtual DbSet<Author> Authors { get; set; }
         public virtual DbSet<Book> Books { get; set; }
         public virtual DbSet<Genre> Genres { get; set; }
+        public virtual DbSet<Nickname> Nicknames { get; set; }
     }
 }

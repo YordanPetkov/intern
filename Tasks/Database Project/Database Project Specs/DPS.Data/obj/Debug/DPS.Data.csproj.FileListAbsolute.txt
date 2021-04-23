@@ -15,3 +15,4 @@ D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.pdb
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.Initial.resources
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.csproj.GenerateResource.cache
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.AddedNickname.resources

@@ -13,6 +13,11 @@ namespace DPS.Client
         {
             using (var ctx = new LibraryDbContext())
             {
+                ctx.Authors.Add(
+                    new Models.Author()
+                    { FirstName = "Ivan", LastName = "Vazov" };
+
+                )
             }
         }
     }

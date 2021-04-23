@@ -51,10 +51,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Configurations\AuthorConfiguration.cs" />
     <Compile Include="LibraryDbContext.cs" />
     <Compile Include="Migrations\202104221412130_Initial.cs" />
     <Compile Include="Migrations\202104221412130_Initial.designer.cs">
       <DependentUpon>202104221412130_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104231348188_Added Nickname..cs" />
+    <Compile Include="Migrations\202104231348188_Added Nickname..designer.cs">
+      <DependentUpon>202104231348188_Added Nickname..cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -73,7 +78,11 @@
     <EmbeddedResource Include="Migrations\202104221412130_Initial.resx">
       <DependentUpon>202104221412130_Initial.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104231348188_Added Nickname..resx">
+      <DependentUpon>202104231348188_Added Nickname..cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
