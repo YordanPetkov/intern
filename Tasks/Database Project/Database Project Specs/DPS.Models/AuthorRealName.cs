@@ -8,18 +8,18 @@ using System.Threading.Tasks;
 
 namespace DPS.Models
 {
-    public class Author
+    public class AuthorRealName
     {
-        public Author()
+        public AuthorRealName()
         {
-            this.Books = new HashSet<Book>();
+           
         }
+
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int NicknameId { get; set; }
-        public Nickname Nickname { get; set; }
-
-        public virtual ICollection<Book> Books { get; set; }
+        public string Country { get; set; }
+        public AuthorNickname Nickname { get; set; }
     }
 }

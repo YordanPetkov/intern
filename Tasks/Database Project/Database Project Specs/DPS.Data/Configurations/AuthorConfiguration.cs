@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DPS.Data.Configurations
 {
-    public class AuthorConfiguration : EntityTypeConfiguration<Author>
+    public class AuthorConfiguration : EntityTypeConfiguration<AuthorRealName>
     {
         public AuthorConfiguration()
         {
@@ -16,4 +16,3 @@ namespace DPS.Data.Configurations
         }
     }
 }
-

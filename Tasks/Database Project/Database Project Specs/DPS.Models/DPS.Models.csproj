@@ -47,10 +47,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Author.cs" />
+    <Compile Include="AuthorRealName.cs" />
     <Compile Include="Book.cs" />
     <Compile Include="Genre.cs" />
-    <Compile Include="Nickname.cs" />
+    <Compile Include="AuthorNickname.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

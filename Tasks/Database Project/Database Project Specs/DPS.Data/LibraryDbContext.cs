@@ -21,9 +21,9 @@ namespace DPS.Data
             modelBuilder.Configurations.Add(new AuthorConfiguration());
         }
 
-        public virtual DbSet<Author> Authors { get; set; }
+        public virtual DbSet<AuthorRealName> Authors { get; set; }
         public virtual DbSet<Book> Books { get; set; }
         public virtual DbSet<Genre> Genres { get; set; }
-        public virtual DbSet<Nickname> Nicknames { get; set; }
+        public virtual DbSet<AuthorNickname> Nicknames { get; set; }
     }
 }

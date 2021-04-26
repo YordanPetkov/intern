@@ -1,4 +1,5 @@
-﻿using DPS.Data;
+﻿using Autofac;
+using DPS.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,13 +12,13 @@ namespace DPS.Client
     {
         static void Main(string[] args)
         {
-            using (var ctx = new LibraryDbContext())
-            {
-                ctx.Authors.Add(
-                    new Models.Author()
-                    { FirstName = "Ivan", LastName = "Vazov" };
+            var container = ContainerConfig.Configure();
 
-                )
+            using (var scope = container.BeginLifetimeScope())
+            {
+                var app = scope.Resolve<IApplication>();
+                app.Run();
+
             }
         }
     }

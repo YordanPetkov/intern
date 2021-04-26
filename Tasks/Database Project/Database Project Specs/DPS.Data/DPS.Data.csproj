@@ -61,6 +61,18 @@
     <Compile Include="Migrations\202104231348188_Added Nickname..designer.cs">
       <DependentUpon>202104231348188_Added Nickname..cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202104261441118_AddedCountryToAuthor.cs" />
+    <Compile Include="Migrations\202104261441118_AddedCountryToAuthor.designer.cs">
+      <DependentUpon>202104261441118_AddedCountryToAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104261442108_AddedYearToBook.cs" />
+    <Compile Include="Migrations\202104261442108_AddedYearToBook.designer.cs">
+      <DependentUpon>202104261442108_AddedYearToBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202104261501248_ChangeBookAuthorToAuthorNickname.cs" />
+    <Compile Include="Migrations\202104261501248_ChangeBookAuthorToAuthorNickname.designer.cs">
+      <DependentUpon>202104261501248_ChangeBookAuthorToAuthorNickname.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -80,6 +92,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202104231348188_Added Nickname..resx">
       <DependentUpon>202104231348188_Added Nickname..cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104261441118_AddedCountryToAuthor.resx">
+      <DependentUpon>202104261441118_AddedCountryToAuthor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104261442108_AddedYearToBook.resx">
+      <DependentUpon>202104261442108_AddedYearToBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202104261501248_ChangeBookAuthorToAuthorNickname.resx">
+      <DependentUpon>202104261501248_ChangeBookAuthorToAuthorNickname.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

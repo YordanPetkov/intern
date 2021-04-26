@@ -1,0 +1,6 @@
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Logic.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Logic.pdb
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.csproj.CoreCompileInputs.cache
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.pdb
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.csprojAssemblyReference.cache
