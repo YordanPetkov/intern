@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GMF12Q0YZihIHFPUU6J0x4P+nE1aCdtYfaNVBBTlBnEUe9IcvFlVo17XiOeszUVai6yarMSB7+LBee0VPb0DEg==",
+  "dgSpecHash": "PAebIPpIsik3o4uUZRtE8hfP6yM6HeNUV+UvrHt5hxOthZ1QzIEoHoyBT0/CuliCspl1sKs8xN8eA0279I4SUA==",
   "success": true,
   "projectFilePath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Naming Identifiers\\03.ClickOnTheButtonJS\\03.ClickOnTheButtonJS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

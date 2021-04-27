@@ -4,3 +4,15 @@ D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.dll
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.pdb
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.csprojAssemblyReference.cache
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Logic.dll.config
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Data.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\EntityFramework.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Models.dll
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Data.pdb
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Data.dll.config
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\EntityFramework.xml
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Models.pdb
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Models.dll.config
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.csproj.CopyComplete

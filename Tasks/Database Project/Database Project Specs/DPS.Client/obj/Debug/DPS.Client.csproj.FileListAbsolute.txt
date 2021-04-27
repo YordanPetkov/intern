@@ -35,3 +35,4 @@ D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Logic.dll
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Logic.pdb
+D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Logic.dll.config

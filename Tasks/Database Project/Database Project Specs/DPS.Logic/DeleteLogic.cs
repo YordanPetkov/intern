@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DPS.Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,14 @@ namespace DPS.Logic
         public DeleteLogic()
         {
 
+        }
+
+        public void DeleteData()
+        {
+            using(var dbContext = new LibraryDbContext())
+            {
+                
+            }
         }
     }
 }

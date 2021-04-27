@@ -39,6 +39,7 @@ namespace DPS.Client
 
                 case 'r':
                     Console.WriteLine("Read");
+                    readLogic.ReadData();
                     break;
 
                 case 'u':

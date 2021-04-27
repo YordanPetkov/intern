@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dTrNaz3XZegM2SKm37fSJ4iC+l6vh6iex+Krv1pcyptyqQ9JK09mlrdAyOU/PKH7E/yBvrpDt0iHKs58XzZMXQ==",
+  "dgSpecHash": "JiskxVz3gvAA2TEw0wuNLP3I5tNZts1+ZmDAPL0IPqVXWtp+hdA/mDwLZ+LMgbEU7aX2xz3a40XqKFcuQAtH+g==",
   "success": true,
   "projectFilePath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Naming Identifiers\\02.MakePersonInCSharp\\02.MakePersonInCSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

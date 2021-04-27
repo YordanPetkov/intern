@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NULjWFVdd8fKX2D8rzdLj3aHOQcNikR9x5Qf6V88r5EekzPSUYKwTR0odINrY4wnLa23ZRkNIowzOtgyzdamfQ==",
+  "dgSpecHash": "2RGKzXvxnr0+RqgX6GNbSKkB9/3X5FfmMJmyWmkbzdy4ElWNXPtfg+KEfP38L3qmBjeY2exA42l2XPgSDEZ5tg==",
   "success": true,
   "projectFilePath": "D:\\Yordan\\intern yordan\\intern\\Tasks\\Naming Identifiers\\04.Re-factorAndImproveTheCode\\04.Re-factorAndImproveTheCode.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
