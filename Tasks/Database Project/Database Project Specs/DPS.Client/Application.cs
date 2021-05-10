@@ -22,6 +22,7 @@ namespace DPS.Client
             this.updateLogic = updateLogic;
             this.deleteLogic = deleteLogic;
         }
+
         public void Run()
         {
             Console.WriteLine("             Choose an option.");
@@ -29,6 +30,7 @@ namespace DPS.Client
             Console.WriteLine("If you want to check some of our books in library - 'r'");
             Console.WriteLine("If you want to update the information about any book in our library - 'u'");
             Console.WriteLine("If you want to delete any book in our library - 'd'");
+            Console.WriteLine("----------------------------------------------------------------------------");
 
             char option = Char.Parse(Console.ReadLine());
             switch (option)
@@ -44,6 +46,7 @@ namespace DPS.Client
 
                 case 'u':
                     Console.WriteLine("Update");
+                    updateLogic.UpdateData();
                     break;
 
                 case 'd':

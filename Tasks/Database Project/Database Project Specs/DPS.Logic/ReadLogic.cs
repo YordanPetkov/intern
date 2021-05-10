@@ -18,6 +18,10 @@ namespace DPS.Logic
         {
             using (var dbContext = new LibraryDbContext())
             {
+                var title = dbContext.Database.SqlQuery<string> ("Select Title from Books where Id=1").FirstOrDefault();
+                //Console.WriteLine(Json(title, JsonRequestBehavior.AllowGet));
+                Console.WriteLine(title);
+
                 Console.WriteLine("Choose a table from where you want to read.");
                 Console.WriteLine("Books/Authors/Genres");
                 string table = Console.ReadLine();

@@ -18,7 +18,6 @@ namespace DPS.Client
             {
                 var app = scope.Resolve<IApplication>();
                 app.Run();
-
             }
         }
     }
