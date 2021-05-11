@@ -26,30 +26,30 @@ namespace DPS.Client
         public void Run()
         {
             Console.WriteLine("             Choose an option.");
-            Console.WriteLine("If you want to create a new book to our library - 'c'");
-            Console.WriteLine("If you want to check some of our books in library - 'r'");
-            Console.WriteLine("If you want to update the information about any book in our library - 'u'");
-            Console.WriteLine("If you want to delete any book in our library - 'd'");
+            Console.WriteLine("If you want to create a new book to our library - 'create'");
+            Console.WriteLine("If you want to check some of our books in library - 'read'");
+            Console.WriteLine("If you want to update the information about any book in our library - 'update'");
+            Console.WriteLine("If you want to delete any book in our library - 'delete'");
             Console.WriteLine("----------------------------------------------------------------------------");
 
-            char option = Char.Parse(Console.ReadLine());
+            string option = Console.ReadLine();
             switch (option)
             {
-                case 'c':
+                case "create":
                     Console.WriteLine("Create");
                     break;
 
-                case 'r':
+                case "read":
                     Console.WriteLine("Read");
                     readLogic.ReadData();
                     break;
 
-                case 'u':
+                case "update":
                     Console.WriteLine("Update");
                     updateLogic.UpdateData();
                     break;
 
-                case 'd':
+                case "delete":
                     Console.WriteLine("Delete");
                     break;
 

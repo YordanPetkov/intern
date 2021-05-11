@@ -16,3 +16,21 @@ D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Models.pdb
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Models.dll.config
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.csproj.CopyComplete
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Logic.dll.config
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Logic.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Logic.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Data.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\EntityFramework.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Models.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Data.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Data.dll.config
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\EntityFramework.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Models.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\DPS.Models.dll.config
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.csprojAssemblyReference.cache
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.csproj.CoreCompileInputs.cache
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.csproj.CopyComplete
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.pdb

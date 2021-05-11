@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5BQdSiByYmC4vjvFMp4JVc6izkmSD75FtDoMU+CP8zAUmyC8x+xgwzGbnufyIKVA979pprfNzAdfS0V+62IY5w==",
+  "dgSpecHash": "SCGKi3yskjz+OKv9Pz6h7X7B6Q1SRj4NL2hM3GwdXwVLlw+TQVdsjY5NZ7gLYHmgzvQZq5EV1adORiyTAY62sw==",
   "success": true,
-  "projectFilePath": "D:\\Yordan\\intern\\intern\\Tasks\\Exceptions\\03.ReadFileContents\\03.ReadFileContents.csproj",
+  "projectFilePath": "D:\\Yordan\\Code\\Intern\\intern\\Tasks\\Exceptions\\03.ReadFileContents\\03.ReadFileContents.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

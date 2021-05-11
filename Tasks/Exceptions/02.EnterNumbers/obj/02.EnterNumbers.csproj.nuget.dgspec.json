@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Yordan\\intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\02.EnterNumbers.csproj": {}
+    "D:\\Yordan\\Code\\Intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\02.EnterNumbers.csproj": {}
   },
   "projects": {
-    "D:\\Yordan\\intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\02.EnterNumbers.csproj": {
+    "D:\\Yordan\\Code\\Intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\02.EnterNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Yordan\\intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\02.EnterNumbers.csproj",
+        "projectUniqueName": "D:\\Yordan\\Code\\Intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\02.EnterNumbers.csproj",
         "projectName": "02.EnterNumbers",
-        "projectPath": "D:\\Yordan\\intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\02.EnterNumbers.csproj",
+        "projectPath": "D:\\Yordan\\Code\\Intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\02.EnterNumbers.csproj",
         "packagesPath": "C:\\Users\\Yordan.Petkov\\.nuget\\packages\\",
-        "outputPath": "D:\\Yordan\\intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\obj\\",
+        "outputPath": "D:\\Yordan\\Code\\Intern\\intern\\Tasks\\Exceptions\\02.EnterNumbers\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Yordan.Petkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

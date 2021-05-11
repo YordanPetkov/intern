@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "94lZm/8fOkyTPDcPIhf6HEa2dG2QcW/9CTtwXo2N+EwpLgjcxFO9O8KwV7EzJVfNSrZm+6THvKzHlhaTNk/yqg==",
+  "dgSpecHash": "X1DTbM+XMKPLOykQdy/JHUkGncNfrwqcgo2kNUusrvHo4xtUqyEx9y/s2rR+91Osx7stXWv8+UphTDMIn6khhw==",
   "success": true,
-  "projectFilePath": "D:\\Yordan\\intern\\intern\\Tasks\\Exceptions\\04.DownloadFile\\04.DownloadFile.csproj",
+  "projectFilePath": "D:\\Yordan\\Code\\Intern\\intern\\Tasks\\Exceptions\\04.DownloadFile\\04.DownloadFile.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

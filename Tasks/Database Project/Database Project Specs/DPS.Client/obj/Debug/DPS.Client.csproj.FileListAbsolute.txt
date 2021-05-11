@@ -36,3 +36,41 @@ D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Logic.dll
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Logic.pdb
 D:\Yordan\intern yordan\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Logic.dll.config
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Client.exe.config
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Client.exe
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Client.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\Autofac.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Data.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Logic.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Models.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\EntityFramework.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Buffers.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Memory.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Numerics.Vectors.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Data.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Data.dll.config
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Logic.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Logic.dll.config
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Models.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\DPS.Models.dll.config
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\Autofac.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\Autofac.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\EntityFramework.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Buffers.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Memory.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Numerics.Vectors.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\obj\Debug\DPS.Client.csprojAssemblyReference.cache
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\obj\Debug\DPS.Client.csproj.CoreCompileInputs.cache
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\obj\Debug\DPS.Client.csproj.CopyComplete
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\obj\Debug\DPS.Client.exe
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\obj\Debug\DPS.Client.pdb
