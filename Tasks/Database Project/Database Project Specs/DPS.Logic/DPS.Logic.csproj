@@ -66,6 +66,10 @@
       <Project>{9cb6622a-9e5f-4fc0-b76a-7ed36764b07f}</Project>
       <Name>DPS.Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DPS.Models\DPS.Models.csproj">
+      <Project>{2ac7c9ac-f29a-4bf5-beb6-729bf4b5fa04}</Project>
+      <Name>DPS.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

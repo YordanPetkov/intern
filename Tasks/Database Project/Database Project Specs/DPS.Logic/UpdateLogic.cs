@@ -1,4 +1,5 @@
 ﻿using DPS.Data;
+using DPS.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -41,8 +42,18 @@ namespace DPS.Logic
                         throw (new Exception("Invalid table id!"));
                     }
 
-                    var columnNames = dbContext.Database.SqlQuery<string>($"SELECT name FROM sys.columns WHERE object_name = OBJECT_NAME({tableNames[tableId]});").ToList();
-                    
+                    i = -1;
+                    Console.WriteLine(dbContext.Database);
+                    var book = dbContext.Database.SqlQuery<Book>($"SELECT * FROM Books").ToList();
+                    foreach (var item in book)
+                    {
+                        i++;
+                        Console.WriteLine(i + " " + item.Title);
+                    }
+
+                    Console.WriteLine($"Which column from {tableNames[tableId]} you want to update : (write the id of the column)");
+                    List<string> columnNames = dbContext.Database.SqlQuery<string>($"SELECT column_name FROM information_schema.columns WHERE table_name = N'{tableNames[tableId]}'").ToList();
+
                     i = -1;
                     foreach (var item in columnNames)
                     {
@@ -50,7 +61,7 @@ namespace DPS.Logic
                         Console.WriteLine(i + " : " + item);
                     }
 
-                    Console.WriteLine(tableNames[tableId]);
+                    int columnId = int.Parse(Console.ReadLine());
                 }
 
                 catch (Exception e)

@@ -23,39 +23,54 @@ namespace DPS.Client
             this.deleteLogic = deleteLogic;
         }
 
+        private void PrintCommands()
+        {
+            Console.WriteLine("If you want to create a new record to our library - 'create'");
+            Console.WriteLine("If you want to check some of our records in library - 'read'");
+            Console.WriteLine("If you want to update the information about any book in our library - 'update'");
+            Console.WriteLine("If you want to delete any information in our library - 'delete'");
+            Console.WriteLine("If you want see all commands - 'help'");
+            Console.WriteLine("If you want to exit from application - 'exit'");
+            Console.WriteLine("----------------------------------------------------------------------------");
+        }
+
         public void Run()
         {
-            Console.WriteLine("             Choose an option.");
-            Console.WriteLine("If you want to create a new book to our library - 'create'");
-            Console.WriteLine("If you want to check some of our books in library - 'read'");
-            Console.WriteLine("If you want to update the information about any book in our library - 'update'");
-            Console.WriteLine("If you want to delete any book in our library - 'delete'");
-            Console.WriteLine("----------------------------------------------------------------------------");
+            PrintCommands();
 
-            string option = Console.ReadLine();
-            switch (option)
+            while(true)
             {
-                case "create":
-                    Console.WriteLine("Create");
-                    break;
+                string option = Console.ReadLine();
+                switch (option)
+                {
+                    case "create":
+                        Console.WriteLine("Create");
+                        break;
 
-                case "read":
-                    Console.WriteLine("Read");
-                    readLogic.ReadData();
-                    break;
+                    case "read":
+                        Console.WriteLine("Read");
+                        readLogic.ReadData();
+                        break;
 
-                case "update":
-                    Console.WriteLine("Update");
-                    updateLogic.UpdateData();
-                    break;
+                    case "update":
+                        updateLogic.UpdateData();
+                        break;
 
-                case "delete":
-                    Console.WriteLine("Delete");
-                    break;
+                    case "delete":
+                        Console.WriteLine("Delete");
+                        break;
 
-                default:
-                    Console.WriteLine("Invalid option!");
-                    break;
+                    case "help":
+                        PrintCommands();
+                        break;
+
+                    case "exit":
+                        return;
+
+                    default:
+                        Console.WriteLine("Invalid command!");
+                        break;
+                }
             }
         }
     }
