@@ -48,7 +48,6 @@ namespace DPS.Client
                         break;
 
                     case "read":
-                        Console.WriteLine("Read");
                         readLogic.ReadData();
                         break;
 
@@ -57,7 +56,7 @@ namespace DPS.Client
                         break;
 
                     case "delete":
-                        Console.WriteLine("Delete");
+                        deleteLogic.DeleteData();
                         break;
 
                     case "help":

@@ -8,5 +8,6 @@ namespace DPS.Logic
 {
     public interface IDeleteLogic
     {
+        void DeleteData();
     }
 }

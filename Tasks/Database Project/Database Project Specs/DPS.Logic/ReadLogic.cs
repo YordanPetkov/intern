@@ -18,24 +18,41 @@ namespace DPS.Logic
         {
             using (var dbContext = new LibraryDbContext())
             {
-                var title = dbContext.Database.SqlQuery<string> ("Select Title from Books where Id=1").FirstOrDefault();
-                //Console.WriteLine(Json(title, JsonRequestBehavior.AllowGet));
-                Console.WriteLine(title);
-
-                Console.WriteLine("Choose a table from where you want to read.");
-                Console.WriteLine("Books/Authors/Genres");
-                string table = Console.ReadLine();
-
-                switch(table.ToLower())
+                try
                 {
-                    case "books":
-                        break;
-                    case "authors":
-                        break;
-                    case "genres":
-                        break;
-                    default:
-                        break;
+                    List<string> tableNames = dbContext.Database.SqlQuery<string>("SELECT name FROM sys.tables ORDER BY name").ToList();
+                    tableNames.RemoveAll(p => p == "__MigrationHistory");
+
+                    Console.WriteLine("From which table you want to read : (write the id of the table)");
+
+                    int k = -1;
+                    foreach (var item in tableNames)
+                    {
+                        k++;
+                        Console.WriteLine(k + " : " + item);
+                    }
+
+                    int tableId = int.Parse(Console.ReadLine());
+
+                    if (tableId < 0 || tableId > k)
+                    {
+                        throw (new Exception("Invalid table id!"));
+                    }
+
+                    var result = dbContext.Database.ExecuteSqlCommand($"SELECT * FROM {tableNames[tableId]}");
+                    if(result == -1)
+                    {
+                        Console.WriteLine("Table is empty!");
+                    }
+
+                    else
+                    {
+                        Console.WriteLine(result);
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
                 }
             }
         }
