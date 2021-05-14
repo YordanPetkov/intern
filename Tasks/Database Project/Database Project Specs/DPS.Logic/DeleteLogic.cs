@@ -39,7 +39,7 @@ namespace DPS.Logic
                         throw (new Exception("Invalid table id!"));
                     }
 
-                    var countRows = dbContext.Database.ExecuteSqlCommand($"SELECT COUNT(Id) FROM Books");
+                    var countRows = dbContext.Database.ExecuteSqlCommand($"SELECT COUNT(Id) FROM {tableNames[tableId]}");
                     if (countRows < 1)
                     {
                         throw (new Exception($"Table {tableNames[tableId]} is empty."));

@@ -34,3 +34,5 @@ D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.L
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.csproj.CopyComplete
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.dll
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\obj\Debug\DPS.Logic.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\Newtonsoft.Json.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Logic\bin\Debug\Newtonsoft.Json.xml

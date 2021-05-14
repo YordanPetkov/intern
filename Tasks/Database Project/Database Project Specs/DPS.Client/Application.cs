@@ -44,7 +44,7 @@ namespace DPS.Client
                 switch (option)
                 {
                     case "create":
-                        Console.WriteLine("Create");
+                        createLogic.CreateData();
                         break;
 
                     case "read":

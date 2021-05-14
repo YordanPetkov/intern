@@ -74,3 +74,5 @@ D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.C
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\obj\Debug\DPS.Client.csproj.CopyComplete
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\obj\Debug\DPS.Client.exe
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\obj\Debug\DPS.Client.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\Newtonsoft.Json.dll
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Client\bin\Debug\Newtonsoft.Json.xml

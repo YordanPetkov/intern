@@ -1,0 +1,16 @@
+[
+{
+"Book":
+    { "Title": "Harry Poter", 
+      "Year": "2004", 
+      "AuthorNicknameId": "1"
+    },
+},
+{
+"Book":
+    { "Title": "Harry Poter 2", 
+      "Year": "2005", 
+      "AuthorNicknameId": "1"
+    },
+}
+]
