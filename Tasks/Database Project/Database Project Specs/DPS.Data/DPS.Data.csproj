@@ -73,6 +73,14 @@
     <Compile Include="Migrations\202104261501248_ChangeBookAuthorToAuthorNickname.designer.cs">
       <DependentUpon>202104261501248_ChangeBookAuthorToAuthorNickname.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202105171251258_Added Auto Increment Ids.cs" />
+    <Compile Include="Migrations\202105171251258_Added Auto Increment Ids.designer.cs">
+      <DependentUpon>202105171251258_Added Auto Increment Ids.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105171357128_Added key attributes.cs" />
+    <Compile Include="Migrations\202105171357128_Added key attributes.designer.cs">
+      <DependentUpon>202105171357128_Added key attributes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -101,6 +109,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202104261501248_ChangeBookAuthorToAuthorNickname.resx">
       <DependentUpon>202104261501248_ChangeBookAuthorToAuthorNickname.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105171251258_Added Auto Increment Ids.resx">
+      <DependentUpon>202105171251258_Added Auto Increment Ids.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105171357128_Added key attributes.resx">
+      <DependentUpon>202105171357128_Added key attributes.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

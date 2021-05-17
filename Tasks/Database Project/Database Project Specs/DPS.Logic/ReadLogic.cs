@@ -50,6 +50,7 @@ namespace DPS.Logic
                         Console.WriteLine(result);
                     }
                 }
+
                 catch (Exception e)
                 {
                     Console.WriteLine(e.Message);

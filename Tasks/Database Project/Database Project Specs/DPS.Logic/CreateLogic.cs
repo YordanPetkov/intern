@@ -37,24 +37,30 @@ namespace DPS.Logic
                             Console.WriteLine(item.ToString());
                             if (item.Book != null)
                             {
-                                Book newBook = JsonConvert.DeserializeObject(item);
+                                Book newBook = JsonConvert.DeserializeObject<Book>(item);
                                 Console.WriteLine(newBook.ToString());
-                                dbContext.Books.Add(item.Book);
+                                dbContext.Books.Add(newBook);
                             }
 
-                            if (item.AuthorNickname != null)
+                            if (item.Nickname != null)
                             {
-                                dbContext.Nicknames.Add(item.Nickname);
+                                AuthorNickname newNickname = JsonConvert.DeserializeObject<AuthorNickname>(item);
+                                Console.WriteLine(newNickname.Name);
+                                dbContext.Nicknames.Add(newNickname);
                             }
 
-                            if (item.AuthorRealName != null)
+                            if (item.Author != null)
                             {
-                                dbContext.Authors.Add(item.Author);
+                                AuthorRealName newRealname = JsonConvert.DeserializeObject<AuthorRealName>(item);
+                                Console.WriteLine(newRealname.ToString());
+                                dbContext.Authors.Add(newRealname);
                             }
 
                             if (item.Genre != null)
                             {
-                                dbContext.Genres.Add(item.Genre);
+                                Genre newGenre = JsonConvert.DeserializeObject<Genre>(item);
+                                Console.WriteLine(newGenre.ToString());
+                                dbContext.Genres.Add(newGenre);
                             }
                         }
                     }

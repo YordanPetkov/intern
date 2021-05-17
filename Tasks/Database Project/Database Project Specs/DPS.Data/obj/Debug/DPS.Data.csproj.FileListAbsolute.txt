@@ -40,3 +40,5 @@ D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.D
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.csproj.CopyComplete
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.dll
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.pdb
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.AddedAutoIncrementIds.resources
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.Addedkeyattributes.resources

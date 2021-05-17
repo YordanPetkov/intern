@@ -1,16 +1,55 @@
 [
-{
-"Book":
-    { "Title": "Harry Poter", 
-      "Year": "2004", 
+  {
+    "Nickname": {
+      "Name": "J. K. Rowling"
+    }
+  },
+  {
+    "Genre": {
+      "Name": "Fantasy"
+    }
+  },
+  {
+    "Genre": {
+      "Name": "Drama"
+    }
+  },
+  {
+    "Genre": {
+      "Name": "Tragicomedy"
+    }
+  },
+  {
+    "Genre": {
+      "Name": "Crime fiction"
+    }
+  },
+  {
+    "Author": {
+      "Firstname": "J. K. Rowling",
+      "Lastname": "Joanne",
+      "NicknameId": "Rowling ",
+      "Country": "England"
+    }
+  },
+  {
+    "Book": {
+      "Title": "Harry Poter and the Philosopher's Stone",
+      "Year": "1997",
       "AuthorNicknameId": "1"
-    },
-},
-{
-"Book":
-    { "Title": "Harry Poter 2", 
-      "Year": "2005", 
-      "AuthorNicknameId": "1"
-    },
-}
+    }
+  },
+  {
+    "Book": {
+      "Title": "Harry Poter and the Goblet of Fire",
+      "Year": "2000",
+      "AuthorNicknameId": "1",
+      "Genres": [
+        { "GenreId": "1" },
+        { "GenreId": "2" },
+        { "GenreId": "3" },
+        { "GenreId": "4" }
+      ]
+    }
+  }
 ]
