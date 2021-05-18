@@ -1,31 +1,38 @@
 [
-  {
-    "Nickname": {
-      "Name": "J. K. Rowling"
-    }
-  },
+
   {
     "Genre": {
+      "Id": "1",
       "Name": "Fantasy"
     }
   },
   {
     "Genre": {
+      "Id": "2",
       "Name": "Drama"
     }
   },
   {
     "Genre": {
+      "Id": "3",
       "Name": "Tragicomedy"
     }
   },
   {
     "Genre": {
+      "Id": "4",
       "Name": "Crime fiction"
     }
   },
   {
+    "Nickname": {
+      "Id": "1",
+      "Name": "J. K. Rowling"
+    }
+  },
+  {
     "Author": {
+      "Id": "1",
       "Firstname": "J. K. Rowling",
       "Lastname": "Joanne",
       "NicknameId": "Rowling ",
@@ -34,6 +41,7 @@
   },
   {
     "Book": {
+      "Id": "1",
       "Title": "Harry Poter and the Philosopher's Stone",
       "Year": "1997",
       "AuthorNicknameId": "1"
@@ -41,6 +49,7 @@
   },
   {
     "Book": {
+      "Id": "2",
       "Title": "Harry Poter and the Goblet of Fire",
       "Year": "2000",
       "AuthorNicknameId": "1",

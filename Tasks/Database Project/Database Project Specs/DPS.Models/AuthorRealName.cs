@@ -15,11 +15,10 @@ namespace DPS.Models
            
         }
 
-        [Key]
+        [ForeignKey("Nickname")]
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public int NicknameId { get; set; }
         public string Country { get; set; }
         public AuthorNickname Nickname { get; set; }
     }

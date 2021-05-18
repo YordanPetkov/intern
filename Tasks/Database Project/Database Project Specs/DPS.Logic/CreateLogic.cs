@@ -1,6 +1,7 @@
 ﻿using DPS.Data;
 using DPS.Models;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -58,9 +59,11 @@ namespace DPS.Logic
 
                             if (item.Genre != null)
                             {
-                                Genre newGenre = JsonConvert.DeserializeObject<Genre>(item);
+                                JObject newGenre = JsonConvert.DeserializeObject<Genre>(item.Genre);
+                                Console.WriteLine(newGenre["Id"]);
+                                Console.WriteLine(newGenre["Name"]);
                                 Console.WriteLine(newGenre.ToString());
-                                dbContext.Genres.Add(newGenre);
+                                dbContext.Genres.Add(newGenre.ToObject<Genre>());
                             }
                         }
                     }

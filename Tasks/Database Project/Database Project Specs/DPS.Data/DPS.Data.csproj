@@ -81,6 +81,10 @@
     <Compile Include="Migrations\202105171357128_Added key attributes.designer.cs">
       <DependentUpon>202105171357128_Added key attributes.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202105181128345_Added foreign key to Author..cs" />
+    <Compile Include="Migrations\202105181128345_Added foreign key to Author..designer.cs">
+      <DependentUpon>202105181128345_Added foreign key to Author..cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -115,6 +119,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202105171357128_Added key attributes.resx">
       <DependentUpon>202105171357128_Added key attributes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105181128345_Added foreign key to Author..resx">
+      <DependentUpon>202105181128345_Added foreign key to Author..cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />
