@@ -29,7 +29,6 @@ namespace _01.JSONtask
             {
                 Console.WriteLine(title);
             }
-
         }
 
         public static void DownloadXmlFile(string url)

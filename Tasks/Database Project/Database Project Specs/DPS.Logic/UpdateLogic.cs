@@ -1,4 +1,5 @@
 ﻿using DPS.Data;
+using DPS.Logic.DatabaseUtilities;
 using DPS.Models;
 using System;
 using System.Collections.Generic;
@@ -21,62 +22,19 @@ namespace DPS.Logic
             {
                 try
                 {
-                    List<string> tableNames = dbContext.Database.SqlQuery<string>("SELECT name FROM sys.tables ORDER BY name").ToList();
+                    List<string> tableNames = DatabaseLogic.GetTableNames();
                     tableNames.RemoveAll(p => p == "__MigrationHistory");
 
-                    Console.WriteLine("Which table you want to update : (write the id of the table)");
+                    int tableId = SelectTable(tableNames);
 
-                    int k = -1;
-                    foreach (var item in tableNames)
-                    {
-                        k++;
-                        Console.WriteLine(k + " : " + item);
-                    }
+                    int rowId = SelectRow(tableNames, tableId);
 
-                    int tableId = int.Parse(Console.ReadLine());
+                    List<string> columnNames = DatabaseLogic.GetColumnNames(tableNames[tableId]);
+                    int columnId = SelectColumn(tableNames, tableId);
 
-                    if(tableId < 0 || tableId > k)
-                    {
-                        throw (new Exception("Invalid table id!"));
-                    }
+                    string newValue = GetNewValue(tableNames, tableId, columnId);
 
-                    var countRows = dbContext.Database.ExecuteSqlCommand($"SELECT COUNT(Id) FROM {tableNames[tableId]}");
-                    if(countRows < 1)
-                    {
-                        throw (new Exception($"Table {tableNames[tableId]} is empty."));
-                    }
-
-                    Console.WriteLine($"Which row you want to update ? 1 : {countRows}");
-
-                    int rowId = int.Parse(Console.ReadLine());
-                    if (tableId < 1 || tableId > countRows)
-                    {
-                        throw (new Exception("Invalid row id!"));
-                    }
-
-                    Console.WriteLine($"Which column from {tableNames[tableId]} you want to update : (write the id of the column)");
-                    List<string> columnNames = dbContext.Database.SqlQuery<string>($"SELECT column_name FROM information_schema.columns WHERE table_name = N'{tableNames[tableId]}'").ToList();
-
-                    k = 0;
-                    foreach (var item in columnNames)
-                    {
-                        k++;
-                        Console.WriteLine(k + " : " + item);
-                    }
-
-                    int columnId = int.Parse(Console.ReadLine());
-                    if (columnId < 0 || columnId > k)
-                    {
-                        throw (new Exception("Invalid column id!"));
-                    }
-
-                    Console.WriteLine($"Write the new value of {columnNames[columnId]} : ");
-                    string newValue = Console.ReadLine();
-                    Console.WriteLine(newValue.Replace("\'", "\""));
-
-                    dbContext.Database.ExecuteSqlCommand($"UPDATE {tableNames[tableId]} SET {columnNames[columnId]} = '{newValue}' WHERE Id = '{rowId}'");
-
-                    dbContext.SaveChanges();
+                    DatabaseLogic.UpdateById(tableNames[tableId], columnNames[columnId], rowId, newValue);
                 }
 
                 catch (Exception e)
@@ -84,6 +42,72 @@ namespace DPS.Logic
                     Console.WriteLine(e.Message);
                 }
             }
+        }
+
+        private int SelectTable(List<string> tableNames)
+        {
+            Console.WriteLine("Which table you want to update : (write the id of the table)");
+
+            for (int i = 0; i < tableNames.Count; i++)
+            {
+                Console.WriteLine(i + " : " + tableNames[i]);
+            }
+
+            int tableId = int.Parse(Console.ReadLine());
+
+            if (tableId < 0 || tableId > tableNames.Count)
+            {
+                throw (new Exception("Invalid table id!"));
+            }
+
+            return tableId;
+        }
+
+        private int SelectRow(List<string> tableNames, int tableId)
+        {
+            var countRows = DatabaseLogic.GetNumberOfRows(tableNames[tableId]);
+            if (countRows < 1)
+            {
+                throw (new Exception($"Table {tableNames[tableId]} is empty."));
+            }
+
+            Console.WriteLine($"Which row you want to update ? 1 : {countRows}");
+
+            int rowId = int.Parse(Console.ReadLine());
+            if (tableId < 1 || tableId > countRows)
+            {
+                throw (new Exception("Invalid row id!"));
+            }
+
+            return rowId;
+        }
+
+        private int SelectColumn(List<string> tableNames, int tableId)
+        {
+            Console.WriteLine($"Which column from {tableNames[tableId]} you want to update : (write the id of the column)");
+            List<string> columnNames = DatabaseLogic.GetColumnNames(tableNames[tableId]);
+
+            for (int i = 0; i < columnNames.Count; i++)
+            {
+                Console.WriteLine(i + " : " + columnNames[i]);
+            }
+
+            int columnId = int.Parse(Console.ReadLine());
+            if (columnId < 0 || columnId > columnNames.Count)
+            {
+                throw (new Exception("Invalid column id!"));
+            }
+
+            return columnId;
+        }
+
+        private string GetNewValue(List<string> tableNames, int tableId, int columnId)
+        {
+            List<string> columnNames = DatabaseLogic.GetColumnNames(tableNames[tableId]);
+            Console.WriteLine($"Write the new value of {columnNames[columnId]} : ");
+            string newValue = Console.ReadLine();
+
+            return newValue.Replace("\'", "\"");
         }
     }
 }
