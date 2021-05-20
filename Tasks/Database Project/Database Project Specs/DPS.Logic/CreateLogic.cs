@@ -25,6 +25,8 @@ namespace DPS.Logic
                 try
                 {
                     Console.WriteLine("Input the path of the JSON file :");
+                    Console.Write("-");
+
                     string path = Console.ReadLine();
                     List<string> tableNames = dbContext.Database.SqlQuery<string>("SELECT name FROM sys.tables ORDER BY name").ToList();
 
@@ -60,9 +62,10 @@ namespace DPS.Logic
                             if (item.Genre != null)
                             {
                                 JObject newGenre = JsonConvert.DeserializeObject<Genre>(item.Genre);
+                                Genre newg = JsonConvert.DeserializeObject<Genre>(item);
+                                Console.WriteLine(newg);
                                 Console.WriteLine(newGenre["Id"]);
                                 Console.WriteLine(newGenre["Name"]);
-                                Console.WriteLine(newGenre.ToString());
                                 dbContext.Genres.Add(newGenre.ToObject<Genre>());
                             }
                         }

@@ -40,6 +40,7 @@ namespace DPS.Client
 
             while(true)
             {
+                Console.Write("-");
                 string option = Console.ReadLine();
                 switch (option)
                 {

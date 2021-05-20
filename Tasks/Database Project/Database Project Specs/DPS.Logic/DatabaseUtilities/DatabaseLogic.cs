@@ -11,18 +11,25 @@ namespace DPS.Logic.DatabaseUtilities
     {
         public static List<string> GetTableNames()
         {
+            List<string> tableNames;
             using (var dbContext = new LibraryDbContext())
             {
-                return dbContext.Database.SqlQuery<string>("SELECT name FROM sys.tables ORDER BY name").ToList();
+                tableNames = dbContext.Database.SqlQuery<string>("SELECT name FROM sys.tables ORDER BY name").ToList();
+
             }
+
+            return tableNames;
         }
 
         public static List<string> GetColumnNames(string table)
         {
+            List<string> columnNames;
             using (var dbContext = new LibraryDbContext())
             {
-                return dbContext.Database.SqlQuery<string>($"SELECT column_name FROM information_schema.columns WHERE table_name = N'{table}'").ToList();
+                columnNames = dbContext.Database.SqlQuery<string>($"SELECT column_name FROM information_schema.columns WHERE table_name = N'{table}'").ToList();
             }
+
+            return columnNames;
         }
 
         public static void Delete(string table, int id)
@@ -45,10 +52,13 @@ namespace DPS.Logic.DatabaseUtilities
 
         public static int GetNumberOfRows(string table)
         {
+            int countRows;
             using (var dbContext = new LibraryDbContext())
             {
-                return dbContext.Database.ExecuteSqlCommand($"SELECT COUNT(Id) FROM {table}");
+                countRows = dbContext.Database.ExecuteSqlCommand($"SELECT COUNT(Id) FROM {table}");
             }
+
+            return countRows;
         }
     }
 }
