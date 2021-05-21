@@ -46,6 +46,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -56,6 +57,7 @@
   <ItemGroup>
     <Compile Include="CreateLogic.cs" />
     <Compile Include="DatabaseUtilities\DatabaseLogic.cs" />
+    <Compile Include="DatabaseUtilities\JsonLogic.cs" />
     <Compile Include="DeleteLogic.cs" />
     <Compile Include="ICreateLogic.cs" />
     <Compile Include="IDeleteLogic.cs" />

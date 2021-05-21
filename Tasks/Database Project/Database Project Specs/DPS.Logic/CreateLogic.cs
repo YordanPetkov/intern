@@ -8,6 +8,8 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DPS.Logic.DatabaseUtilities;
+using System.Web.Script.Serialization;
 
 namespace DPS.Logic
 {
@@ -28,12 +30,28 @@ namespace DPS.Logic
                     Console.Write("-");
 
                     string path = Console.ReadLine();
-                    List<string> tableNames = dbContext.Database.SqlQuery<string>("SELECT name FROM sys.tables ORDER BY name").ToList();
+                    List<string> tableNames = DatabaseLogic.GetTableNames();
 
                     using (StreamReader r = new StreamReader(path))
                     {
                         string json = r.ReadToEnd();
-                        dynamic array = JsonConvert.DeserializeObject(json);
+
+                        /*var jsonObject = JToken.Parse(json);
+                        var fieldsCollector = new JsonLogic(jsonObject);
+                        var fields = fieldsCollector.GetAllFields();*/
+                        var JSONObj = new JavaScriptSerializer().Deserialize<Genre>(json);
+                        Console.WriteLine(json);
+                        Console.WriteLine(JSONObj.ToString());
+                        Console.WriteLine(JSONObj.Id);
+                        //dbContext.Genres.Add(JSONObj);
+                        //dbContext.SaveChanges();
+
+                        /*foreach (var field in fields)
+                        {
+                            Console.WriteLine($"{field.Key}: '{field.Value}'");
+                        }
+
+
 
                         foreach (var item in array)
                         {
@@ -61,14 +79,14 @@ namespace DPS.Logic
 
                             if (item.Genre != null)
                             {
-                                JObject newGenre = JsonConvert.DeserializeObject<Genre>(item.Genre);
-                                Genre newg = JsonConvert.DeserializeObject<Genre>(item);
+                                //JObject newGenre = JsonConvert.DeserializeObject<Genre>(item.Genre);
+                                dynamic newg = JsonConvert.DeserializeObject(item.ToString());
                                 Console.WriteLine(newg);
                                 Console.WriteLine(newGenre["Id"]);
                                 Console.WriteLine(newGenre["Name"]);
                                 dbContext.Genres.Add(newGenre.ToObject<Genre>());
                             }
-                        }
+                        }*/
                     }
                 }
 
