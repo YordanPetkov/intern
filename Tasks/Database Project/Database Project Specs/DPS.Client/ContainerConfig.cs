@@ -17,7 +17,7 @@ namespace DPS.Client
 
             builder.RegisterType<Application>().As<IApplication>();
 
-            builder.RegisterType<CreateLogic>().As<ICreateLogic>();
+            builder.RegisterType<OldCreateLogic>().As<ICreateLogic>();
             builder.RegisterType<ReadLogic>().As<IReadLogic>();
             builder.RegisterType<UpdateLogic>().As<IUpdateLogic>();
             builder.RegisterType<DeleteLogic>().As<IDeleteLogic>();

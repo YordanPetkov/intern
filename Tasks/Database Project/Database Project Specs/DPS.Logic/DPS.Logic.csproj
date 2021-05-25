@@ -63,6 +63,8 @@
     <Compile Include="IDeleteLogic.cs" />
     <Compile Include="IReadLogic.cs" />
     <Compile Include="IUpdateLogic.cs" />
+    <Compile Include="MenuLogic.cs" />
+    <Compile Include="OldCreateLogic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReadLogic.cs" />
     <Compile Include="UpdateLogic.cs" />

@@ -1,9 +1,12 @@
 ﻿using DPS.Data;
+using DPS.Logic.DatabaseUtilities;
+using DPS.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Script.Serialization;
 
 namespace DPS.Logic
 {
@@ -20,34 +23,37 @@ namespace DPS.Logic
             {
                 try
                 {
-                    List<string> tableNames = dbContext.Database.SqlQuery<string>("SELECT name FROM sys.tables ORDER BY name").ToList();
+                    List<string> tableNames = DatabaseLogic.GetTableNames();
                     tableNames.RemoveAll(p => p == "__MigrationHistory");
 
                     Console.WriteLine("From which table you want to read : (write the id of the table)");
+                    int tableId = MenuLogic.SelectTable(tableNames);
 
-                    int k = -1;
-                    foreach (var item in tableNames)
+                    Console.WriteLine(tableNames[tableId]);
+                    switch (tableNames[tableId])
                     {
-                        k++;
-                        Console.WriteLine(k + " : " + item);
-                    }
+                        case "Books":
+                            var bookList = dbContext.Books.SqlQuery("Select * from Books").ToList<Book>();
+                            AddToJsonFile(bookList);
+                            break;
 
-                    int tableId = int.Parse(Console.ReadLine());
+                        case "AuthorNicknames":
+                            var nicknameList = dbContext.Nicknames.SqlQuery("Select * from AuthorNicknames").ToList<AuthorNickname>();
+                            AddToJsonFile(nicknameList);
+                            break;
 
-                    if (tableId < 0 || tableId > k)
-                    {
-                        throw (new Exception("Invalid table id!"));
-                    }
+                        case "AuthorRealNames":
+                            var authorList = dbContext.Authors.SqlQuery("Select * from AuthorRealNames").ToList<AuthorRealName>();
+                            AddToJsonFile(authorList);
+                            break;
 
-                    var result = dbContext.Database.ExecuteSqlCommand($"SELECT * FROM {tableNames[tableId]}");
-                    if(result == -1)
-                    {
-                        Console.WriteLine("Table is empty!");
-                    }
+                        case "Genres":
+                            var genreList = dbContext.Genres.SqlQuery("Select * from Genres").ToList<Genre>();
+                            AddToJsonFile(genreList);
+                            break;
 
-                    else
-                    {
-                        Console.WriteLine(result);
+                        default:
+                            throw new Exception("Undefined table.");
                     }
                 }
 
@@ -55,6 +61,18 @@ namespace DPS.Logic
                 {
                     Console.WriteLine(e.Message);
                 }
+            }
+        }
+
+        private void AddToJsonFile<T>(List<T> list) where T : class
+        {
+            var serializer = new JavaScriptSerializer();
+
+            foreach (var item in list)
+            {
+                Console.WriteLine(item);
+                var json = serializer.Serialize(item);
+                Console.WriteLine(json);
             }
         }
     }

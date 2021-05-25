@@ -25,9 +25,9 @@ namespace DPS.Logic
                     
                     tableNames.RemoveAll(p => p == "__MigrationHistory");
 
-                    int tableId = SelectTable(tableNames);
+                    int tableId = MenuLogic.SelectTable(tableNames);
 
-                    int rowId = SelectRow(tableNames, tableId);
+                    int rowId = MenuLogic.SelectRow(tableNames, tableId);
 
                     DatabaseLogic.Delete(tableNames[tableId], rowId);
                 }

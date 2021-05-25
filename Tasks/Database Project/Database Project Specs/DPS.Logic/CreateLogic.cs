@@ -26,67 +26,55 @@ namespace DPS.Logic
             {
                 try
                 {
+                    //List<string> tableNames = DatabaseLogic.GetTableNames();
+                    //tableNames.RemoveAll(p => p == "__MigrationHistory");
+
+                    //Console.WriteLine("To which table you want to add : (write the id of the table)");
+                    //int tableId = MenuLogic.SelectTable(tableNames);
+
                     Console.WriteLine("Input the path of the JSON file :");
                     Console.Write("-");
 
                     string path = Console.ReadLine();
-                    List<string> tableNames = DatabaseLogic.GetTableNames();
 
                     using (StreamReader r = new StreamReader(path))
                     {
                         string json = r.ReadToEnd();
+                        var serializer = new JavaScriptSerializer();
+                        var entities = serializer.Deserialize<JObject> (json);
 
-                        /*var jsonObject = JToken.Parse(json);
-                        var fieldsCollector = new JsonLogic(jsonObject);
-                        var fields = fieldsCollector.GetAllFields();*/
-                        var JSONObj = new JavaScriptSerializer().Deserialize<Genre>(json);
-                        Console.WriteLine(json);
-                        Console.WriteLine(JSONObj.ToString());
-                        Console.WriteLine(JSONObj.Id);
+                        foreach (var genre in entities)
+                        {
+                            Console.WriteLine(genre);
+                        }
                         //dbContext.Genres.Add(JSONObj);
                         //dbContext.SaveChanges();
 
-                        /*foreach (var field in fields)
+
+
+                        /*switch(tableNames[tableId])
                         {
-                            Console.WriteLine($"{field.Key}: '{field.Value}'");
-                        }
-
-
-
-                        foreach (var item in array)
-                        {
-                            Console.WriteLine(item.ToString());
-                            if (item.Book != null)
-                            {
-                                Book newBook = JsonConvert.DeserializeObject<Book>(item);
-                                Console.WriteLine(newBook.ToString());
+                            case "Books":
+                                Book newBook = serializer.Deserialize<Book>(json);
                                 dbContext.Books.Add(newBook);
-                            }
-
-                            if (item.Nickname != null)
-                            {
-                                AuthorNickname newNickname = JsonConvert.DeserializeObject<AuthorNickname>(item);
-                                Console.WriteLine(newNickname.Name);
+                                break;
+                            case "AuthorNicknames":
+                                AuthorNickname newNickname = serializer.Deserialize<AuthorNickname>(json);
                                 dbContext.Nicknames.Add(newNickname);
-                            }
-
-                            if (item.Author != null)
-                            {
-                                AuthorRealName newRealname = JsonConvert.DeserializeObject<AuthorRealName>(item);
-                                Console.WriteLine(newRealname.ToString());
-                                dbContext.Authors.Add(newRealname);
-                            }
-
-                            if (item.Genre != null)
-                            {
-                                //JObject newGenre = JsonConvert.DeserializeObject<Genre>(item.Genre);
-                                dynamic newg = JsonConvert.DeserializeObject(item.ToString());
-                                Console.WriteLine(newg);
-                                Console.WriteLine(newGenre["Id"]);
-                                Console.WriteLine(newGenre["Name"]);
-                                dbContext.Genres.Add(newGenre.ToObject<Genre>());
-                            }
+                                break;
+                            case "AuthorRealNames":
+                                AuthorRealName newAuthor = serializer.Deserialize<AuthorRealName>(json);
+                                dbContext.Authors.Add(newAuthor);
+                                break;
+                            case "Genres":
+                                Genre newGenre = serializer.Deserialize<Genre>(json);
+                                dbContext.Genres.Add(newGenre);
+                                break;
+                            default:
+                                throw new Exception("Undefined table.");
                         }*/
+
+                        dbContext.SaveChanges();
                     }
                 }
 
