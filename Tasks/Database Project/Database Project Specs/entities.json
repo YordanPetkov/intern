@@ -1,0 +1,43 @@
+{
+  "Genres": [
+    {
+      "Name": "Fantasy"
+    },
+    {
+      "Name": "Drama"
+    },
+    {
+      "Name": "Tragicomedy"
+    },
+    {
+      "Name": "Crime fiction"
+    }
+  ],
+  "Nicknames": [
+
+    {
+      "Name": "J. K. Rowling"
+    }
+  ],
+  "Authors": [
+    {
+      "Firstname": "J. K. Rowling",
+      "Lastname": "Joanne",
+      "NicknameId": "1",
+      "Country": "England"
+    }
+  ],
+    "Books": [
+      {
+        "Title": "Harry Poter and the Philosopher's Stone",
+        "Year": "1997",
+        "AuthorNicknameId": "1"
+      },
+
+      {
+        "Title": "Harry Poter and the Goblet of Fire",
+        "Year": "2000",
+        "AuthorNicknameId": "1"
+      }
+    ]
+}

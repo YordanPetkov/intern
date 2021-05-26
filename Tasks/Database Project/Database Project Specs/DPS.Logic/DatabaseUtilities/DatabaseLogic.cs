@@ -55,7 +55,7 @@ namespace DPS.Logic.DatabaseUtilities
             int countRows;
             using (var dbContext = new LibraryDbContext())
             {
-                countRows = dbContext.Database.ExecuteSqlCommand($"SELECT COUNT(Id) FROM {table}");
+                countRows = dbContext.Database.ExecuteSqlCommand($"SELECT COUNT(*) FROM {table}");
             }
 
             return countRows;

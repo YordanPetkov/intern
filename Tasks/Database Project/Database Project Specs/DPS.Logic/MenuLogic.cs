@@ -30,9 +30,10 @@ namespace DPS.Logic
         public static int SelectRow(List<string> tableNames, int tableId)
         {
             var countRows = DatabaseLogic.GetNumberOfRows(tableNames[tableId]);
+
             if (countRows < 1)
             {
-                throw (new Exception($"Table {tableNames[tableId]} is empty."));
+                //throw (new Exception($"Table {tableNames[tableId]} is empty."));
             }
 
             Console.WriteLine($"Which row you want to update ? 1 : {countRows}");
@@ -40,7 +41,7 @@ namespace DPS.Logic
             int rowId = int.Parse(Console.ReadLine());
             if (tableId < 1 || tableId > countRows)
             {
-                throw (new Exception("Invalid row id!"));
+                //throw (new Exception("Invalid row id!"));
             }
 
             return rowId;
@@ -74,5 +75,4 @@ namespace DPS.Logic
             return newValue.Replace("\'", "\"");
         }
     }
-
 }

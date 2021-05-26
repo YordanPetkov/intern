@@ -17,7 +17,7 @@ namespace DPS.Logic
     {
         public CreateLogic()
         {
-            
+
         }
 
         public void CreateData()
@@ -26,53 +26,65 @@ namespace DPS.Logic
             {
                 try
                 {
-                    //List<string> tableNames = DatabaseLogic.GetTableNames();
-                    //tableNames.RemoveAll(p => p == "__MigrationHistory");
-
-                    //Console.WriteLine("To which table you want to add : (write the id of the table)");
-                    //int tableId = MenuLogic.SelectTable(tableNames);
-
                     Console.WriteLine("Input the path of the JSON file :");
                     Console.Write("-");
 
                     string path = Console.ReadLine();
+                    List<string> tableNames = DatabaseLogic.GetTableNames();
 
                     using (StreamReader r = new StreamReader(path))
                     {
                         string json = r.ReadToEnd();
-                        var serializer = new JavaScriptSerializer();
-                        var entities = serializer.Deserialize<JObject> (json);
 
-                        foreach (var genre in entities)
+                        var jsonObject = JToken.Parse(json);
+                        var fieldsCollector = new JsonLogic(jsonObject);
+                        var fields = fieldsCollector.GetAllFields();
+                        var JSONObj = new JavaScriptSerializer().Deserialize<Genre>(json);
+                        var obj = JsonConvert.DeserializeObject<dynamic>(json);
+
+
+                        foreach (var item in obj.Genres)
                         {
-                            Console.WriteLine(genre);
+                            dbContext.Genres.Add(new Genre { Name = item.Name });
                         }
-                        //dbContext.Genres.Add(JSONObj);
-                        //dbContext.SaveChanges();
 
-
-
-                        /*switch(tableNames[tableId])
+                        foreach (var item in obj.Nicknames)
                         {
-                            case "Books":
-                                Book newBook = serializer.Deserialize<Book>(json);
-                                dbContext.Books.Add(newBook);
-                                break;
-                            case "AuthorNicknames":
-                                AuthorNickname newNickname = serializer.Deserialize<AuthorNickname>(json);
-                                dbContext.Nicknames.Add(newNickname);
-                                break;
-                            case "AuthorRealNames":
-                                AuthorRealName newAuthor = serializer.Deserialize<AuthorRealName>(json);
-                                dbContext.Authors.Add(newAuthor);
-                                break;
-                            case "Genres":
-                                Genre newGenre = serializer.Deserialize<Genre>(json);
-                                dbContext.Genres.Add(newGenre);
-                                break;
-                            default:
-                                throw new Exception("Undefined table.");
-                        }*/
+                            dbContext.Nicknames.Add(new AuthorNickname { Name = item.Name });
+                        }
+
+                        foreach (var item in obj.Authors)
+                        {
+                            int nicknameId = (int)item.NicknameId;
+                            dbContext.Authors.Add(new AuthorRealName
+                            {
+                                FirstName = item.Firstname,
+                                LastName = item.Lastname,
+                                Country = item.Country,
+                                Nickname = dbContext.Nicknames.Find(nicknameId)
+                            });
+                        }
+
+                        foreach (var item in obj.Books)
+                        {
+                            /*r genres = new List<Genre>();
+
+                            foreach (var genre in item.Genres)
+                            {
+                                Console.WriteLine(item.Genres);
+                                genres.Add(dbContext.Genres.Find((int)genre.GenreId));
+                            }*/
+
+                            Book newBook = new Book
+                            {
+                                Title = item.Title,
+                                Year = item.Year,
+                                AuthorNicknameId = item.AuthorNicknameId,
+                                Author = dbContext.Nicknames.Find((int)item.AuthorNicknameId)
+                            };
+
+                            dbContext.Books.Add(newBook);
+                        }
 
                         dbContext.SaveChanges();
                     }
