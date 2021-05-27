@@ -29,6 +29,7 @@ namespace DPS.Logic
                     Console.WriteLine("Which table you want to update : (write the id of the table)");
                     int tableId = MenuLogic.SelectTable(tableNames);
 
+                    Console.WriteLine($"Which row you want to update ? {DatabaseLogic.GetMinId(tableNames[tableId])} : {DatabaseLogic.GetMaxId(tableNames[tableId])}");
                     int rowId = MenuLogic.SelectRow(tableNames, tableId);
 
                     List<string> columnNames = DatabaseLogic.GetColumnNames(tableNames[tableId]);

@@ -1,42 +1,42 @@
 {
   "Genres": [
     {
-      "Name": "Fantasy"
+      "Name": "Mystery"
     },
     {
-      "Name": "Drama"
+      "Name": "Romance"
     },
     {
-      "Name": "Tragicomedy"
+      "Name": "Dystopian"
     },
     {
-      "Name": "Crime fiction"
+      "Name": "Contemporary"
     }
   ],
   "Nicknames": [
 
     {
-      "Name": "J. K. Rowling"
+      "Name": "William Shakespeare"
     }
   ],
   "Authors": [
     {
-      "Firstname": "J. K. Rowling",
-      "Lastname": "Joanne",
+      "Firstname": "William",
+      "Lastname": "Shakespeare",
       "NicknameId": "1",
       "Country": "England"
     }
   ],
     "Books": [
       {
-        "Title": "Harry Poter and the Philosopher's Stone",
-        "Year": "1997",
+        "Title": "Hamlet",
+        "Year": "1970",
         "AuthorNicknameId": "1"
       },
 
       {
-        "Title": "Harry Poter and the Goblet of Fire",
-        "Year": "2000",
+        "Title": "Troilus and Cressida",
+        "Year": "1800",
         "AuthorNicknameId": "1"
       }
     ]

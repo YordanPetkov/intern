@@ -35,56 +35,63 @@ namespace DPS.Logic
                     using (StreamReader r = new StreamReader(path))
                     {
                         string json = r.ReadToEnd();
-
-                        var jsonObject = JToken.Parse(json);
-                        var fieldsCollector = new JsonLogic(jsonObject);
-                        var fields = fieldsCollector.GetAllFields();
-                        var JSONObj = new JavaScriptSerializer().Deserialize<Genre>(json);
                         var obj = JsonConvert.DeserializeObject<dynamic>(json);
 
-
-                        foreach (var item in obj.Genres)
+                        if(!(obj.Genres is null))
                         {
-                            dbContext.Genres.Add(new Genre { Name = item.Name });
-                        }
-
-                        foreach (var item in obj.Nicknames)
-                        {
-                            dbContext.Nicknames.Add(new AuthorNickname { Name = item.Name });
-                        }
-
-                        foreach (var item in obj.Authors)
-                        {
-                            int nicknameId = (int)item.NicknameId;
-                            dbContext.Authors.Add(new AuthorRealName
+                            foreach (var item in obj.Genres)
                             {
-                                FirstName = item.Firstname,
-                                LastName = item.Lastname,
-                                Country = item.Country,
-                                Nickname = dbContext.Nicknames.Find(nicknameId)
-                            });
+                                dbContext.Genres.Add(new Genre { Name = item.Name });
+                            }
                         }
-
-                        foreach (var item in obj.Books)
+                        
+                        if(!(obj.Nicknames is null))
                         {
-                            /*r genres = new List<Genre>();
-
-                            foreach (var genre in item.Genres)
+                            foreach (var item in obj.Nicknames)
                             {
-                                Console.WriteLine(item.Genres);
-                                genres.Add(dbContext.Genres.Find((int)genre.GenreId));
-                            }*/
-
-                            Book newBook = new Book
-                            {
-                                Title = item.Title,
-                                Year = item.Year,
-                                AuthorNicknameId = item.AuthorNicknameId,
-                                Author = dbContext.Nicknames.Find((int)item.AuthorNicknameId)
-                            };
-
-                            dbContext.Books.Add(newBook);
+                                dbContext.Nicknames.Add(new AuthorNickname { Name = item.Name });
+                            }
                         }
+                        
+                        if(!(obj.Authors is null))
+                        {
+                            foreach (var item in obj.Authors)
+                            {
+                                int nicknameId = (int)item.NicknameId;
+                                dbContext.Authors.Add(new AuthorRealName
+                                {
+                                    FirstName = item.Firstname,
+                                    LastName = item.Lastname,
+                                    Country = item.Country,
+                                    Nickname = dbContext.Nicknames.Find(nicknameId)
+                                });
+                            }
+                        }
+                        
+                        if(!(obj.Books is null))
+                        {
+                            foreach (var item in obj.Books)
+                            {
+                                /*r genres = new List<Genre>();
+
+                                foreach (var genre in item.Genres)
+                                {
+                                    Console.WriteLine(item.Genres);
+                                    genres.Add(dbContext.Genres.Find((int)genre.GenreId));
+                                }*/
+
+                                Book newBook = new Book
+                                {
+                                    Title = item.Title,
+                                    Year = item.Year,
+                                    AuthorNicknameId = item.AuthorNicknameId,
+                                    Author = dbContext.Nicknames.Find((int)item.AuthorNicknameId)
+                                };
+
+                                dbContext.Books.Add(newBook);
+                            }
+                        }
+                        
 
                         dbContext.SaveChanges();
                     }

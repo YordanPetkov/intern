@@ -1,0 +1,15 @@
+[
+  {
+    "Id": 1,
+    "Name": "J. K. Rowling",
+    "Author": null,
+    "Books": []
+  },
+  {
+    "Id": 2,
+    "Name": "William Shakespeare",
+    "Author": null,
+    "Books": []
+  }
+]
+

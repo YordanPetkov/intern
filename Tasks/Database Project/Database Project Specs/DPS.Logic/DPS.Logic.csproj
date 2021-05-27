@@ -57,7 +57,6 @@
   <ItemGroup>
     <Compile Include="CreateLogic.cs" />
     <Compile Include="DatabaseUtilities\DatabaseLogic.cs" />
-    <Compile Include="DatabaseUtilities\JsonLogic.cs" />
     <Compile Include="DeleteLogic.cs" />
     <Compile Include="ICreateLogic.cs" />
     <Compile Include="IDeleteLogic.cs" />

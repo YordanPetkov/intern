@@ -3,6 +3,7 @@ using DPS.Logic.DatabaseUtilities;
 using DPS.Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -67,13 +68,31 @@ namespace DPS.Logic
         private void AddToJsonFile<T>(List<T> list) where T : class
         {
             var serializer = new JavaScriptSerializer();
+            Console.WriteLine("Write a name for the file :");
+            var path = Console.ReadLine();
+            path = path.Replace('/', '_');
+            path = path.Replace('\\', '_');
+            path = path.Replace('.', '_');
 
-            foreach (var item in list)
+            using (StreamWriter w = new StreamWriter("../../../" + path + ".json"))
             {
-                Console.WriteLine(item);
-                var json = serializer.Serialize(item);
-                Console.WriteLine(json);
+                w.WriteLine("[");
             }
+
+            using (StreamWriter w = new StreamWriter("../../../" + path + ".json", true))
+            {
+                for (int i = 0; i < list.Count; i++)
+                {
+                    var json = serializer.Serialize(list[i]);
+                    w.WriteLine(json);
+                    if(i < list.Count - 1)
+                    {
+                        w.WriteLine(",");
+                    }
+                }
+
+                w.WriteLine("]");
+            }  
         }
     }
 }

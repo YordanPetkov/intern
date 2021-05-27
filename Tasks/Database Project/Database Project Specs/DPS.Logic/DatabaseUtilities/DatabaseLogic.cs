@@ -50,12 +50,34 @@ namespace DPS.Logic.DatabaseUtilities
             }
         }
 
+        public static int GetMinId(string table)
+        {
+            int countRows;
+            using (var dbContext = new LibraryDbContext())
+            {
+                countRows = dbContext.Database.SqlQuery<int>($"SELECT Min(Id) FROM {table}").First();
+            }
+
+            return countRows;
+        }
+
+        public static int GetMaxId(string table)
+        {
+            int countRows;
+            using (var dbContext = new LibraryDbContext())
+            {
+                countRows = dbContext.Database.SqlQuery<int>($"SELECT MAX(Id) FROM {table}").First();
+            }
+
+            return countRows;
+        }
+
         public static int GetNumberOfRows(string table)
         {
             int countRows;
             using (var dbContext = new LibraryDbContext())
             {
-                countRows = dbContext.Database.ExecuteSqlCommand($"SELECT COUNT(*) FROM {table}");
+                countRows = dbContext.Database.SqlQuery<int>($"SELECT COUNT(*) FROM {table}").First();
             }
 
             return countRows;

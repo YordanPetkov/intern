@@ -29,19 +29,18 @@ namespace DPS.Logic
 
         public static int SelectRow(List<string> tableNames, int tableId)
         {
-            var countRows = DatabaseLogic.GetNumberOfRows(tableNames[tableId]);
+            var minId = DatabaseLogic.GetMinId(tableNames[tableId]);
+            var maxId = DatabaseLogic.GetMaxId(tableNames[tableId]);
 
-            if (countRows < 1)
+            if (maxId < 1)
             {
-                //throw (new Exception($"Table {tableNames[tableId]} is empty."));
+                throw (new Exception($"Table {tableNames[tableId]} is empty."));
             }
 
-            Console.WriteLine($"Which row you want to update ? 1 : {countRows}");
-
             int rowId = int.Parse(Console.ReadLine());
-            if (tableId < 1 || tableId > countRows)
+            if (rowId < minId || rowId > maxId)
             {
-                //throw (new Exception("Invalid row id!"));
+                throw (new Exception("Invalid row id!"));
             }
 
             return rowId;

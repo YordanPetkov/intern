@@ -1,0 +1,19 @@
+[
+  {
+    "Id": 2,
+    "Title": "Harry Poter and the Goblet of Fire",
+    "Year": 2001,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 4,
+    "Title": "Troilus and Cressida",
+    "Year": 1800,
+    "AuthorNicknameId": 2,
+    "Author": null,
+    "Genres": []
+  }
+]
+

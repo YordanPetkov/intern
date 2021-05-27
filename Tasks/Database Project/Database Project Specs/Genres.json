@@ -1,0 +1,63 @@
+[
+  {
+    "Id": 1,
+    "Name": "Tragic",
+    "Books": []
+  },
+  {
+    "Id": 2,
+    "Name": "Fantasy",
+    "Books": []
+  },
+  {
+    "Id": 3,
+    "Name": "Crime",
+    "Books": []
+  },
+  {
+    "Id": 4,
+    "Name": "Fantasty",
+    "Books": []
+  },
+  {
+    "Id": 5,
+    "Name": "Fantasy",
+    "Books": []
+  },
+  {
+    "Id": 6,
+    "Name": "Drama",
+    "Books": []
+  },
+  {
+    "Id": 7,
+    "Name": "Tragicomedy",
+    "Books": []
+  },
+  {
+    "Id": 8,
+    "Name": "Crime Fiction",
+    "Books": []
+  },
+  {
+    "Id": 9,
+    "Name": "Mystery",
+    "Books": []
+  },
+  {
+    "Id": 10,
+    "Name": "Romance",
+    "Books": []
+  },
+  {
+    "Id": 11,
+    "Name": "Dystopian",
+    "Books": []
+  },
+  {
+    "Id": 12,
+    "Name": "Contemporary",
+    "Books": []
+  }
+]
+
