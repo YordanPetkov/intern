@@ -1,43 +1,35 @@
 {
   "Genres": [
-    {
-      "Name": "Mystery"
-    },
-    {
-      "Name": "Romance"
-    },
-    {
-      "Name": "Dystopian"
-    },
-    {
-      "Name": "Contemporary"
-    }
   ],
+
   "Nicknames": [
 
     {
       "Name": "William Shakespeare"
     }
   ],
+
+  "Books": [
+    {
+      "Title": "Hamlet",
+      "Year": "1970",
+      "AuthorNicknameId": "1"
+    },
+
+    {
+      "Title": "Troilus and Cressida",
+      "Year": "1800",
+      "AuthorNicknameId": "1"
+    }
+  ],
+
   "Authors": [
     {
       "Firstname": "William",
       "Lastname": "Shakespeare",
-      "NicknameId": "1",
+      "AuthorNicknameId": "1",
       "Country": "England"
     }
-  ],
-    "Books": [
-      {
-        "Title": "Hamlet",
-        "Year": "1970",
-        "AuthorNicknameId": "1"
-      },
+  ]
 
-      {
-        "Title": "Troilus and Cressida",
-        "Year": "1800",
-        "AuthorNicknameId": "1"
-      }
-    ]
 }

@@ -1,15 +1,10 @@
 ﻿using DPS.Data;
 using DPS.Models;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using DPS.Logic.DatabaseUtilities;
-using System.Web.Script.Serialization;
 
 namespace DPS.Logic
 {
@@ -29,7 +24,8 @@ namespace DPS.Logic
                     Console.WriteLine("Input the path of the JSON file :");
                     Console.Write("-");
 
-                    string path = Console.ReadLine();
+                    //string path = Console.ReadLine();
+                    string path = "../../../entities.json";
                     List<string> tableNames = DatabaseLogic.GetTableNames();
 
                     using (StreamReader r = new StreamReader(path))
@@ -43,21 +39,26 @@ namespace DPS.Logic
                             {
                                 dbContext.Genres.Add(new Genre { Name = item.Name });
                             }
+
+                            dbContext.SaveChanges();
                         }
                         
                         if(!(obj.Nicknames is null))
                         {
                             foreach (var item in obj.Nicknames)
                             {
-                                dbContext.Nicknames.Add(new AuthorNickname { Name = item.Name });
+                                var a = new AuthorNickname { Name = item.Name };
+                                dbContext.Nicknames.Add(a);
                             }
+
+                            dbContext.SaveChanges();
                         }
                         
                         if(!(obj.Authors is null))
                         {
                             foreach (var item in obj.Authors)
                             {
-                                int nicknameId = (int)item.NicknameId;
+                                int nicknameId = (int)item.AuthorNicknameId;
                                 dbContext.Authors.Add(new AuthorRealName
                                 {
                                     FirstName = item.Firstname,
@@ -66,6 +67,8 @@ namespace DPS.Logic
                                     Nickname = dbContext.Nicknames.Find(nicknameId)
                                 });
                             }
+
+                            dbContext.SaveChanges();
                         }
                         
                         if(!(obj.Books is null))
@@ -90,16 +93,16 @@ namespace DPS.Logic
 
                                 dbContext.Books.Add(newBook);
                             }
-                        }
-                        
 
-                        dbContext.SaveChanges();
+                            dbContext.SaveChanges();
+                        }
                     }
                 }
 
                 catch (Exception e)
                 {
                     Console.WriteLine(e.Message);
+                    Console.WriteLine(e.InnerException.InnerException.Message);
                 }
             }
         }

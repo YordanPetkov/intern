@@ -85,6 +85,34 @@
     <Compile Include="Migrations\202105181128345_Added foreign key to Author..designer.cs">
       <DependentUpon>202105181128345_Added foreign key to Author..cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202105281125540_Removed key attributes..cs" />
+    <Compile Include="Migrations\202105281125540_Removed key attributes..designer.cs">
+      <DependentUpon>202105281125540_Removed key attributes..cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105281132299_Added nicknameId to AuthorRealNames.cs" />
+    <Compile Include="Migrations\202105281132299_Added nicknameId to AuthorRealNames.designer.cs">
+      <DependentUpon>202105281132299_Added nicknameId to AuthorRealNames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105281141449_Change NicknameId to AuthorNicknameId.cs" />
+    <Compile Include="Migrations\202105281141449_Change NicknameId to AuthorNicknameId.designer.cs">
+      <DependentUpon>202105281141449_Change NicknameId to AuthorNicknameId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105281414114_Change AuthorConfiguratio.cs" />
+    <Compile Include="Migrations\202105281414114_Change AuthorConfiguratio.designer.cs">
+      <DependentUpon>202105281414114_Change AuthorConfiguratio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105281417475_Added auto-increment key to nicknames.cs" />
+    <Compile Include="Migrations\202105281417475_Added auto-increment key to nicknames.designer.cs">
+      <DependentUpon>202105281417475_Added auto-increment key to nicknames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105281422244_Added key attibutes.cs" />
+    <Compile Include="Migrations\202105281422244_Added key attibutes.designer.cs">
+      <DependentUpon>202105281422244_Added key attibutes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202105281525484_Change AuthorConfiguraton.cs" />
+    <Compile Include="Migrations\202105281525484_Change AuthorConfiguraton.designer.cs">
+      <DependentUpon>202105281525484_Change AuthorConfiguraton.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -122,6 +150,27 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202105181128345_Added foreign key to Author..resx">
       <DependentUpon>202105181128345_Added foreign key to Author..cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105281125540_Removed key attributes..resx">
+      <DependentUpon>202105281125540_Removed key attributes..cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105281132299_Added nicknameId to AuthorRealNames.resx">
+      <DependentUpon>202105281132299_Added nicknameId to AuthorRealNames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105281141449_Change NicknameId to AuthorNicknameId.resx">
+      <DependentUpon>202105281141449_Change NicknameId to AuthorNicknameId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105281414114_Change AuthorConfiguratio.resx">
+      <DependentUpon>202105281414114_Change AuthorConfiguratio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105281417475_Added auto-increment key to nicknames.resx">
+      <DependentUpon>202105281417475_Added auto-increment key to nicknames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105281422244_Added key attibutes.resx">
+      <DependentUpon>202105281422244_Added key attibutes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202105281525484_Change AuthorConfiguraton.resx">
+      <DependentUpon>202105281525484_Change AuthorConfiguraton.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

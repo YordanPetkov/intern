@@ -12,7 +12,7 @@ namespace DPS.Data.Configurations
     {
         public AuthorConfiguration()
         {
-            this.HasOptional(x => x.Nickname).WithRequired(x => x.Author);
+            this.HasOptional(x => x.Nickname).WithOptionalPrincipal(x => x.Author);
         }
     }
 }

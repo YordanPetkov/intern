@@ -43,3 +43,10 @@ D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.D
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.AddedAutoIncrementIds.resources
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.Addedkeyattributes.resources
 D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.AddedforeignkeytoAuthor.resources
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.Removedkeyattributes.resources
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.AddednicknameIdtoAuthorRealNames.resources
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.ChangeNicknameIdtoAuthorNicknameId.resources
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.ChangeAuthorConfiguratio.resources
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.Addedautoincrementkeytonicknames.resources
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.Addedkeyattibutes.resources
+D:\Yordan\Code\Intern\intern\Tasks\Database Project\Database Project Specs\DPS.Data\obj\Debug\DPS.Data.Migrations.ChangeAuthorConfiguraton.resources
