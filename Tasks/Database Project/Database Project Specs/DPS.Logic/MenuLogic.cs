@@ -29,16 +29,16 @@ namespace DPS.Logic
 
         public static int SelectRow(List<string> tableNames, int tableId)
         {
-            var minId = DatabaseLogic.GetMinId(tableNames[tableId]);
-            var maxId = DatabaseLogic.GetMaxId(tableNames[tableId]);
 
-            if (maxId < 1)
+            if (1 > DatabaseLogic.GetMaxId(tableNames[tableId]))
             {
                 throw (new Exception($"Table {tableNames[tableId]} is empty."));
             }
 
+            Console.WriteLine($"Which row you want to update ? {DatabaseLogic.GetMinId(tableNames[tableId])} : {DatabaseLogic.GetMaxId(tableNames[tableId])}");
+
             int rowId = int.Parse(Console.ReadLine());
-            if (rowId < minId || rowId > maxId)
+            if (tableId < DatabaseLogic.GetMinId(tableNames[tableId]) || tableId > DatabaseLogic.GetMaxId(tableNames[tableId]))
             {
                 throw (new Exception("Invalid row id!"));
             }
@@ -70,6 +70,7 @@ namespace DPS.Logic
             List<string> columnNames = DatabaseLogic.GetColumnNames(tableNames[tableId]);
             Console.WriteLine($"Write the new value of {columnNames[columnId]} : ");
             string newValue = Console.ReadLine();
+
 
             return newValue.Replace("\'", "\"");
         }

@@ -1,5 +1,8 @@
 {
   "Genres": [
+    {
+      "Name": "Fantasty"
+    }
   ],
 
   "Nicknames": [
@@ -31,5 +34,4 @@
       "Country": "England"
     }
   ]
-
 }

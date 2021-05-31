@@ -85,14 +85,14 @@ namespace DPS.Logic
                 {
                     var json = serializer.Serialize(list[i]);
                     w.WriteLine(json);
-                    if(i < list.Count - 1)
+                    if (i < list.Count - 1)
                     {
                         w.WriteLine(",");
                     }
                 }
 
                 w.WriteLine("]");
-            }  
+            }
         }
     }
 }

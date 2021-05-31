@@ -1,4 +1,5 @@
-﻿using DPS.Models;
+﻿
+using DPS.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity.ModelConfiguration;
@@ -12,7 +13,7 @@ namespace DPS.Data.Configurations
     {
         public AuthorConfiguration()
         {
-            this.HasOptional(x => x.Nickname).WithOptionalPrincipal(x => x.Author);
+            this.HasOptional(x => x.Nickname).WithRequired(x => x.Author);
         }
     }
 }
