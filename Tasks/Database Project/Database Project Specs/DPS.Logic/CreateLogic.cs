@@ -5,9 +5,6 @@ using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using DPS.Logic.DatabaseUtilities;
 using System.Web.Script.Serialization;
 
@@ -65,19 +62,19 @@ namespace DPS.Logic
 
                         foreach (var item in obj.Books)
                         {
-                            /*r genres = new List<Genre>();
+                            var genres = new List<Genre>();
                             foreach (var genre in item.Genres)
                             {
-                                Console.WriteLine(item.Genres);
                                 genres.Add(dbContext.Genres.Find((int)genre.GenreId));
-                            }*/
+                            }
 
                             Book newBook = new Book
                             {
                                 Title = item.Title,
                                 Year = item.Year,
                                 AuthorNicknameId = item.AuthorNicknameId,
-                                Author = dbContext.Nicknames.Find((int)item.AuthorNicknameId)
+                                Author = dbContext.Nicknames.Find((int)item.AuthorNicknameId),
+                                Genres = genres
                             };
 
                             dbContext.Books.Add(newBook);

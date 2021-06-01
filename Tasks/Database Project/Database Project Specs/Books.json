@@ -1,11 +1,51 @@
 [
   {
     "Id": 1,
-    "FirstName": "William",
-    "LastName": "Shakespeare",
-    "Country": "England",
-    "Nickname": null
+    "Title": "Hamlet",
+    "Year": 1970,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 2,
+    "Title": "Troilus and Cressida",
+    "Year": 1800,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 3,
+    "Title": "Hamlet",
+    "Year": 1970,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 4,
+    "Title": "Troilus and Cressida",
+    "Year": 1800,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 5,
+    "Title": "Hamlet",
+    "Year": 1970,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 6,
+    "Title": "Troilus and Cressida",
+    "Year": 1800,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
   }
 ]
-
 
