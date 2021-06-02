@@ -45,6 +45,7 @@ namespace DPS.Logic
 
                         case "AuthorRealNames":
                             var authorList = dbContext.Authors.SqlQuery("Select * from AuthorRealNames").ToList<AuthorRealName>();
+
                             AddToJsonFile(authorList);
                             break;
 
@@ -79,19 +80,20 @@ namespace DPS.Logic
                 w.WriteLine("[");
             }
 
-            using (StreamWriter w = new StreamWriter("../../../" + path + ".json", true))
+            using (StreamWriter writer = new StreamWriter("../../../" + path + ".json", true))
             {
                 for (int i = 0; i < list.Count; i++)
                 {
                     var json = serializer.Serialize(list[i]);
-                    w.WriteLine(json);
+                    writer.WriteLine(json);
                     if (i < list.Count - 1)
                     {
-                        w.WriteLine(",");
+                        writer.WriteLine(",");
+
                     }
                 }
 
-                w.WriteLine("]");
+                writer.WriteLine("]");
             }
         }
     }

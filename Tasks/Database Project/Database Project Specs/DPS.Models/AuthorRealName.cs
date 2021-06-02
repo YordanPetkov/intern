@@ -20,6 +20,7 @@ namespace DPS.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Country { get; set; }
+        public int NicknameId { get; set; }
         public AuthorNickname Nickname { get; set; }
     }
 }

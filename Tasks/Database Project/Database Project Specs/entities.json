@@ -1,18 +1,18 @@
 {
-  "Genres": [
+  "benres": [
     {
       "Name": "Fantasty"
     }
   ],
 
-  "Nicknames": [
+  "nicknames": [
 
     {
-      "Name": "William Shakespeare"
+      "Name": "Ivan Vazov"
     }
   ],
 
-  "Books": [
+  "books": [
     {
       "Title": "Hamlet",
       "Year": "1970",
@@ -26,11 +26,11 @@
     }
   ],
 
-  "Authors": [
+  "authors": [
     {
       "Firstname": "William",
       "Lastname": "Shakespeare",
-      "AuthorNicknameId": "1",
+      "NicknameId": "1",
       "Country": "England"
     }
   ]

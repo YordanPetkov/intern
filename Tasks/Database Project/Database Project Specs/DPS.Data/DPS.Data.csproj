@@ -85,6 +85,10 @@
     <Compile Include="Migrations\202105181128345_Added foreign key to Author..designer.cs">
       <DependentUpon>202105181128345_Added foreign key to Author..cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202106021343484_Added NicknameId property to AuthorRealNames.cs" />
+    <Compile Include="Migrations\202106021343484_Added NicknameId property to AuthorRealNames.designer.cs">
+      <DependentUpon>202106021343484_Added NicknameId property to AuthorRealNames.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -122,6 +126,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202105181128345_Added foreign key to Author..resx">
       <DependentUpon>202105181128345_Added foreign key to Author..cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202106021343484_Added NicknameId property to AuthorRealNames.resx">
+      <DependentUpon>202106021343484_Added NicknameId property to AuthorRealNames.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

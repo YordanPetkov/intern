@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="AuthorRealName.cs" />
     <Compile Include="Book.cs" />
+    <Compile Include="CreationModel.cs" />
     <Compile Include="Genre.cs" />
     <Compile Include="AuthorNickname.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

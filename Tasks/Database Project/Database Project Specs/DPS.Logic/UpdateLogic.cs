@@ -25,7 +25,6 @@ namespace DPS.Logic
                     List<string> tableNames = DatabaseLogic.GetTableNames();
                     tableNames.RemoveAll(p => p == "__MigrationHistory");
 
-
                     Console.WriteLine("Which table you want to update : (write the id of the table)");
                     int tableId = MenuLogic.SelectTable(tableNames);
 
