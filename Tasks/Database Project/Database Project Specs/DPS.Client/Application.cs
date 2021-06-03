@@ -26,11 +26,11 @@ namespace DPS.Client
         private void PrintCommands()
         {
             Console.WriteLine("If you want to create a new record to our library - 'create'");
-            Console.WriteLine("If you want to check some of our records in library - 'read'");
+            Console.WriteLine("If you want to check some of our records in our library - 'read'");
             Console.WriteLine("If you want to update the information about any book in our library - 'update'");
             Console.WriteLine("If you want to delete any information in our library - 'delete'");
             Console.WriteLine("If you want see all commands - 'help'");
-            Console.WriteLine("If you want to exit from application - 'exit'");
+            Console.WriteLine("If you want to quit the application - 'exit'");
             Console.WriteLine("----------------------------------------------------------------------------");
         }
 

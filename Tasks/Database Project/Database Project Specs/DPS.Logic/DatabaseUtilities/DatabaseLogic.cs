@@ -1,9 +1,6 @@
 ﻿using DPS.Data;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DPS.Logic.DatabaseUtilities
 {
@@ -15,7 +12,6 @@ namespace DPS.Logic.DatabaseUtilities
             using (var dbContext = new LibraryDbContext())
             {
                 tableNames = dbContext.Database.SqlQuery<string>("SELECT name FROM sys.tables ORDER BY name").ToList();
-
             }
 
             return tableNames;

@@ -1,9 +1,6 @@
 ﻿using DPS.Logic.DatabaseUtilities;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DPS.Logic
 {
@@ -54,6 +51,7 @@ namespace DPS.Logic
             for (int i = 0; i < columnNames.Count; i++)
             {
                 Console.WriteLine(i + " : " + columnNames[i]);
+
             }
 
             int columnId = int.Parse(Console.ReadLine());
@@ -70,7 +68,6 @@ namespace DPS.Logic
             List<string> columnNames = DatabaseLogic.GetColumnNames(tableNames[tableId]);
             Console.WriteLine($"Write the new value of {columnNames[columnId]} : ");
             string newValue = Console.ReadLine();
-
 
             return newValue.Replace("\'", "\"");
         }

@@ -1,37 +1,53 @@
 {
-  "benres": [
+  "genres": [
     {
-      "Name": "Fantasty"
+      "Name": "Tragic"
+    },
+    {
+      "Name": "Crime"
+    },
+    {
+      "Name": "Fantasy"
+    },
+    {
+      "Name": "Drama"
+    },
+    {
+      "Name": "Tragicomedy"
+    },
+    {
+      "Name": "Crime Fiction"
+    },
+    {
+      "Name": "Romance"
+    },
+    {
+      "Name": "Dystopian"
+    },
+    {
+      "Name": "Contemporary"
     }
   ],
 
   "nicknames": [
-
-    {
-      "Name": "Ivan Vazov"
-    }
   ],
 
   "books": [
     {
-      "Title": "Hamlet",
+      "Title": "Sherlock Holmes",
       "Year": "1970",
-      "AuthorNicknameId": "1"
-    },
-
-    {
-      "Title": "Troilus and Cressida",
-      "Year": "1800",
-      "AuthorNicknameId": "1"
+      "AuthorNicknameId": "1",
+      "Genres": [
+        {
+          "Id": "4"
+        },
+        {
+          "Id": "8"
+        }
+      ]
     }
   ],
 
   "authors": [
-    {
-      "Firstname": "William",
-      "Lastname": "Shakespeare",
-      "NicknameId": "1",
-      "Country": "England"
-    }
   ]
 }

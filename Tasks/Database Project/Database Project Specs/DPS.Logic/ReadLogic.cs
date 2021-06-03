@@ -5,8 +5,6 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Web.Script.Serialization;
 
 namespace DPS.Logic
@@ -34,23 +32,22 @@ namespace DPS.Logic
                     switch (tableNames[tableId])
                     {
                         case "Books":
-                            var bookList = dbContext.Books.SqlQuery("Select * from Books").ToList<Book>();
+                            var bookList = dbContext.Books.ToList<Book>();
                             AddToJsonFile(bookList);
                             break;
 
                         case "AuthorNicknames":
-                            var nicknameList = dbContext.Nicknames.SqlQuery("Select * from AuthorNicknames").ToList<AuthorNickname>();
+                            var nicknameList = dbContext.Nicknames.ToList<AuthorNickname>();
                             AddToJsonFile(nicknameList);
                             break;
 
                         case "AuthorRealNames":
-                            var authorList = dbContext.Authors.SqlQuery("Select * from AuthorRealNames").ToList<AuthorRealName>();
-
+                            var authorList = dbContext.Authors.ToList<AuthorRealName>();
                             AddToJsonFile(authorList);
                             break;
 
                         case "Genres":
-                            var genreList = dbContext.Genres.SqlQuery("Select * from Genres").ToList<Genre>();
+                            var genreList = dbContext.Genres.ToList<Genre>();
                             AddToJsonFile(genreList);
                             break;
 
@@ -66,7 +63,7 @@ namespace DPS.Logic
             }
         }
 
-        private void AddToJsonFile<T>(List<T> list) where T : class
+        private void AddToJsonFile<T>(List<T> modelList) where T : class
         {
             var serializer = new JavaScriptSerializer();
             Console.WriteLine("Write a name for the file :");
@@ -75,21 +72,17 @@ namespace DPS.Logic
             path = path.Replace('\\', '_');
             path = path.Replace('.', '_');
 
-            using (StreamWriter w = new StreamWriter("../../../" + path + ".json"))
+            using (StreamWriter writer = new StreamWriter("../../../" + path + ".json"))
             {
-                w.WriteLine("[");
-            }
+                writer.WriteLine("[");
 
-            using (StreamWriter writer = new StreamWriter("../../../" + path + ".json", true))
-            {
-                for (int i = 0; i < list.Count; i++)
+                for (int i = 0; i < modelList.Count; i++)
                 {
-                    var json = serializer.Serialize(list[i]);
+                    var json = serializer.Serialize(modelList[i]);
                     writer.WriteLine(json);
-                    if (i < list.Count - 1)
+                    if (i < modelList.Count - 1)
                     {
                         writer.WriteLine(",");
-
                     }
                 }
 
