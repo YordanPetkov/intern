@@ -1,19 +1,75 @@
 [
-{"Id":1,"Title":"Hamlet","Year":1970,"AuthorNicknameId":1,"Author":null,"Genres":[]}
-,
-{"Id":2,"Title":"Troilus and Cressida","Year":1800,"AuthorNicknameId":1,"Author":null,"Genres":[]}
-,
-{"Id":3,"Title":"Hamlet","Year":1970,"AuthorNicknameId":1,"Author":null,"Genres":[]}
-,
-{"Id":4,"Title":"Troilus and Cressida","Year":1800,"AuthorNicknameId":1,"Author":null,"Genres":[]}
-,
-{"Id":5,"Title":"Hamlet","Year":1970,"AuthorNicknameId":1,"Author":null,"Genres":[]}
-,
-{"Id":6,"Title":"Troilus and Cressida","Year":1800,"AuthorNicknameId":1,"Author":null,"Genres":[]}
-,
-{"Id":7,"Title":"Na Proshtavane","Year":1868,"AuthorNicknameId":3,"Author":null,"Genres":[]}
-,
-{"Id":8,"Title":"Hamlet","Year":1970,"AuthorNicknameId":1,"Author":null,"Genres":[]}
-,
-{"Id":9,"Title":"Sherlock Holmes","Year":1970,"AuthorNicknameId":1,"Author":null,"Genres":[]}
+  {
+    "Id": 1,
+    "Title": "Hamlet",
+    "Year": 1970,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 2,
+    "Title": "Troilus and Cressida",
+    "Year": 1800,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 3,
+    "Title": "Hamlet",
+    "Year": 1970,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 4,
+    "Title": "Troilus and Cressida",
+    "Year": 1800,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 5,
+    "Title": "Hamlet",
+    "Year": 1970,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 6,
+    "Title": "Troilus and Cressida",
+    "Year": 1800,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 7,
+    "Title": "Na Proshtavane",
+    "Year": 1868,
+    "AuthorNicknameId": 3,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 8,
+    "Title": "Hamlet",
+    "Year": 1970,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  },
+  {
+    "Id": 9,
+    "Title": "Sherlock Holmes",
+    "Year": 1970,
+    "AuthorNicknameId": 1,
+    "Author": null,
+    "Genres": []
+  }
 ]
+
