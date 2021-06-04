@@ -51,7 +51,6 @@ namespace DPS.Logic
             for (int i = 0; i < columnNames.Count; i++)
             {
                 Console.WriteLine(i + " : " + columnNames[i]);
-
             }
 
             int columnId = int.Parse(Console.ReadLine());

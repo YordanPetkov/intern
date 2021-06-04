@@ -32,6 +32,8 @@ namespace DPS.Logic
                     string newValue = MenuLogic.GetNewValue(tableNames, tableId, columnId);
 
                     DatabaseLogic.UpdateById(tableNames[tableId], columnNames[columnId], rowId, newValue);
+
+                    Console.WriteLine("The updation is done.");
                 }
 
                 catch (Exception e)

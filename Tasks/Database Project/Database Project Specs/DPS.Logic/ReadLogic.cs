@@ -33,16 +33,36 @@ namespace DPS.Logic
                     {
                         case "Books":
                             var bookList = dbContext.Books.ToList<Book>();
+
+                            foreach (var book in bookList)
+                            {
+                                book.Author = new AuthorNickname
+                                {
+                                    Id = dbContext.Nicknames.Where(x => x.Id == book.AuthorNicknameId).Select(o => o.Id).FirstOrDefault(),
+                                    Name = dbContext.Nicknames.Where(x => x.Id == book.AuthorNicknameId).Select(o => o.Name).FirstOrDefault()
+                                };
+                            }
+
                             AddToJsonFile(bookList);
                             break;
 
                         case "AuthorNicknames":
                             var nicknameList = dbContext.Nicknames.ToList<AuthorNickname>();
+
                             AddToJsonFile(nicknameList);
                             break;
 
                         case "AuthorRealNames":
                             var authorList = dbContext.Authors.ToList<AuthorRealName>();
+                            foreach (var author in authorList)
+                            {
+                                author.Nickname = new AuthorNickname 
+                                { 
+                                    Id = dbContext.Nicknames.Where(x => x.Id == author.NicknameId).Select(o => o.Id).FirstOrDefault(),
+                                    Name = dbContext.Nicknames.Where(x => x.Id == author.NicknameId).Select(o => o.Name).FirstOrDefault()
+                                };
+                            }
+
                             AddToJsonFile(authorList);
                             break;
 
@@ -52,8 +72,10 @@ namespace DPS.Logic
                             break;
 
                         default:
-                            throw new Exception("Undefined table.");
+                            throw new Exception("Undefined table!");
                     }
+
+                    Console.WriteLine("Reading is done.");
                 }
 
                 catch (Exception e)
@@ -67,6 +89,7 @@ namespace DPS.Logic
         {
             var serializer = new JavaScriptSerializer();
             Console.WriteLine("Write a name for the file :");
+
             var path = Console.ReadLine();
             path = path.Replace('/', '_');
             path = path.Replace('\\', '_');
@@ -80,6 +103,7 @@ namespace DPS.Logic
                 {
                     var json = serializer.Serialize(modelList[i]);
                     writer.WriteLine(json);
+
                     if (i < modelList.Count - 1)
                     {
                         writer.WriteLine(",");

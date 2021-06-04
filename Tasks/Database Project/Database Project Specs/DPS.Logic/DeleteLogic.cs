@@ -27,6 +27,8 @@ namespace DPS.Logic
                     int rowId = MenuLogic.SelectRow(tableNames, tableId);
 
                     DatabaseLogic.Delete(tableNames[tableId], rowId);
+
+                    Console.WriteLine("Deletion is done.");
                 }
 
                 catch (Exception e)

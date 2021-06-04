@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "William",
+    "LastName": "Shakespeare",
+    "Country": "England",
+    "NicknameId": 1,
+    "Nickname": {
+      "Id": 1,
+      "Name": "William Shakespeare",
+      "Author": null,
+      "Books": []
+    }
+  },
+  {
+    "Id": 2,
+    "FirstName": "Ivan",
+    "LastName": "Vazov",
+    "Country": "Bulgaria",
+    "NicknameId": 2,
+    "Nickname": {
+      "Id": 2,
+      "Name": "Ivan Vazov",
+      "Author": null,
+      "Books": []
+    }
+  },
+  {
+    "Id": 3,
+    "FirstName": "Hristo",
+    "LastName": "Botev",
+    "Country": "Bulgaria",
+    "NicknameId": 3,
+    "Nickname": {
+      "Id": 3,
+      "Name": "Hristo Botev",
+      "Author": null,
+      "Books": []
+    }
+  }
+]
+

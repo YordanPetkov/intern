@@ -1,22 +1,31 @@
 [
   {
     "Id": 1,
-    "Name": "Tragic",
-    "Books": []
+    "Name": "Fantasty",
+    "Books": [
+      {
+        "Id": 0,
+        "Title": "TestBook",
+        "Year": 0,
+        "AuthorNicknameId": 0,
+        "Author": null,
+        "Genres": []
+      }
+    ]
   },
   {
     "Id": 2,
-    "Name": "Fantasy",
+    "Name": "Mistery",
     "Books": []
   },
   {
     "Id": 3,
-    "Name": "Crime",
+    "Name": "Tragic",
     "Books": []
   },
   {
     "Id": 4,
-    "Name": "Fantasty",
+    "Name": "Crime",
     "Books": []
   },
   {
@@ -41,21 +50,16 @@
   },
   {
     "Id": 9,
-    "Name": "Mystery",
-    "Books": []
-  },
-  {
-    "Id": 10,
     "Name": "Romance",
     "Books": []
   },
   {
-    "Id": 11,
+    "Id": 10,
     "Name": "Dystopian",
     "Books": []
   },
   {
-    "Id": 12,
+    "Id": 11,
     "Name": "Contemporary",
     "Books": []
   }

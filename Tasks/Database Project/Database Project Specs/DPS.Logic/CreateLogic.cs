@@ -37,7 +37,10 @@ namespace DPS.Logic
                         {
                             foreach (var genre in creationModel.genres)
                             {
-                                dbContext.Genres.Add(new Genre { Name = genre.Name });
+                                dbContext.Genres.Add(new Genre 
+                                {
+                                    Name = genre.Name 
+                                });
                             }
                         }
                         
@@ -45,7 +48,10 @@ namespace DPS.Logic
                         {
                             foreach (var nickname in creationModel.nicknames)
                             {
-                                dbContext.Nicknames.Add(new AuthorNickname { Name = nickname.Name });
+                                dbContext.Nicknames.Add(new AuthorNickname 
+                                {
+                                    Name = nickname.Name 
+                                });
                             }
                         }
                         
@@ -69,11 +75,10 @@ namespace DPS.Logic
                             foreach (var book in creationModel.books)
                             {
                                 var genres = new List<Genre>();
-                                 foreach (var genre in book.Genres)
-                                 {
-                                     genres.Add(dbContext.Genres.Find((int)genre.Id));
-
-                                 }
+                                foreach (var genre in book.Genres)
+                                {
+                                    genres.Add(dbContext.Genres.Find((int)genre.Id));
+                                }
 
                                 Book newBook = new Book
                                 {
@@ -90,6 +95,8 @@ namespace DPS.Logic
 
                         dbContext.SaveChanges();
                     }
+
+                    Console.WriteLine("Creation is finished.");
                 }
 
                 catch (Exception e)
