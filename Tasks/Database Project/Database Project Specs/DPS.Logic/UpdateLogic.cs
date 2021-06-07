@@ -19,11 +19,11 @@ namespace DPS.Logic
                 try
                 {
                     List<string> tableNames = DatabaseLogic.GetTableNames();
-                    tableNames.RemoveAll(p => p == "__MigrationHistory");
 
                     Console.WriteLine("Which table you want to update : (write the id of the table)");
                     int tableId = MenuLogic.SelectTable(tableNames);
 
+                    Console.WriteLine($"Which row you want to update ? {DatabaseLogic.GetMinId(tableNames[tableId])} : {DatabaseLogic.GetMaxId(tableNames[tableId])}");
                     int rowId = MenuLogic.SelectRow(tableNames, tableId);
 
                     List<string> columnNames = DatabaseLogic.GetColumnNames(tableNames[tableId]);

@@ -2,16 +2,7 @@
   {
     "Id": 1,
     "Name": "Fantasty",
-    "Books": [
-      {
-        "Id": 0,
-        "Title": "TestBook",
-        "Year": 0,
-        "AuthorNicknameId": 0,
-        "Author": null,
-        "Genres": []
-      }
-    ]
+    "Books": []
   },
   {
     "Id": 2,

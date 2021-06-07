@@ -23,7 +23,6 @@ namespace DPS.Logic
                 try
                 {
                     List<string> tableNames = DatabaseLogic.GetTableNames();
-                    tableNames.RemoveAll(p => p == "__MigrationHistory");
 
                     Console.WriteLine("From which table you want to read : (write the id of the table)");
                     int tableId = MenuLogic.SelectTable(tableNames);

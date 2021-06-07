@@ -39,7 +39,7 @@ namespace DPS.Logic
                             {
                                 dbContext.Genres.Add(new Genre 
                                 {
-                                    Name = genre.Name 
+                                    Name = genre.Name
                                 });
                             }
                         }
@@ -50,7 +50,7 @@ namespace DPS.Logic
                             {
                                 dbContext.Nicknames.Add(new AuthorNickname 
                                 {
-                                    Name = nickname.Name 
+                                    Name = nickname.Name
                                 });
                             }
                         }

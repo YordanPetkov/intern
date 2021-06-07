@@ -8,12 +8,12 @@ namespace DPS.Logic.DatabaseUtilities
     {
         public static List<string> GetTableNames()
         {
-            List<string> tableNames;
-            using (var dbContext = new LibraryDbContext())
-            {
-                tableNames = dbContext.Database.SqlQuery<string>("SELECT name FROM sys.tables ORDER BY name").ToList();
-            }
+            List<string> tableNames = new List<string>();
 
+            tableNames.Add("AuthorNicknames");
+            tableNames.Add("AuthorRealNames");
+            tableNames.Add("Books");
+            tableNames.Add("Genres");
             return tableNames;
         }
 

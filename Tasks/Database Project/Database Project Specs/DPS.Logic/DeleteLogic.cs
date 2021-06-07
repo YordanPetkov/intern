@@ -20,10 +20,9 @@ namespace DPS.Logic
                 {
                     List<string> tableNames = DatabaseLogic.GetTableNames();
 
-                    tableNames.RemoveAll(p => p == "__MigrationHistory");
-
                     int tableId = MenuLogic.SelectTable(tableNames);
 
+                    Console.WriteLine($"Which row you want to delete ? {DatabaseLogic.GetMinId(tableNames[tableId])} : {DatabaseLogic.GetMaxId(tableNames[tableId])}");
                     int rowId = MenuLogic.SelectRow(tableNames, tableId);
 
                     DatabaseLogic.Delete(tableNames[tableId], rowId);

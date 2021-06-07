@@ -26,16 +26,13 @@ namespace DPS.Logic
 
         public static int SelectRow(List<string> tableNames, int tableId)
         {
-
             if (1 > DatabaseLogic.GetMaxId(tableNames[tableId]))
             {
                 throw (new Exception($"Table {tableNames[tableId]} is empty."));
             }
 
-            Console.WriteLine($"Which row you want to update ? {DatabaseLogic.GetMinId(tableNames[tableId])} : {DatabaseLogic.GetMaxId(tableNames[tableId])}");
-
             int rowId = int.Parse(Console.ReadLine());
-            if (tableId < DatabaseLogic.GetMinId(tableNames[tableId]) || tableId > DatabaseLogic.GetMaxId(tableNames[tableId]))
+            if (rowId < DatabaseLogic.GetMinId(tableNames[tableId]) || rowId > DatabaseLogic.GetMaxId(tableNames[tableId]))
             {
                 throw (new Exception("Invalid row id!"));
             }

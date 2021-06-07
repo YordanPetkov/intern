@@ -1,81 +1,9 @@
 [
-  {
-    "Id": 4,
-    "Title": "Troilus and Cressida",
-    "Year": 1800,
-    "AuthorNicknameId": 1,
-    "Author": {
-      "Id": 1,
-      "Name": "William Shakespeare",
-      "Author": null,
-      "Books": []
-    },
-    "Genres": []
-  },
-  {
-    "Id": 5,
-    "Title": "Hamlet",
-    "Year": 1970,
-    "AuthorNicknameId": 1,
-    "Author": {
-      "Id": 1,
-      "Name": "William Shakespeare",
-      "Author": null,
-      "Books": []
-    },
-    "Genres": []
-  },
-  {
-    "Id": 6,
-    "Title": "Troilus and Cressida",
-    "Year": 1800,
-    "AuthorNicknameId": 1,
-    "Author": {
-      "Id": 1,
-      "Name": "William Shakespeare",
-      "Author": null,
-      "Books": []
-    },
-    "Genres": []
-  },
-  {
-    "Id": 7,
-    "Title": "Na Proshtavane",
-    "Year": 1868,
-    "AuthorNicknameId": 3,
-    "Author": {
-      "Id": 3,
-      "Name": "Hristo Botev",
-      "Author": null,
-      "Books": []
-    },
-    "Genres": []
-  },
-  {
-    "Id": 8,
-    "Title": "Hamlet",
-    "Year": 1970,
-    "AuthorNicknameId": 1,
-    "Author": {
-      "Id": 1,
-      "Name": "William Shakespeare",
-      "Author": null,
-      "Books": []
-    },
-    "Genres": []
-  },
-  {
-    "Id": 9,
-    "Title": "Sherlock Holmes",
-    "Year": 1887,
-    "AuthorNicknameId": 1,
-    "Author": {
-      "Id": 1,
-      "Name": "William Shakespeare",
-      "Author": null,
-      "Books": []
-    },
-    "Genres": []
-  }
+{"Id":5,"Title":"Hamlet","Year":1970,"AuthorNicknameId":1,"Author":{"Id":1,"Name":"William Shakespeare","Author":null,"Books":[]},"Genres":[]}
+,
+{"Id":6,"Title":"Troilus and Cressida","Year":1800,"AuthorNicknameId":1,"Author":{"Id":1,"Name":"William Shakespeare","Author":null,"Books":[]},"Genres":[]}
+,
+{"Id":7,"Title":"Na Proshtavane","Year":1868,"AuthorNicknameId":3,"Author":{"Id":3,"Name":"Hristo Botev","Author":null,"Books":[]},"Genres":[]}
+,
+{"Id":9,"Title":"Sherlock Holmes","Year":1887,"AuthorNicknameId":3,"Author":{"Id":3,"Name":"Hristo Botev","Author":null,"Books":[]},"Genres":[]}
 ]
-
