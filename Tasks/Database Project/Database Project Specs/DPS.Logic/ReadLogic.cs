@@ -32,6 +32,8 @@ namespace DPS.Logic
                     {
                         case "Books":
                             var bookList = dbContext.Books.ToList<Book>();
+                            //List<Genre>[] genres = new List<Genre>[bookList.Count];
+                            //int index = 0;
 
                             foreach (var book in bookList)
                             {
@@ -40,8 +42,23 @@ namespace DPS.Logic
                                     Id = dbContext.Nicknames.Where(x => x.Id == book.AuthorNicknameId).Select(o => o.Id).FirstOrDefault(),
                                     Name = dbContext.Nicknames.Where(x => x.Id == book.AuthorNicknameId).Select(o => o.Name).FirstOrDefault()
                                 };
+
+                                /*List<int> genreIds = dbContext.Database.SqlQuery<int>($"SELECT Genre_Id FROM GenreBooks WHERE Book_Id = {book.Id}").ToList();
+                                //var genreIds = dbContext.Books.Select(x => new { x.Id }).ToArray();
+
+                                foreach (var id in genreIds)
+                                {
+                                    genres[index].Add(new Genre
+                                    {
+                                        Id = id,
+                                        Name = dbContext.Genres.Find(id).Name
+                                    });
+                                }
+
+                                index++;*/
                             }
 
+                            //AddToJsonFile(bookList, true, genres);
                             AddToJsonFile(bookList);
                             break;
 
@@ -55,8 +72,8 @@ namespace DPS.Logic
                             var authorList = dbContext.Authors.ToList<AuthorRealName>();
                             foreach (var author in authorList)
                             {
-                                author.Nickname = new AuthorNickname 
-                                { 
+                                author.Nickname = new AuthorNickname
+                                {
                                     Id = dbContext.Nicknames.Where(x => x.Id == author.NicknameId).Select(o => o.Id).FirstOrDefault(),
                                     Name = dbContext.Nicknames.Where(x => x.Id == author.NicknameId).Select(o => o.Name).FirstOrDefault()
                                 };
@@ -84,7 +101,7 @@ namespace DPS.Logic
             }
         }
 
-        private void AddToJsonFile<T>(List<T> modelList) where T : class
+        private void AddToJsonFile<T>(List<T> modelList, bool isBook = false, List<Genre>[] genres = null) where T : class
         {
             var serializer = new JavaScriptSerializer();
             Console.WriteLine("Write a name for the file :");
@@ -101,8 +118,14 @@ namespace DPS.Logic
                 for (int i = 0; i < modelList.Count; i++)
                 {
                     var json = serializer.Serialize(modelList[i]);
-                    writer.WriteLine(json);
 
+                    if (isBook)
+                    {
+                        var jsonGenres = serializer.Serialize(genres[i]);
+                        json.Insert(json.Length - 2, jsonGenres);
+                    }
+
+                    writer.WriteLine(json);
                     if (i < modelList.Count - 1)
                     {
                         writer.WriteLine(",");
