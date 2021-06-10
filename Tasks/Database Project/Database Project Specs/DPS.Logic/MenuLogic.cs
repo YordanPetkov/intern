@@ -8,7 +8,6 @@ namespace DPS.Logic
     {
         public static int SelectTable(List<string> tableNames)
         {
-
             for (int i = 0; i < tableNames.Count; i++)
             {
                 Console.WriteLine(i + " : " + tableNames[i]);

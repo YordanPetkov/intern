@@ -1,21 +1,7 @@
 [
-  {
-    "Id": 1,
-    "Name": "William Shakespeare",
-    "Author": null,
-    "Books": []
-  },
-  {
-    "Id": 2,
-    "Name": "Ivan Vazov",
-    "Author": null,
-    "Books": []
-  },
-  {
-    "Id": 3,
-    "Name": "Hristo Botev",
-    "Author": null,
-    "Books": []
-  }
+{"Id":1,"Name":"William Shakespeare","Author":null,"Books":[]}
+,
+{"Id":2,"Name":"Ivan Vazov","Author":null,"Books":[]}
+,
+{"Id":3,"Name":"Hristo Botev","Author":null,"Books":[]}
 ]
-

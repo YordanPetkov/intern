@@ -32,8 +32,6 @@ namespace DPS.Logic
                     {
                         case "Books":
                             var bookList = dbContext.Books.ToList<Book>();
-                            //List<Genre>[] genres = new List<Genre>[bookList.Count];
-                            //int index = 0;
 
                             foreach (var book in bookList)
                             {
@@ -42,23 +40,8 @@ namespace DPS.Logic
                                     Id = dbContext.Nicknames.Where(x => x.Id == book.AuthorNicknameId).Select(o => o.Id).FirstOrDefault(),
                                     Name = dbContext.Nicknames.Where(x => x.Id == book.AuthorNicknameId).Select(o => o.Name).FirstOrDefault()
                                 };
-
-                                /*List<int> genreIds = dbContext.Database.SqlQuery<int>($"SELECT Genre_Id FROM GenreBooks WHERE Book_Id = {book.Id}").ToList();
-                                //var genreIds = dbContext.Books.Select(x => new { x.Id }).ToArray();
-
-                                foreach (var id in genreIds)
-                                {
-                                    genres[index].Add(new Genre
-                                    {
-                                        Id = id,
-                                        Name = dbContext.Genres.Find(id).Name
-                                    });
-                                }
-
-                                index++;*/
                             }
 
-                            //AddToJsonFile(bookList, true, genres);
                             AddToJsonFile(bookList);
                             break;
 
@@ -129,6 +112,7 @@ namespace DPS.Logic
                     if (i < modelList.Count - 1)
                     {
                         writer.WriteLine(",");
+
                     }
                 }
 
