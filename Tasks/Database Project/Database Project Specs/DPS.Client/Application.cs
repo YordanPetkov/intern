@@ -1,5 +1,6 @@
 ﻿using DPS.Data;
 using DPS.Logic;
+using DPS.Logic.DatabaseUtilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -45,19 +46,19 @@ namespace DPS.Client
                 switch (option)
                 {
                     case "create":
-                        createLogic.CreateData();
+                        Create();
                         break;
 
                     case "read":
-                        readLogic.ReadData();
+                        Read();
                         break;
 
                     case "update":
-                        updateLogic.UpdateData();
+                        Update();
                         break;
 
                     case "delete":
-                        deleteLogic.DeleteData();
+                        Delete();
                         break;
 
                     case "help":
@@ -73,5 +74,54 @@ namespace DPS.Client
                 }
             }
         }
+
+        private void Create()
+        {
+            Console.WriteLine("Input the path of the JSON file :");
+            Console.Write("-");
+
+            string path = Console.ReadLine();
+            createLogic.CreateData(path);
+
+            Console.WriteLine("Creation is finished.");
+        }
+
+        private void Update()
+        {
+            List<string> tableNames = DatabaseLogic.GetTableNames();
+
+            Console.WriteLine("Which table you want to update : (write the id of the table)");
+            int tableId = MenuLogic.SelectTable(tableNames);
+
+            Console.WriteLine($"Which row you want to update ? {DatabaseLogic.GetMinId(tableNames[tableId])} : {DatabaseLogic.GetMaxId(tableNames[tableId])}");
+            int rowId = MenuLogic.SelectRow(tableNames, tableId);
+
+            updateLogic.UpdateData(tableNames, tableId, rowId);
+
+            Console.WriteLine("The updation is done.");
+        }
+
+        private void Read()
+        {
+            Console.WriteLine("From which table you want to read : (write the id of the table)");
+
+            readLogic.ReadData();
+
+            Console.WriteLine("Reading is done.");
+        }
+
+        private void Delete()
+        {
+            List<string> tableNames = DatabaseLogic.GetTableNames();
+
+            int tableId = MenuLogic.SelectTable(tableNames);
+
+            Console.WriteLine($"Which row you want to delete ? {DatabaseLogic.GetMinId(tableNames[tableId])} : {DatabaseLogic.GetMaxId(tableNames[tableId])}");
+
+            deleteLogic.DeleteData();
+
+            Console.WriteLine("Deletion is done.");
+        }
     }
+
 }

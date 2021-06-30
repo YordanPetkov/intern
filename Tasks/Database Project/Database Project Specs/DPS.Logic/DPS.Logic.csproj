@@ -56,7 +56,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CreateLogic.cs" />
+    <Compile Include="DatabaseUtilities\AuthorStore.cs" />
+    <Compile Include="DatabaseUtilities\BookStore.cs" />
     <Compile Include="DatabaseUtilities\DatabaseLogic.cs" />
+    <Compile Include="DatabaseUtilities\GenreStore.cs" />
+    <Compile Include="DatabaseUtilities\NicknameStore.cs" />
     <Compile Include="DeleteLogic.cs" />
     <Compile Include="ICreateLogic.cs" />
     <Compile Include="IDeleteLogic.cs" />

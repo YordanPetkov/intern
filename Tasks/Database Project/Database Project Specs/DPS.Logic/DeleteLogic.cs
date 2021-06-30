@@ -22,11 +22,9 @@ namespace DPS.Logic
 
                     int tableId = MenuLogic.SelectTable(tableNames);
 
-                    Console.WriteLine($"Which row you want to delete ? {DatabaseLogic.GetMinId(tableNames[tableId])} : {DatabaseLogic.GetMaxId(tableNames[tableId])}");
                     int rowId = MenuLogic.SelectRow(tableNames, tableId);
 
                     DatabaseLogic.Delete(tableNames[tableId], rowId);
-                    Console.WriteLine("Deletion is done.");
                 }
 
                 catch (Exception e)

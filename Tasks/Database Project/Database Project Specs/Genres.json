@@ -1,58 +1,21 @@
 [
-  {
-    "Id": 1,
-    "Name": "Fantasty",
-    "Books": []
-  },
-  {
-    "Id": 2,
-    "Name": "Mistery",
-    "Books": []
-  },
-  {
-    "Id": 3,
-    "Name": "Tragic",
-    "Books": []
-  },
-  {
-    "Id": 4,
-    "Name": "Crime",
-    "Books": []
-  },
-  {
-    "Id": 5,
-    "Name": "Fantasy",
-    "Books": []
-  },
-  {
-    "Id": 6,
-    "Name": "Drama",
-    "Books": []
-  },
-  {
-    "Id": 7,
-    "Name": "Tragicomedy",
-    "Books": []
-  },
-  {
-    "Id": 8,
-    "Name": "Crime Fiction",
-    "Books": []
-  },
-  {
-    "Id": 9,
-    "Name": "Romance",
-    "Books": []
-  },
-  {
-    "Id": 10,
-    "Name": "Dystopian",
-    "Books": []
-  },
-  {
-    "Id": 11,
-    "Name": "Contemporary",
-    "Books": []
-  }
+{"Id":1,"Name":"Fantasty","Books":[]}
+,
+{"Id":2,"Name":"Mistery","Books":[]}
+,
+{"Id":3,"Name":"Tragic","Books":[]}
+,
+{"Id":4,"Name":"Crime","Books":[]}
+,
+{"Id":5,"Name":"Fantasy","Books":[]}
+,
+{"Id":6,"Name":"Drama","Books":[]}
+,
+{"Id":7,"Name":"Tragicomedy","Books":[]}
+,
+{"Id":8,"Name":"Crime Fiction","Books":[]}
+,
+{"Id":9,"Name":"Romance","Books":[]}
+,
+{"Id":10,"Name":"Dystopian","Books":[]}
 ]
-

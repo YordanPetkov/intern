@@ -13,3 +13,4 @@
         public AuthorNickname[] nicknames { get; set; }
     }
 }
+

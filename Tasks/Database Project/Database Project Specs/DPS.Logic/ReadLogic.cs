@@ -24,7 +24,6 @@ namespace DPS.Logic
                 {
                     List<string> tableNames = DatabaseLogic.GetTableNames();
 
-                    Console.WriteLine("From which table you want to read : (write the id of the table)");
                     int tableId = MenuLogic.SelectTable(tableNames);
 
                     Console.WriteLine(tableNames[tableId]);
@@ -53,6 +52,7 @@ namespace DPS.Logic
 
                         case "AuthorRealNames":
                             var authorList = dbContext.Authors.ToList<AuthorRealName>();
+
                             foreach (var author in authorList)
                             {
                                 author.Nickname = new AuthorNickname
@@ -73,8 +73,6 @@ namespace DPS.Logic
                         default:
                             throw new Exception("Undefined table!");
                     }
-
-                    Console.WriteLine("Reading is done.");
                 }
 
                 catch (Exception e)
@@ -112,7 +110,6 @@ namespace DPS.Logic
                     if (i < modelList.Count - 1)
                     {
                         writer.WriteLine(",");
-
                     }
                 }
 

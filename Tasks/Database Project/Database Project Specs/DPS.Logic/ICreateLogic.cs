@@ -8,6 +8,6 @@ namespace DPS.Logic
 {
     public interface ICreateLogic
     {
-        void CreateData();
+        void CreateData(string path);
     }
 }

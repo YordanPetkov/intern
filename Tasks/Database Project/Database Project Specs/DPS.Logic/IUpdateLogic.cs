@@ -1,7 +1,9 @@
-﻿namespace DPS.Logic
+﻿using System.Collections.Generic;
+
+namespace DPS.Logic
 {
     public interface IUpdateLogic
     {
-        void UpdateData();
+        void UpdateData(List<string> tableNames, int tableId, int rowId);
     }
 }
